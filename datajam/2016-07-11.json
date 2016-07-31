@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/232548862\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/232548862\/",
+                "text": "we'll work in small teams to visualize a new dataset in three hours. we'll announce the actual dataset at the beginning of the event. this jam is tool agnostic, so you can choose to use what you're al",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/232548862\/",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "service_icon": "http:\/\/img2.meetupstatic.com\/img\/44824024200340517185\/m\/ios\/Icon-60pt@2x.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468277648.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1QPREQUC",
+        "text": "<@U1QPREQUC|justingosses> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468289356.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064SRKPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

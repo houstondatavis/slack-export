@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1440553018.000002"
+    }
+]

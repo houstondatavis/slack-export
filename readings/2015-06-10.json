@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1433972908.000002"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U061A5N1G|neerajt> has left the channel",
+        "ts": "1433972919.000003"
+    }
+]

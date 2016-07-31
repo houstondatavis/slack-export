@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "I heard about seaborn and bokeh last year through you, <@U061A5N1G> and they have helped me. Thank you. Thought you'd like this <http:\/\/www.softwebsolutions.com\/wp-content\/uploads\/2016\/05\/Bokeh.png> from <http:\/\/www.smartdatacollective.com\/jagadish\/410273\/why-we-love-these-5-data-visualization-tools-and-you-should-too>",
+        "attachments": [
+            {
+                "fallback": "800x800px image",
+                "image_url": "http:\/\/www.softwebsolutions.com\/wp-content\/uploads\/2016\/05\/Bokeh.png",
+                "image_width": 800,
+                "image_height": 800,
+                "image_bytes": 99274,
+                "from_url": "http:\/\/www.softwebsolutions.com\/wp-content\/uploads\/2016\/05\/Bokeh.png",
+                "id": 1
+            },
+            {
+                "title": "Why we love these 5 data visualization tools (and you should, too!) | SmartData Collective",
+                "title_link": "http:\/\/www.smartdatacollective.com\/jagadish\/410273\/why-we-love-these-5-data-visualization-tools-and-you-should-too",
+                "text": "If you are from the finance, sales, marketing or operations sector, then you must have noticed that massive data is crawling into your everyday life. No doubt it will keep growing with a good reason. The only problem is how you get results out of the data before making any kind of decisions.",
+                "fallback": "Why we love these 5 data visualization tools (and you should, too!) | SmartData Collective",
+                "image_url": "http:\/\/www.smartdatacollective.com\/sites\/smartdatacollective.com\/files\/cq5dam.thumbnail.319.319.png",
+                "from_url": "http:\/\/www.smartdatacollective.com\/jagadish\/410273\/why-we-love-these-5-data-visualization-tools-and-you-should-too",
+                "image_width": 319,
+                "image_height": 212,
+                "image_bytes": 142886,
+                "id": 2
+            }
+        ],
+        "edited": {
+            "user": "U066B6F9R",
+            "ts": "1463665872.000000"
+        },
+        "ts": "1463665813.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A5N1G",
+                    "U061A1R2R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

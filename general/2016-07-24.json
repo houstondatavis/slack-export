@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "just stumbled across this <http:\/\/projects.aljazeera.com\/2013\/syrias-refugees\/index.html#40.674389\/-73.954897>",
+        "attachments": [
+            {
+                "title": "Where would 10.8 million displaced Syrians fit? | Al Jazeera America",
+                "title_link": "http:\/\/projects.aljazeera.com\/2013\/syrias-refugees\/index.html#40.674389\/-73.954897",
+                "text": "Including refugees and those internally displaced, Syria's war has affected over 11 million people. But where what does that number look like? Using Census data, this interactive shows where 10.8 million people live in your area to illustrate the scope of this regional humanitarian crisis.",
+                "fallback": "Where would 10.8 million displaced Syrians fit? | Al Jazeera America",
+                "image_url": "http:\/\/s3-us-west-2.amazonaws.com\/projects.aljazeera.com\/2013\/syrias-refugees\/imgs\/promo\/south-dakota.png",
+                "from_url": "http:\/\/projects.aljazeera.com\/2013\/syrias-refugees\/index.html#40.674389\/-73.954897",
+                "image_width": 284,
+                "image_height": 250,
+                "image_bytes": 137170,
+                "service_icon": "http:\/\/america.aljazeera.com\/etc\/designs\/al-jazeera-america\/img\/Ajam_AppleTouch-Icon_2013_0501.ico",
+                "service_name": "projects.aljazeera.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469386439.000037"
+    }
+]

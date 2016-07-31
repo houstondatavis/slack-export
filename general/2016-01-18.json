@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A5N1G|neerajt> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/neerajt\/F0JN6F58B\/20160118_001932.jpg|Distance chart on a map in Bhopal, Madhya Pradesh, India>",
+        "file": {
+            "id": "F0JN6F58B",
+            "created": 1453118148,
+            "timestamp": 1453118148,
+            "name": "20160118_001932.jpg",
+            "title": "Distance chart on a map in Bhopal, Madhya Pradesh, India",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A5N1G",
+            "editable": false,
+            "size": 1595644,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JN6F58B\/20160118_001932.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JN6F58B\/download\/20160118_001932.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0JN6F58B-d388afa2b9\/20160118_001932_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 1836,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/neerajt\/F0JN6F58B\/20160118_001932.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0JN6F58B-23fa8b7369",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "world_map",
+                    "users": [
+                        "U061A1R2R"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U061A1R2R",
+                        "U066B6F9R"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U061A5N1G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A5N1G|neerajt>",
+        "bot_id": null,
+        "ts": "1453118152.744641"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "<@U0J8SUPPY> I typed it up elsewhere and pulled it together here in Slack's \"Post\" and added descriptions later on.  I usually like to take notes in markdown in Atom with the live markdown previewer",
+        "ts": "1453157578.000002"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "<@U061A5N1G> that distance chart is really cool!  interesting shape...",
+        "ts": "1453157719.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0J8SUPPY",
+        "text": "<@U064SRKPD>: nice. I don't really take notes anymore. Mostly I just save links and tag them in pocket. I'm assuming you keep your notes in a directory and back them up via Dropbox or some other service?",
+        "edited": {
+            "user": "U0J8SUPPY",
+            "ts": "1453165809.000000"
+        },
+        "ts": "1453165787.000004"
+    }
+]

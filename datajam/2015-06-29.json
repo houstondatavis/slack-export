@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U06V0NZ5M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06V0NZ5M|trantran> has joined the channel",
+        "ts": "1435586814.000002"
+    },
+    {
+        "user": "U06VCHHBR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06VCHHBR|dyoakley> has joined the channel",
+        "ts": "1435599693.000003"
+    }
+]

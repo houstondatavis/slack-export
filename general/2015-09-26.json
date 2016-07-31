@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "The description for the next meetup event is posted! <http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/225363078\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/225363078\/",
+                "text": "&amp;nbsp;conversation to 7p then :zap: lightning talks and a speaker to follow Aaron&amp;nbsp;will be presenting two talks: 1. How to use Tableau as a \u201crapid prototyping\u201d tool. Aaron has been using Tableau for m",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/225363078\/",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "id": 1
+            }
+        ],
+        "ts": "1443318547.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "If anyone has a :zap: talk to share, get in touch",
+        "ts": "1443318615.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":100: <@U061A5N1G> ",
+        "ts": "1443318781.000017"
+    }
+]

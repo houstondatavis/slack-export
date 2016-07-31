@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "yes",
+        "ts": "1434889717.000062"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "it was zeroMQ",
+        "ts": "1434889730.000063"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "or lzmq which I think is related ",
+        "ts": "1434889758.000064"
+    }
+]

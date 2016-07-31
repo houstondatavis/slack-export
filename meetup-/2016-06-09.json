@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<https:\/\/twitter.com\/hadleywickham\/status\/741003947939266562>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/hadleywickham|@hadleywickham>: In case you need it, here's a link to the 2nd ed of ggplot2 book: <https:\/\/www.dropbox.com\/s\/0lap7tr7zoryyjk\/ggplot2-book.pdf?dl=0>. I'll take down when its finally published #rstats",
+                "ts": 1465504083,
+                "author_name": "Hadley Wickham",
+                "author_link": "https:\/\/twitter.com\/hadleywickham\/status\/741003947939266562",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/677589103710306304\/m56O6Wgf_normal.jpg",
+                "author_subname": "@hadleywickham",
+                "text": "In case you need it, here's a link to the 2nd ed of ggplot2 book: <https:\/\/www.dropbox.com\/s\/0lap7tr7zoryyjk\/ggplot2-book.pdf?dl=0>. I'll take down when its finally published #rstats",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/hadleywickham\/status\/741003947939266562",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1465529904.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A3E0G",
+                    "U07P7LT9S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "book",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bar_chart",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1LJEMJ66",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LJEMJ66|kwalker> has joined the channel",
+        "ts": "1467035125.000030"
+    },
+    {
+        "user": "U1LMNG29M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LMNG29M|tai.nguyen> has joined the channel",
+        "ts": "1467053313.000031"
+    }
+]

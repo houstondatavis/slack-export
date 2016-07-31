@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Correct! Thanks <@U061A1R2R> happy to see you this morning!",
+        "ts": "1456948545.000022",
+        "reactions": [
+            {
+                "name": "simple_smile",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Here are the slides: <https:\/\/docs.google.com\/presentation\/d\/1Reb32htvKANqkOuovf6yoUgzdkzhXWlpgF7IYVHKsc4\/edit?usp=sharing>",
+        "ts": "1456948553.000023"
+    }
+]

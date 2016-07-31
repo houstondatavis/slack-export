@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U0J8SUPPY|eloy> commented on U064SRKPD's file <https:\/\/houstondatavis.slack.com\/files\/amandashih\/F0JDJ524E\/01_11_2016_Meetup|01\/11\/2016 Meetup>: Did you type this up here during the presentation or did you type it somewhere else.  Curious about what you use when taking notes.",
+        "file": {
+            "id": "F0JDJ524E",
+            "created": 1452742130,
+            "timestamp": 1452742165,
+            "name": "01_11_2016_Meetup",
+            "title": "01\/11\/2016 Meetup",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U064SRKPD",
+            "editable": true,
+            "size": 2774,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JDJ524E\/01_11_2016_Meetup?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JDJ524E\/download\/01_11_2016_Meetup?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/amandashih\/F0JDJ524E\/01_11_2016_Meetup",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0JDJ524E-d63771820c",
+            "preview": "<document><h2>Upcoming Things<\/h2><ul><li><a href=\"http:\/\/www.meetup.com\/houstonr\/\">Houston R Users<\/a> hosting series of intro talks<ul><li tabbing=\"1\"><a href=\"http:\/\/www.meetup.com\/houstonr\/events\/227950530\/\">Intro to KnitR<\/a>, with Neeraj<ul><li tabbing=\"2\">All about a neat tool that let&#39;s you write nicely annotated R code like <a href=\"https:\/\/github.com\/yihui\/knitr-examples\/blob\/master\/001-minimal.Rmd\">this<\/a><\/li><\/ul><\/li><li tabbing=\"1\"><a href=\"http:\/\/www.meetup.com\/houstonr\/events\/227950604\/\">Production code in R<\/a>, with Hadley Wickham<\/li><\/ul><\/li><\/ul><\/document>",
+            "updated": 1452745275,
+            "editor": "U064SRKPD",
+            "last_editor": "U064SRKPD",
+            "state": "inactive",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 2,
+            "reactions": [
+                {
+                    "name": "clap::skin-tone-3",
+                    "users": [
+                        "U061A1R2R",
+                        "U0J8SUPPY",
+                        "U061A5N1G"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "comment": {
+            "id": "Fc0JJ16LKU",
+            "created": 1452876787,
+            "timestamp": 1452876787,
+            "user": "U0J8SUPPY",
+            "is_intro": false,
+            "comment": "Did you type this up here during the presentation or did you type it somewhere else.  Curious about what you use when taking notes.",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1452876787.000018"
+    },
+    {
+        "user": "U061A5N1G",
+        "topic": "Next Data Jam Feb 13th 2016",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U061A5N1G|neerajt> set the channel topic: Next Data Jam Feb 13th 2016",
+        "ts": "1452892116.000022"
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "hello!",
+        "ts": "1433952393.000027"
+    },
+    {
+        "user": "U066B6F9R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066B6F9R|pavanb> has joined the channel",
+        "ts": "1433955435.000028"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Hi. I am interested in binary formats for time series data (100MB+).  XLSB and HDF5 or pandas with python. Maybe something like, <http:\/\/www.randalolson.com\/2014\/06\/28\/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib\/>",
+        "attachments": [
+            {
+                "text": "Randy Olson provides code examples and explanations for a handful of beautiful data visualizations.",
+                "fallback": "Randy Olson provides code examples and explanations for a handful of beautiful data visualizations.",
+                "from_url": "http:\/\/www.randalolson.com\/2014\/06\/28\/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib\/",
+                "id": 1
+            }
+        ],
+        "ts": "1433955948.000029"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Cool article, thanks for sharing! ",
+        "ts": "1433956220.000031"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "We'll be talking a little bit about HDF5 and plotting large datasets in the next meetup, but maybe we should do something more focused on that subject too.",
+        "ts": "1433956268.000032"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "There are some folks who are more expert in the domain of plotting large time series data, we can ask them to share their experiences. Do you have some large time series data you're looking at?",
+        "ts": "1433956377.000033"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Thank you.  100MB CSV files are generated every day (250K rows) , <https:\/\/www.dropbox.com\/sh\/d57qcdkx6087u72\/AACv4MqXDmpVrxN-Qci0Pjida?dl=0> . I am interested in converting it into hdf5 and zooming in\/out of the total real power kilowatt chart against the time column. Then consolidate it for 1 week or 3 weeks. I work with hybrid generators and Ultracapacitors. <https:\/\/docs.google.com\/document\/d\/15a0JRw-UYKN3ALb5Lhn2WeHpHwRJQccLAYM1l2FD6i8\/edit?usp=sharing>",
+        "attachments": [
+            {
+                "service_name": "Dropbox",
+                "title": "Share",
+                "title_link": "https:\/\/www.dropbox.com\/sh\/d57qcdkx6087u72\/AACv4MqXDmpVrxN-Qci0Pjida?dl=0",
+                "text": "Shared with Dropbox",
+                "fallback": "Dropbox: Share",
+                "thumb_url": "https:\/\/cf.dropboxstatic.com\/static\/images\/icons128\/folder_dropbox.png",
+                "from_url": "https:\/\/www.dropbox.com\/sh\/d57qcdkx6087u72\/AACv4MqXDmpVrxN-Qci0Pjida?dl=0",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "id": 1
+            }
+        ],
+        "ts": "1433956861.000034"
+    },
+    {
+        "user": "U066H4AKX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066H4AKX|gregsmith> has joined the channel",
+        "ts": "1433962066.000036"
+    },
+    {
+        "user": "U066MTL5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066MTL5U|colinnlsn> has joined the channel",
+        "ts": "1433967649.000037"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey, Greg",
+        "ts": "1433968576.000038"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey, Colin ",
+        "ts": "1433968581.000039"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Pavan, may I use this as an example in my talk?",
+        "ts": "1433968667.000040"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Hey Neeraj! ",
+        "ts": "1433968846.000041"
+    }
+]

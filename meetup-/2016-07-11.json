@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "Just finished editing my slides for tonight's talk, with about an hour to spare! :ok_hand: ",
+        "ts": "1468275097.000057",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066MTL5U",
+                    "U064SRKPD",
+                    "U1HKBB6MB",
+                    "U061A1R2R",
+                    "U065ETZEC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bar_chart",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "computer",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Hello all!",
+        "ts": "1468278620.000058",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U061A3E0G",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "great talk by ted!",
+        "ts": "1468284170.000059",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U061A3E0G",
+                    "U066MTL5U",
+                    "U064SRKPD",
+                    "U1GGRN36X"
+                ],
+                "count": 4
+            },
+            {
+                "name": "basketball",
+                "users": [
+                    "U065ETZEC",
+                    "U064SRKPD",
+                    "U1GGRN36X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1QPREQUC",
+        "text": "<@U1QPREQUC|justingosses> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468284653.000060"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<@U17KXSB7W> is killing it",
+        "edited": {
+            "user": "U065ETZEC",
+            "ts": "1468285393.000000"
+        },
+        "ts": "1468285194.000061",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064SRKPD",
+                    "U061A5N1G",
+                    "U066MTL5U",
+                    "U065ETZEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U065ETZEC",
+                    "U061A3E0G",
+                    "U066MTL5U",
+                    "U064SRKPD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U065ETZEC",
+                    "U064SRKPD",
+                    "U1GGRN36X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U065ETZEC|jkim> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/jkim\/F1QQG3KRU\/img_20160711_203037377_hdr.jpg|cj>",
+        "file": {
+            "id": "F1QQG3KRU",
+            "created": 1468292814,
+            "timestamp": 1468292814,
+            "name": "IMG_20160711_203037377_HDR.jpg",
+            "title": "cj",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U065ETZEC",
+            "editable": false,
+            "size": 547366,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1QQG3KRU\/img_20160711_203037377_hdr.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1QQG3KRU\/download\/img_20160711_203037377_hdr.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1QQG3KRU-b50fffe07e\/img_20160711_203037377_hdr_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 2560,
+            "original_h": 1920,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/jkim\/F1QQG3KRU\/img_20160711_203037377_hdr.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F1QQG3KRU-6b5b4b1d2f",
+            "channels": [
+                "C061A3E0Y"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U065ETZEC",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U065ETZEC|jkim>",
+        "bot_id": null,
+        "ts": "1468292818.000063"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "is there a link for the slides? ",
+        "ts": "1468293823.000064",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1QPREQUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1QR4LUQP",
+        "text": "<@U1QR4LUQP|ckanu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468299217.000065"
+    }
+]

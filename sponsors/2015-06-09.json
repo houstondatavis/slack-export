@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433868193.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place to share opportunities to collaborate with companies and orgs that like to support the data visualization community in houston",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place to share opportunities to collaborate with companies and orgs that like to support the data visualization community in houston",
+        "ts": "1433868193.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "does you company like data visualization?  encourage them to sponsor the meetup!",
+        "ts": "1433868262.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "...",
+        "ts": "1433868265.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: just reach out to the nice people at Continuum in Austin, to see if they'd like to collaborate next month",
+        "ts": "1433868294.000006"
+    },
+    {
+        "user": "U061A5N1G",
+        "inviter": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1433868300.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/continuum.io\/>",
+        "attachments": [
+            {
+                "text": "Continuum Analytics provides software, training, and consulting for high performance computing and data visualization using Python.",
+                "fallback": "Continuum Analytics provides software, training, and consulting for high performance computing and data visualization using Python.",
+                "from_url": "http:\/\/continuum.io\/",
+                "id": 1
+            }
+        ],
+        "ts": "1433868370.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I've met them before, nice folks",
+        "ts": "1433868549.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Ok, I'll shoot them an email!",
+        "ts": "1433868577.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I'm sure they'll be happy that I'm talking about a number of their open source projects.",
+        "ts": "1433868669.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Oh, just saw that you already emailed them.",
+        "ts": "1433868767.000013"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U061A5N1G|neerajt> has left the channel",
+        "ts": "1433872447.000002"
+    }
+]

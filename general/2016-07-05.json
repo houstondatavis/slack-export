@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/datausa.io\/>",
+        "attachments": [
+            {
+                "title": "Data USA",
+                "title_link": "http:\/\/datausa.io\/",
+                "text": "The most comprehensive visualization of U.S. public data. Data USA provides an open, easy-to-use platform that turns data into knowledge.",
+                "fallback": "Data USA",
+                "image_url": "http:\/\/datausa.io\/static\/img\/share.jpg",
+                "from_url": "http:\/\/datausa.io\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 550292,
+                "service_icon": "http:\/\/datausa.io\/static\/img\/favicon.ico?v=29",
+                "service_name": "datausa.io",
+                "id": 1
+            }
+        ],
+        "ts": "1467748338.000035",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A3E0G",
+                    "U064KUGRJ",
+                    "U061A5N1G",
+                    "U0M8JJYUQ"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

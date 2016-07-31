@@ -1,0 +1,214 @@
+[
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "I've shown this idea to a few of you, but here's a more complete version: <http:\/\/timabram.com\/NPSwebcam\/index.html>\nI'll post the python code soon, but basically it involves scraping images from all 137 national park webcams for an entire day, animating each as a timelapse video, uploading these to a youtube playlist (through the youtube api), and updating a geojson file containing the geocoords of each park cam and its video link that gets read into a leaflet map. The plan is to link these functions and schedule them to run automatically so that the videos update daily.",
+        "ts": "1468250367.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064SRKPD",
+                    "U061A3E0G",
+                    "U065ETZEC",
+                    "U1LB3P8RF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "national_park",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "hey <@U064KUGRJ> cool project! i like the idea, the icons and everything. it doesn\u2019t render correctly for me on Chrome right now though - I\u2019ll post a screenshot",
+        "ts": "1468255234.000003"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "thanks <@U061A5N1G>! i'll take a look at the screenshot - could be the basemap tiles...",
+        "ts": "1468255857.000004"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "The timelapse looks so cool!  Hehe want to do a quick lightning talk on this this evening?",
+        "ts": "1468255955.000005"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "i would but i can't make it tonight :disappointed:",
+        "ts": "1468256021.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Yeah the tiles were all over the place before\u2026 but when I tried reloading to take the screenshot, it renders perfectly. The timelapses are so fun to look at! I need to stop because I can see myself doing this all day.",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1468256052.000000"
+        },
+        "ts": "1468256031.000007"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "Ah man :disappointed:",
+        "ts": "1468256066.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "A couple pcs of feedback: 1) sometimes clicking on the marker doesn\u2019t work, you have to go next to it to get the clicky finger. Not sure what can be done about that. 2) when I move my cursor away from a playing timelapse, the timelapse closes, maybe it should continue playing at least until i click away from it?",
+        "ts": "1468256155.000011"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "Hehe it's also funny how you can tell which cameras need some focus",
+        "ts": "1468256198.000012"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "yea ive noticed that too. I think i can add some extra user interaction events on the mouseover\/click to improve that",
+        "ts": "1468256242.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "can this interface help me track where all the Pokemons are? Asking for a friend",
+        "edited": {
+            "user": "U061A3E0G",
+            "ts": "1468256253.000000"
+        },
+        "ts": "1468256243.000014",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U061A1R2R",
+                    "U065ETZEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<@U064SRKPD>: and some have bug issues :wink: <https:\/\/youtu.be\/jPBStC0FxNg>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "webcam_63",
+                "title_link": "https:\/\/youtu.be\/jPBStC0FxNg",
+                "author_name": "Tim Abram",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC5H10gMiz_EDBiFqJBm-FJg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/jPBStC0FxNg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: webcam_63",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/jPBStC0FxNg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/jPBStC0FxNg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468256316.000016"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "Hahhaha.  Wait so... You write them to videos?  I was thinking you were playing through images in a loop",
+        "ts": "1468256666.000018"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "there's probably a better way, but i have a script that converts the image sequences to .mkv videos, and then uploads to youtube. Then all I have to do is refresh the href youtube link to get updated videos.\nIt's also cool that you can loop embedded youtube videos, so it may not be too obvious",
+        "ts": "1468256897.000019"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "wow",
+        "ts": "1468257197.000020"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "so cool",
+        "ts": "1468257199.000021"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<@U061A3E0G>: absolutely! (and I'm sure you've seen this: <http:\/\/www.bbc.co.uk\/newsbeat\/article\/36757858\/pokemon-go-player-finds-dead-body-in-wyoming-river-while-searching-for-a-pokestop>)",
+        "edited": {
+            "user": "U064KUGRJ",
+            "ts": "1468265685.000000"
+        },
+        "ts": "1468265681.000022",
+        "reactions": [
+            {
+                "name": "anguished",
+                "users": [
+                    "U061A5N1G",
+                    "U065ETZEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Seriously though, amazing project!",
+        "ts": "1468275257.000025"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<@U064KUGRJ>: where is big bend?",
+        "ts": "1468278075.000026"
+    },
+    {
+        "user": "U17KXSB7W",
+        "text": "<@U17KXSB7W|perimosocordiae> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468281448.000027"
+    },
+    {
+        "user": "U1QPREQUC",
+        "text": "<@U1QPREQUC|justingosses> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468289373.000028"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<@U065ETZEC>: i guess they don't host any webcams :disappointed: c'mon texas!",
+        "ts": "1468295604.000029"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Neurons! <http:\/\/observatory.brain-map.org\/visualcoding> cc <@U061A5N1G>",
+        "attachments": [
+            {
+                "title": "Visual Coding Overview",
+                "title_link": "http:\/\/observatory.brain-map.org\/visualcoding",
+                "text": "Allen Brain Observatory's Visual Coding project",
+                "fallback": "Visual Coding Overview",
+                "from_url": "http:\/\/observatory.brain-map.org\/visualcoding",
+                "service_icon": "http:\/\/observatory.brain-map.org\/favicon.ico",
+                "service_name": "observatory.brain-map.org",
+                "id": 1
+            }
+        ],
+        "ts": "1468458613.000007",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U061A5N1G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

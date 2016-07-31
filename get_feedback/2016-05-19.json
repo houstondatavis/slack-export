@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Need one for Houston allergies!",
+        "ts": "1463666098.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A5N1G",
+                    "U061A1R2R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

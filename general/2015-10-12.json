@@ -1,0 +1,265 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> <@U066MTL5U> excited to follow houston datavis from afar today ",
+        "ts": "1444684719.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "We'll try to set something up <@U061A1R2R> ",
+        "ts": "1444684786.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "photos and links are cool,  a hangout or something would be extra special :-) ",
+        "ts": "1444684816.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "We'll give it a good try! Picking up the sammiches shortly",
+        "ts": "1444684838.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "nice! ",
+        "ts": "1444684847.000006"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Perfect! I was on my way over now ",
+        "ts": "1444684883.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Cool. See you there! Today should be a good one",
+        "ts": "1444685058.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I'm gonna put a little donations box out and mark it for our meetup. It's kind of confusing sometimes because txrx has their own donation box out on the counter.",
+        "ts": "1444685069.000009"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Good idea. Anything I can grab on my way up?",
+        "ts": "1444685149.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "A pack of Water bottles, maybe?",
+        "ts": "1444685205.000011"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Sounds good!",
+        "ts": "1444685331.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1: ",
+        "ts": "1444685572.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "you guys are fantastic.  ",
+        "ts": "1444685595.000014"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "aw :blush:",
+        "ts": "1444685754.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I'm in the hangout.  thanks to neeraj for the opening the magic window :simple_smile:",
+        "ts": "1444692837.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066MTL5U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0CAW8D89\/screen_shot_2015-10-12_at_16.34.09.png|Screen Shot 2015-10-12 at 16.34.09.png>",
+        "file": {
+            "id": "F0CAW8D89",
+            "created": 1444692867,
+            "timestamp": 1444692867,
+            "name": "Screen Shot 2015-10-12 at 16.34.09.png",
+            "title": "Screen Shot 2015-10-12 at 16.34.09.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 1110116,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0CAW8D89\/screen_shot_2015-10-12_at_16.34.09.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0CAW8D89\/download\/screen_shot_2015-10-12_at_16.34.09.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 359,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 539,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 719,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0CAW8D89-9fc25b64e1\/screen_shot_2015-10-12_at_16.34.09_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 767,
+            "image_exif_rotation": 1,
+            "original_w": 1047,
+            "original_h": 784,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0CAW8D89\/screen_shot_2015-10-12_at_16.34.09.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0CAW8D89-e0405340e3",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1444692872.000017"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "nice!",
+        "ts": "1444692952.000018"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "if we want to do screen sharing, ScreenHero has a slack integration",
+        "ts": "1444692972.000019"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "we should plug the houstondatavis slack to the group tonight :simple_smile:",
+        "ts": "1444696237.000020"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Good point! <@U061A5N1G> already did once, but I'll make sure we plug it at the end again",
+        "ts": "1444696340.000021"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/docs.google.com\/forms\/d\/1TKgG1hContaW-y_NN9Acend5HABgUekEnueoWeqzl8A\/viewform>",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "houstondatavis slack invitations",
+                "title_link": "https:\/\/docs.google.com\/forms\/d\/1TKgG1hContaW-y_NN9Acend5HABgUekEnueoWeqzl8A\/viewform",
+                "text": "Google Drive",
+                "fallback": "Google Docs: houstondatavis slack invitations",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/mGFCuPH-pODMa9EwkeOa4ce1UmikiQVDuvjaF8SlfQ0WgOZ0qqNBXHMs8mh7kYxGwnc",
+                "from_url": "https:\/\/docs.google.com\/forms\/d\/1TKgG1hContaW-y_NN9Acend5HABgUekEnueoWeqzl8A\/viewform",
+                "thumb_width": 600,
+                "thumb_height": 849,
+                "id": 1
+            }
+        ],
+        "ts": "1444696344.000022"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "is a form to share an email for a signup",
+        "ts": "1444696358.000024"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Perfect! Thanks ",
+        "ts": "1444696469.000025"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I was gonna cobble together a sign up sheet",
+        "ts": "1444696964.000026"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "But have to steal a piece of paper from someone",
+        "ts": "1444696978.000027"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":simple_smile:",
+        "ts": "1444697036.000028"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>:  when the talks are done,  could you unmute laptop mic and let me be  a \"head in a jar\" and chat with people?",
+        "ts": "1444697096.000029"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Yeah! ",
+        "ts": "1444697275.000030"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "like this new angle <@U061A5N1G>",
+        "ts": "1444699437.000031"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":clap::skin-tone-3:",
+        "ts": "1444699641.000032"
+    }
+]

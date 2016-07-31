@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1465862089.000002"
+    },
+    {
+        "user": "U1GGRN36X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1GGRN36X|dmajeti> has joined the channel",
+        "ts": "1465865845.000003"
+    }
+]

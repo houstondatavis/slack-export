@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "I see you're working through all of userRs, I've been checking out SciPy's videos :slightly_smiling_face: <https:\/\/www.youtube.com\/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6>",
+        "attachments": [
+            {
+                "title": "  SciPy 2016: Scientific Computing with Python Conference  - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6",
+                "text": "SciPy 2016, the fifteenth annual Scientific Computing with Python conference, was held July 11-17, 2016 in Austin, Texas. SciPy is a community dedicated to t...",
+                "fallback": "  SciPy 2016: Scientific Computing with Python Conference  - YouTube",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6",
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vflz7uhzw.ico",
+                "service_name": "youtube.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468931399.000005",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1R1B0Q6P",
+                    "U065ETZEC",
+                    "U061A5N1G"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "awesome!",
+        "ts": "1468940900.000007"
+    }
+]

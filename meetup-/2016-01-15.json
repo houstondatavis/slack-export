@@ -1,0 +1,10 @@
+[
+    {
+        "user": "U061A1R2R",
+        "topic": "",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U061A1R2R|micahstubbs> cleared channel topic",
+        "ts": "1452913319.000005"
+    }
+]

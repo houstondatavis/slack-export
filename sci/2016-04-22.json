@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1461360348.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "SCIENCE!",
+        "ts": "1461360351.000003"
+    }
+]

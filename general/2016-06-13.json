@@ -1,0 +1,34 @@
+[
+    {
+        "user": "U1GHT2TA4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1GHT2TA4|enphilistor> has joined the channel",
+        "ts": "1465862728.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "welcome!",
+        "ts": "1465863109.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<http:\/\/ncase.me\/polygons|ncase.me\/polygons>",
+        "ts": "1465863419.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<http:\/\/ncase.me\/simulating|ncase.me\/simulating>",
+        "ts": "1465863523.000005"
+    },
+    {
+        "user": "U1GGRN36X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1GGRN36X|dmajeti> has joined the channel",
+        "ts": "1465865749.000006"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Met Les Becker of Harris County Public Health department at the conference. I told him about our meetup and data jam. He is interested in collaborating with us, so we might have a potential dataset coming! Here is a link to his session at the conference: <https:\/\/apha.confex.com\/apha\/143am\/webprogram\/Paper323116.html>",
+        "attachments": [
+            {
+                "text": ": Online Annual Meeting Program",
+                "fallback": ": Online Annual Meeting Program",
+                "from_url": "https:\/\/apha.confex.com\/apha\/143am\/webprogram\/Paper323116.html",
+                "id": 1
+            }
+        ],
+        "ts": "1446567461.000002",
+        "reactions": [
+            {
+                "name": "clap::skin-tone-3",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U061A5N1G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Cool! Thanks <@U065ETZEC>. We'll take a look at it :simple_smile:",
+        "ts": "1446567839.000004"
+    }
+]

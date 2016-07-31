@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Thank you for organizing the workshop! What a turnout! Also, thanks to the mentors for volunteering their time to share their knowledge. I am excited to use github from the command line",
+        "ts": "1459034980.000002"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Second that. ",
+        "ts": "1459036088.000003"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<https:\/\/try.github.io>",
+        "attachments": [
+            {
+                "title": "Try Git",
+                "title_link": "https:\/\/try.github.io",
+                "text": "Learn to use Git",
+                "fallback": "Try Git",
+                "from_url": "https:\/\/try.github.io",
+                "thumb_url": "https:\/\/d13jv82ekraqyq.cloudfront.net\/assets\/bg-terms-octocat-992475c1d45c413a00492b17924d53ff.png",
+                "thumb_width": 68,
+                "thumb_height": 58,
+                "id": 1
+            }
+        ],
+        "ts": "1459038924.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very cool",
+        "ts": "1459045537.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Yeah today was lots of fun, it was good to see you guys",
+        "ts": "1459045558.000007"
+    }
+]

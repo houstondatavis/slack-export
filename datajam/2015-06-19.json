@@ -1,0 +1,512 @@
+[
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "Hey guys! I updated the R code we submitted for the datajam to include US counties. If anyone feels like playing around with choropleths,  try it out!:",
+        "ts": "1434772042.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U064KUGRJ|timabram> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png|avg_price_by_county_NY-region.png> and commented: <https:\/\/github.com\/timabram\/houston-june-datajam\/blob\/master\/Geo_Medicare_Viz_2.R>",
+        "file": {
+            "id": "F06K2PCM9",
+            "created": 1434772076,
+            "timestamp": 1434772076,
+            "name": "avg_price_by_county_NY-region.png",
+            "title": "avg_price_by_county_NY-region.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U064KUGRJ",
+            "editable": false,
+            "size": 377150,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/download\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "image_exif_rotation": 1,
+            "original_w": 800,
+            "original_h": 600,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K2PCM9-4a2da254c9",
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 5,
+            "initial_comment": {
+                "id": "Fc06K2P5T3",
+                "created": 1434772080,
+                "timestamp": 1434772080,
+                "user": "U064KUGRJ",
+                "is_intro": true,
+                "comment": "<https:\/\/github.com\/timabram\/houston-june-datajam\/blob\/master\/Geo_Medicare_Viz_2.R>",
+                "channel": ""
+            }
+        },
+        "user": "U064KUGRJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U064KUGRJ|timabram>",
+        "bot_id": null,
+        "ts": "1434772080.000006"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U061A5N1G|neerajt> commented on U064KUGRJ's file <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png|avg_price_by_county_NY-region.png>: Tim, this looks fantastic ",
+        "file": {
+            "id": "F06K2PCM9",
+            "created": 1434772076,
+            "timestamp": 1434772076,
+            "name": "avg_price_by_county_NY-region.png",
+            "title": "avg_price_by_county_NY-region.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U064KUGRJ",
+            "editable": false,
+            "size": 377150,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/download\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "image_exif_rotation": 1,
+            "original_w": 800,
+            "original_h": 600,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K2PCM9-4a2da254c9",
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 5,
+            "initial_comment": {
+                "id": "Fc06K2P5T3",
+                "created": 1434772080,
+                "timestamp": 1434772080,
+                "user": "U064KUGRJ",
+                "is_intro": true,
+                "comment": "<https:\/\/github.com\/timabram\/houston-june-datajam\/blob\/master\/Geo_Medicare_Viz_2.R>",
+                "channel": ""
+            }
+        },
+        "comment": {
+            "id": "Fc06K2PR2L",
+            "created": 1434772752,
+            "timestamp": 1434772752,
+            "user": "U061A5N1G",
+            "is_intro": false,
+            "comment": "Tim, this looks fantastic ",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1434772752.000007"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U061A5N1G|neerajt> commented on U064KUGRJ's file <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png|avg_price_by_county_NY-region.png>: I like the colors. ",
+        "file": {
+            "id": "F06K2PCM9",
+            "created": 1434772076,
+            "timestamp": 1434772076,
+            "name": "avg_price_by_county_NY-region.png",
+            "title": "avg_price_by_county_NY-region.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U064KUGRJ",
+            "editable": false,
+            "size": 377150,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/download\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "image_exif_rotation": 1,
+            "original_w": 800,
+            "original_h": 600,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K2PCM9-4a2da254c9",
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 5,
+            "initial_comment": {
+                "id": "Fc06K2P5T3",
+                "created": 1434772080,
+                "timestamp": 1434772080,
+                "user": "U064KUGRJ",
+                "is_intro": true,
+                "comment": "<https:\/\/github.com\/timabram\/houston-june-datajam\/blob\/master\/Geo_Medicare_Viz_2.R>",
+                "channel": ""
+            }
+        },
+        "comment": {
+            "id": "Fc06K2RVMY",
+            "created": 1434772767,
+            "timestamp": 1434772767,
+            "user": "U061A5N1G",
+            "is_intro": false,
+            "comment": "I like the colors. ",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1434772767.000008"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U064KUGRJ|timabram> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K31PQA\/-.r|Untitled> and commented: Thanks! This line was a big help - it lets you create 3-step gradients which is great when a lot of data is clustered around the center",
+        "file": {
+            "id": "F06K31PQA",
+            "created": 1434773701,
+            "timestamp": 1434773701,
+            "name": "-.r",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "r",
+            "pretty_type": "R",
+            "user": "U064KUGRJ",
+            "editable": true,
+            "size": 78,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K31PQA\/-.r?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K31PQA\/download\/-.r?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K31PQA\/-.r",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K31PQA-3e6387a1a7",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K31PQA\/-.r\/edit",
+            "preview": " scale_fill_gradient2(midpoint = 40000, low=\"green\", mid = \"blue\", high=\"red\")",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre> <span class=\"cm-variable\">scale_fill_gradient2<\/span>(<span class=\"cm-variable\">midpoint<\/span> <span class=\"cm-arg-is\">=<\/span> <span class=\"cm-number\">40000<\/span>, <span class=\"cm-variable\">low<\/span><span class=\"cm-arg-is\">=<\/span><span class=\"cm-string\">&quot;<\/span><span class=\"cm-string\">green&quot;<\/span>, <span class=\"cm-variable\">mid<\/span> <span class=\"cm-arg-is\">=<\/span> <span class=\"cm-string\">&quot;<\/span><span class=\"cm-string\">blue&quot;<\/span>, <span class=\"cm-variable\">high<\/span><span class=\"cm-arg-is\">=<\/span><span class=\"cm-string\">&quot;<\/span><span class=\"cm-string\">red&quot;<\/span>)<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc06K3579B",
+                "created": 1434773702,
+                "timestamp": 1434773702,
+                "user": "U064KUGRJ",
+                "is_intro": true,
+                "comment": "Thanks! This line was a big help - it lets you create 3-step gradients which is great when a lot of data is clustered around the center",
+                "channel": ""
+            }
+        },
+        "user": "U064KUGRJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U064KUGRJ|timabram>",
+        "bot_id": null,
+        "ts": "1434773702.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U064KUGRJ> nice! ",
+        "ts": "1434774160.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U061A5N1G|neerajt> commented on U064KUGRJ's file <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png|avg_price_by_county_NY-region.png>: I see that you added the descriptive name to the plot too",
+        "file": {
+            "id": "F06K2PCM9",
+            "created": 1434772076,
+            "timestamp": 1434772076,
+            "name": "avg_price_by_county_NY-region.png",
+            "title": "avg_price_by_county_NY-region.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U064KUGRJ",
+            "editable": false,
+            "size": 377150,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/download\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "image_exif_rotation": 1,
+            "original_w": 800,
+            "original_h": 600,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K2PCM9-4a2da254c9",
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 5,
+            "initial_comment": {
+                "id": "Fc06K2P5T3",
+                "created": 1434772080,
+                "timestamp": 1434772080,
+                "user": "U064KUGRJ",
+                "is_intro": true,
+                "comment": "<https:\/\/github.com\/timabram\/houston-june-datajam\/blob\/master\/Geo_Medicare_Viz_2.R>",
+                "channel": ""
+            }
+        },
+        "comment": {
+            "id": "Fc06K36UHJ",
+            "created": 1434774376,
+            "timestamp": 1434774376,
+            "user": "U061A5N1G",
+            "is_intro": false,
+            "comment": "I see that you added the descriptive name to the plot too",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1434774376.000011"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U061A5N1G|neerajt> commented on U064KUGRJ's file <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png|avg_price_by_county_NY-region.png>: Really cool",
+        "file": {
+            "id": "F06K2PCM9",
+            "created": 1434772076,
+            "timestamp": 1434772076,
+            "name": "avg_price_by_county_NY-region.png",
+            "title": "avg_price_by_county_NY-region.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U064KUGRJ",
+            "editable": false,
+            "size": 377150,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K2PCM9\/download\/avg_price_by_county_ny-region.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06K2PCM9-b603dd8039\/avg_price_by_county_ny-region_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "image_exif_rotation": 1,
+            "original_w": 800,
+            "original_h": 600,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K2PCM9\/avg_price_by_county_ny-region.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K2PCM9-4a2da254c9",
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 5,
+            "initial_comment": {
+                "id": "Fc06K2P5T3",
+                "created": 1434772080,
+                "timestamp": 1434772080,
+                "user": "U064KUGRJ",
+                "is_intro": true,
+                "comment": "<https:\/\/github.com\/timabram\/houston-june-datajam\/blob\/master\/Geo_Medicare_Viz_2.R>",
+                "channel": ""
+            }
+        },
+        "comment": {
+            "id": "Fc06K35H8S",
+            "created": 1434774385,
+            "timestamp": 1434774385,
+            "user": "U061A5N1G",
+            "is_intro": false,
+            "comment": "Really cool",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1434774385.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Did you do that manually? I didn't see the code for parsing that reference ",
+        "ts": "1434774511.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U064KUGRJ|timabram> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K3BF7T\/-.r|Untitled>",
+        "file": {
+            "id": "F06K3BF7T",
+            "created": 1434775349,
+            "timestamp": 1434775349,
+            "name": "-.r",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "r",
+            "pretty_type": "R",
+            "user": "U064KUGRJ",
+            "editable": true,
+            "size": 54,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K3BF7T\/-.r?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06K3BF7T\/download\/-.r?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K3BF7T\/-.r",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06K3BF7T-3be8e61bea",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F06K3BF7T\/-.r\/edit",
+            "preview": "ggtitle(paste(\"Avg Hospital Bill for \", code, sep=\"\"))",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">ggtitle<\/span>(<span class=\"cm-variable\">paste<\/span>(<span class=\"cm-string\">&quot;<\/span><span class=\"cm-string\">Avg Hospital Bill for &quot;<\/span>, <span class=\"cm-variable\">code<\/span>, <span class=\"cm-variable\">sep<\/span><span class=\"cm-arg-is\">=<\/span><span class=\"cm-string\">&quot;<\/span><span class=\"cm-string\">&quot;<\/span>))<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U064KUGRJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U064KUGRJ|timabram>",
+        "bot_id": null,
+        "ts": "1434775349.000014"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "using 'code' as a variable for a specific DRG code let us iterate quickly to try out plotting different ones; definitely helped to incorporate the name in the plot title  to keep them straight",
+        "ts": "1434775452.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Ok so code is the full name, then ",
+        "ts": "1434775547.000016"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "yea, exactly.",
+        "ts": "1434776101.000017"
+    }
+]

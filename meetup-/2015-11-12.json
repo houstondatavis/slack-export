@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/houstonhackathon.com\/>",
+        "attachments": [
+            {
+                "title": "City of Houston - Hackathon\/Open Challenge",
+                "title_link": "http:\/\/houstonhackathon.com\/",
+                "text": "Houston City Council has three technology challenges for the community. Submissions close on December 1, 2015.",
+                "fallback": "City of Houston - Hackathon\/Open Challenge",
+                "image_url": "http:\/\/houstonhackathon.com\/img\/houston.png",
+                "from_url": "http:\/\/houstonhackathon.com\/",
+                "image_width": 200,
+                "image_height": 202,
+                "image_bytes": 44378,
+                "id": 1
+            }
+        ],
+        "ts": "1447354429.000002"
+    }
+]

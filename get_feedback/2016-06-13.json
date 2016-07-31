@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Hello all!!!!",
+        "ts": "1465861897.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064KUGRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Welcome!",
+        "ts": "1465861905.000003",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U065ETZEC",
+                    "U061A3E0G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hamburger",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Join the slack, you bunch of slackers :stuck_out_tongue:",
+        "ts": "1465861926.000004"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "what's slack?",
+        "ts": "1465862047.000005"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "email me at <mailto:rakeno@gmail.com|rakeno@gmail.com>",
+        "ts": "1465862059.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "it's a fad, kinda like the internet",
+        "ts": "1465862062.000007"
+    },
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1465862064.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<mailto:neerajtandon25@gmail.com|neerajtandon25@gmail.com>",
+        "ts": "1465862178.000009"
+    },
+    {
+        "user": "U1GGRN36X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1GGRN36X|dmajeti> has joined the channel",
+        "ts": "1465865816.000012"
+    }
+]

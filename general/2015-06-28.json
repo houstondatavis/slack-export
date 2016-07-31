@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U06U9C8Q7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06U9C8Q7|dvdt> has joined the channel",
+        "ts": "1435526690.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A3E0G> that new world map is fantastic",
+        "ts": "1435547593.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "fascinating how the cartographer of the day drew Santa Barbara roughly as far north as New York",
+        "ts": "1435547655.000004"
+    }
+]

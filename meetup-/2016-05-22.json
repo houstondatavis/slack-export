@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U065ETZEC|jkim> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/jkim\/F1AS6DQAY\/img_20160522_162323567.jpg|Stickers from continuum>",
+        "file": {
+            "id": "F1AS6DQAY",
+            "created": 1463948694,
+            "timestamp": 1463948694,
+            "name": "IMG_20160522_162323567.jpg",
+            "title": "Stickers from continuum",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U065ETZEC",
+            "editable": false,
+            "size": 1533689,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1AS6DQAY\/img_20160522_162323567.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1AS6DQAY\/download\/img_20160522_162323567.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1AS6DQAY-de33dce04e\/img_20160522_162323567_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1920,
+            "original_h": 2560,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/jkim\/F1AS6DQAY\/img_20160522_162323567.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F1AS6DQAY-31ecb5b6c1",
+            "channels": [
+                "C061A3E0Y"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U065ETZEC",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U065ETZEC|jkim>",
+        "bot_id": null,
+        "ts": "1463948698.000011"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "I told them about Houston data viS and they wanted to me take a small box of stickers to hand out, but I had to limit myself with a bag full of stickers.",
+        "ts": "1463948779.000012",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "That's awesome ",
+        "ts": "1463949284.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "We can invite them to come give a talk sometime",
+        "ts": "1463949292.000014"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Yeah for sure. They were really excited to hear that there were Python user group and data viS meetup in Houston.",
+        "ts": "1463949383.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Get some email addresses and we can reach out to them soon ",
+        "ts": "1463951091.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "That would be really cool",
+        "ts": "1463951097.000017"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I know <@U066B6F9R> would be thrilled, too. =)",
+        "ts": "1463951124.000018"
+    }
+]

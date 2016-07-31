@@ -1,0 +1,127 @@
+[
+    {
+        "type": "message",
+        "user": "U1R1B0Q6P",
+        "text": "The awesomeness of D3 and #rstats, memorylane\n\n<http:\/\/timelyportfolio.github.io\/rCharts_512paths\/>",
+        "ts": "1469039231.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1R1B0Q6P",
+        "text": "Finally an ensemble caller for election results, FiveThirtyEight + opnionated wisemen\n\n<http:\/\/www.nytimes.com\/interactive\/2016\/upshot\/presidential-polls-forecast.html?smid=tw-upshotnyt&amp;smtyp=cur&amp;_r=1>",
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com",
+                "title": "Who Will Be President?",
+                "title_link": "http:\/\/www.nytimes.com\/interactive\/2016\/upshot\/presidential-polls-forecast.html?smid=tw-upshotnyt&amp;smtyp=cur&amp;_r=1",
+                "author_name": "By JOSH KATZ",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2016\/07\/19\/upshot\/presidential-election-forecast-1468902507509\/presidential-election-forecast-1468902507509-mediumThreeByTwo440-v2.png",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "The Upshot\u2019s presidential forecast, updated daily.",
+                "fallback": "The New York Times Link: Who Will Be President?",
+                "from_url": "http:\/\/www.nytimes.com\/interactive\/2016\/upshot\/presidential-polls-forecast.html?smid=tw-upshotnyt&amp;smtyp=cur&amp;_r=1",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/nytimes.png",
+                "id": 1
+            }
+        ],
+        "ts": "1469039293.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "AMAZING!",
+        "ts": "1469039512.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "very insightful, and lovely to see them bring back that wonderful tree viz",
+        "ts": "1469039528.000012"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Agreed with the tree viz. It's one of my favorites",
+        "ts": "1469040003.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I don't care for it. It's hard to read near the bottom, and the overall probabilities are hard to infer.",
+        "ts": "1469040110.000014"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "It's something that needs to be applied in the right situation. Some of the software I work on is a route chooser\/optimizer and a tree view is at times, close to perfect for describing to the users the reasons behind the choices the simulator makes",
+        "ts": "1469043104.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I totally agree, yeah don't get me wrong. I like tree diagrams a lot too for the right situation. ",
+        "ts": "1469043307.000016"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/fivethirtyeight.com\/features\/how-we-charted-trumps-fall-from-grace-in-hip-hop\/>",
+        "attachments": [
+            {
+                "service_name": "FiveThirtyEight",
+                "title": "How We Charted Trump\u2019s Fall From Grace In Hip-Hop",
+                "title_link": "http:\/\/fivethirtyeight.com\/features\/how-we-charted-trumps-fall-from-grace-in-hip-hop\/",
+                "text": "As a visual journalist at FiveThirtyEight, I am often asked what tools or software we use to create our graphics. Most people are surprised to learn that we sketch many of our graphics before we to\u2026",
+                "fallback": "FiveThirtyEight: How We Charted Trump\u2019s Fall From Grace In Hip-Hop",
+                "image_url": "https:\/\/espnfivethirtyeight.files.wordpress.com\/2016\/07\/quickdraw-4by3-02.gif?w=640",
+                "image_width": 333,
+                "image_height": 250,
+                "ts": 1469044031,
+                "from_url": "http:\/\/fivethirtyeight.com\/features\/how-we-charted-trumps-fall-from-grace-in-hip-hop\/",
+                "image_bytes": 512863,
+                "service_icon": "https:\/\/s0.wp.com\/wp-content\/themes\/vip\/espn-fivethirtyeight\/assets\/images\/fivethirtyeight-logo-touch.png?v=1.0.3",
+                "id": 1
+            }
+        ],
+        "ts": "1469047378.000017"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Data jam idea?",
+        "ts": "1469047385.000019"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "pen and paper visualization",
+        "ts": "1469047408.000020"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Not a bad idea. Some advice I've been given when coming up with visualizations is: we developers are digital people, once we have committed to anything electronically, we want to keep it (it becomes more real to us), and when sketching visualizations you need to throw them away as easily as possible.",
+        "ts": "1469047519.000021"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Cool advice, kind of counterintuitive that something digital would feel more real than something on paper",
+        "ts": "1469052510.000022"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I can totally relate to that though, it does feel a lot easier to scratch out something you\u2019re working on mid-way when it\u2019s on paper",
+        "ts": "1469052767.000023"
+    },
+    {
+        "user": "U1TM266DA",
+        "text": "<@U1TM266DA|stephen_rasey> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469062965.000024"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Have a list minute conflict with some customers; wont be able to make it this week :disappointed:",
+        "ts": "1442266517.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "next time my friend ",
+        "ts": "1442266622.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "your d3 intro meetup idea is still a good idea,  lmk if I can help you pick a date otherwise get started :-) ",
+        "ts": "1442266689.000004"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Thank! I've got a slowly growing course outline. I'll let you know when it is fully fleshed out!",
+        "ts": "1442266821.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1:  minimum viable planning ",
+        "ts": "1442267084.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066MTL5U",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "will watch from afar today.  post these comments and photos on the meetup page :-)",
+        "edited": {
+            "user": "U061A1R2R",
+            "ts": "1442273779.000000"
+        },
+        "ts": "1442273764.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "and the October Meetup is posted.  want to give a lightning talk? reply here! <http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/225363078\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/225363078\/",
+                "text": "&amp;nbsp;conversation to 7p then :zap: lightning talks and a speaker to follow",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/225363078\/",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "id": 1
+            }
+        ],
+        "ts": "1442290521.000009"
+    }
+]

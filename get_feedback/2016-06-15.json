@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Looking great! one tweak I'd suggest on the comparison between years (total flight passangers over time) is to use a color scheme that is more gradual. Perhaps using a single hue, and increase saturation over time. It would be more intuitive, as right now I feel I have to jump between legend and graph to remember what came first.",
+        "ts": "1466000526.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Looking forward to seeing the final post on the network\/geo graph! Love that you made a gif also, that medium has become very sharable on the social networks :slightly_smiling_face:",
+        "ts": "1466000574.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Agreed about the gif! I have been wanting to start making those for a while now. Interesting in the last few frames how the number of unique flights between LA and NY starts to stand oit ",
+        "ts": "1466003122.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "Its nice! I did not know about \u2018gif\u2019  using R! Also, Is this highcharts library really popular in R? I have heard of highcharts in JavaScript - not in r :slightly_smiling_face: - I have seen people use ggplot in R  \nI was interested to know how you created the html too - was it using R markdown and shiny?",
+        "ts": "1466004440.000017"
+    },
+    {
+        "type": "message",
+        "user": "U08QXDA68",
+        "text": "So I'm teaching kids how to code for a summer camp this week in JavaScript and the class has split into an advanced group. Within the advanced most kids are doing web development in JavaScript but I have one kid hell bent in coding Python. ",
+        "ts": "1466028070.000018"
+    },
+    {
+        "type": "message",
+        "user": "U08QXDA68",
+        "text": "That one kid has finished his Python project I assigned him earlier this week. ",
+        "ts": "1466028125.000019"
+    },
+    {
+        "type": "message",
+        "user": "U08QXDA68",
+        "text": "I'm looking for possible project ideas but this kid likes to be very technical and hates to make anything user friendly let alone pretty designs. ",
+        "ts": "1466028240.000020"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "thanks for the feedback everyone! <@U061A3E0G>: great idea about the color scheme, i'll add that in next. <@U1GGRN36X>: try out [highcharter package](<http:\/\/jkunst.com\/highcharter\/hchart.html>) `install.packages(\"highcharter\")`. It takes some time to get a feel of the syntax coming from ggplot, but those tutorial examples help a lot. Yes, the html was a R markdown output - I just used knitr and pushed the html output to github pages. \n<@U061A3E0G>, <@U061A5N1G>, <@U1GGRN36X> :  i'll let you guys know when i post the code for making the gif animation. It's not entirely in R, but uses a system command to ImageMagick to convert a series of png's to an animated gif",
+        "attachments": [
+            {
+                "title": "Highcharter",
+                "title_link": "http:\/\/jkunst.com\/highcharter\/hchart.html",
+                "text": "highcharter and R wrapper for highcharts",
+                "fallback": "Highcharter",
+                "from_url": "http:\/\/jkunst.com\/highcharter\/hchart.html",
+                "service_icon": "https:\/\/www.iconexperience.com\/_img\/o_collection_png\/office\/24x24\/plain\/chart_line.png",
+                "service_name": "jkunst.com",
+                "id": 1
+            }
+        ],
+        "ts": "1466031664.000021",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U061A3E0G",
+                    "U1GGRN36X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire_engine",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U1GGRN36X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U064KUGRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064KUGRJ|timabram> has joined the channel",
+        "ts": "1433864907.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey Tim!",
+        "ts": "1433867205.000003"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U0J8SUPPY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0J8SUPPY|eloy> has joined the channel",
+        "ts": "1452610640.000003"
+    },
+    {
+        "user": "U0J8QFGN8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0J8QFGN8|davidjusti> has joined the channel",
+        "ts": "1452612743.000004"
+    }
+]

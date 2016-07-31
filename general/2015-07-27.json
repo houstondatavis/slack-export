@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<http:\/\/www.r2d3.us\/visual-intro-to-machine-learning-part-1\/>",
+        "attachments": [
+            {
+                "title": "A Visual Introduction to Machine Learning",
+                "title_link": "http:\/\/www.r2d3.us\/visual-intro-to-machine-learning-part-1\/",
+                "text": "What is machine learning? See how it works with our animated data visualization.",
+                "fallback": "A Visual Introduction to Machine Learning",
+                "image_url": "http:\/\/www.r2d3.us\/static\/pages\/decision-trees-part-1\/preview.png",
+                "from_url": "http:\/\/www.r2d3.us\/visual-intro-to-machine-learning-part-1\/",
+                "image_width": 467,
+                "image_height": 250,
+                "image_bytes": 77357,
+                "id": 1
+            }
+        ],
+        "ts": "1438024118.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "+1 <@U061A3E0G> ",
+        "ts": "1438025477.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Great post!",
+        "ts": "1438025605.000003"
+    }
+]

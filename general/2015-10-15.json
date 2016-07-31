@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "I can't make it to the data jam either. :confused: I will be volunteering at grand opening of A 2nd Cup, a non-profit coffee shop. Stop by after for a cup of coffee! :simple_smile:",
+        "ts": "1444934870.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "sounds awesome! where is it?",
+        "ts": "1444936773.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Ok folks, Aaron\u2019s slides from his fantastic presentation are available now. You\u2019ll also find his follow-up to a few questions. <https:\/\/github.com\/houstondatavis\/meetup-october-2015>",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1444940326.000000"
+        },
+        "ts": "1444940316.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0CCARLFQ",
+        "text": "thanks",
+        "ts": "1444940357.000020"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "It's in heights near Liberty Kitchen. 1111 E. 11th St. <https:\/\/www.facebook.com\/events\/1645296752401575\/>",
+        "ts": "1444941434.000021"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U065ETZEC> cool, it\u2019s a great cause - we\u2019ll miss you at the data jam but like colinnlsn  said we\u2019ll post the data and people\u2019s code",
+        "ts": "1444942059.000022"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Thanaks <@U061A5N1G>! Yeah that will be great. I'd love to see what people have worked on.",
+        "ts": "1444942189.000023"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "And we'll do it again soon",
+        "ts": "1444942213.000024"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "btw, I am learning Shiny Apps, and I made this to practice. <https:\/\/juyeongkim.shinyapps.io\/MLS-Salary> Let me know what you think. Any criticism or suggestions are welcome!",
+        "ts": "1444943528.000025"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U07P7LT9S>:  here's a timeline layout for d3, along with some examples that might be useful as reference material too <https:\/\/github.com\/emeeks\/d3.layout.timeline>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "emeeks\/d3.layout.timeline",
+                "title_link": "https:\/\/github.com\/emeeks\/d3.layout.timeline",
+                "text": "d3.layout.timeline - A layout for band-style timelines",
+                "fallback": "GitHub: emeeks\/d3.layout.timeline",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/495634?v=3&s=400",
+                "from_url": "https:\/\/github.com\/emeeks\/d3.layout.timeline",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1444943626.000026"
+    }
+]

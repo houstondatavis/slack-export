@@ -1,0 +1,41 @@
+[
+    {
+        "user": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1434464465.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "The Bostock talk was awesome. Good to have in the background during a codejam",
+        "ts": "1434464491.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<https:\/\/vimeo.com\/88326173>",
+        "attachments": [
+            {
+                "service_name": "Vimeo",
+                "service_url": "https:\/\/vimeo.com\/",
+                "title": "Santiago Ortiz: Visualized Feb 2014 New York",
+                "title_link": "https:\/\/vimeo.com\/88326173",
+                "author_name": "VISUALIZED",
+                "author_link": "http:\/\/vimeo.com\/visualized",
+                "thumb_url": "http:\/\/i.vimeocdn.com\/video\/466810098_295x166.jpg",
+                "thumb_width": 295,
+                "thumb_height": 166,
+                "text": "EXPLORATIONS OF A NEW LANGUAGE: BEYOND LINEARITY AND QUANTITY \n\nSantiago Ortiz is an infoviz researcher and inventor. He uses his background in mathematics and complexity sciences to push the boundaries of information visualization and data based story telling. He was born in Colombia, where he began creating images out of code when he was 8. In 2005 he co-founded Bestiario (Barcelona), the first company in Europe devoted to information visualization. Now he works as a consultant, helping organizations with the analysis and communication strategy of their information, and he specializes in networks, conversations and knowledge.",
+                "fallback": "Vimeo Video: Santiago Ortiz: Visualized Feb 2014 New York",
+                "video_html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/88326173\" width=\"400\" height=\"225\" frameborder=\"0\" title=\"Santiago Ortiz: Visualized Feb 2014 New York\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/vimeo.com\/88326173",
+                "id": 1
+            }
+        ],
+        "ts": "1434464517.000004"
+    }
+]

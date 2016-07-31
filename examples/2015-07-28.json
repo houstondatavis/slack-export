@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/bl.ocks.org\/mapsense-examples\/00ee03b071e938ce6cc0>",
+        "ts": "1438137773.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "a choropleth map that lets you zoom from a states to counties",
+        "ts": "1438137792.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08A11TQR\/screen_shot_2015-07-28_at_19.41.45.png|choropleth>",
+        "file": {
+            "id": "F08A11TQR",
+            "created": 1438137818,
+            "timestamp": 1438137818,
+            "name": "Screen Shot 2015-07-28 at 19.41.45.png",
+            "title": "choropleth",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 158573,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08A11TQR\/screen_shot_2015-07-28_at_19.41.45.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08A11TQR\/download\/screen_shot_2015-07-28_at_19.41.45.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F08A11TQR-71707ff4e1\/screen_shot_2015-07-28_at_19.41.45_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F08A11TQR-71707ff4e1\/screen_shot_2015-07-28_at_19.41.45_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F08A11TQR-71707ff4e1\/screen_shot_2015-07-28_at_19.41.45_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 299,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F08A11TQR-71707ff4e1\/screen_shot_2015-07-28_at_19.41.45_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 399,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F08A11TQR-71707ff4e1\/screen_shot_2015-07-28_at_19.41.45_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "image_exif_rotation": 1,
+            "original_w": 713,
+            "original_h": 592,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08A11TQR\/screen_shot_2015-07-28_at_19.41.45.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08A11TQR-ecd8308804",
+            "channels": [
+                "C064FLUHY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1438137822.000004"
+    }
+]

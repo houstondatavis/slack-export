@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/github.com\/nathanpeck\/clui#sparklinevalues-suffix>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "nathanpeck\/clui",
+                "title_link": "https:\/\/github.com\/nathanpeck\/clui#sparklinevalues-suffix",
+                "text": "clui - Command Line UI toolkit for Node.js",
+                "fallback": "GitHub: nathanpeck\/clui",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3495674?v=3&s=400",
+                "from_url": "https:\/\/github.com\/nathanpeck\/clui#sparklinevalues-suffix",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1434238666.000044"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "sparklines in the terminal!",
+        "ts": "1434238675.000046"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AHBJ1M\/sparklines.png|sparklines.png>",
+        "file": {
+            "id": "F06AHBJ1M",
+            "created": 1434238747,
+            "timestamp": 1434238747,
+            "name": "sparklines.png",
+            "title": "sparklines.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 13109,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06AHBJ1M\/sparklines.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06AHBJ1M\/download\/sparklines.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AHBJ1M-8d69fc09df\/sparklines_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AHBJ1M-8d69fc09df\/sparklines_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AHBJ1M-8d69fc09df\/sparklines_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 22,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AHBJ1M-8d69fc09df\/sparklines_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 29,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AHBJ1M-8d69fc09df\/sparklines_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "image_exif_rotation": 1,
+            "original_w": 585,
+            "original_h": 35,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AHBJ1M\/sparklines.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06AHBJ1M-5b3c3f9e64",
+            "channels": [
+                "C064FGV36"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434238749.000047"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Haha, neat!",
+        "ts": "1434241521.000048"
+    }
+]

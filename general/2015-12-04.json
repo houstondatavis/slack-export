@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "the meetup Monday looks good!  if we can swing a steady video connection,  I'd like to give a lightning talk on something cool I saw in SF this week",
+        "ts": "1449272549.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "Mapbox has a new editor for making custom map tiles.  ",
+        "ts": "1449272579.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "the vector tiles are rendered with WebGL,  so you can so you have smooth zooming and crazy things like map rotation and tilt",
+        "ts": "1449272653.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "more here <http:\/\/www.meetup.com\/Maptime-SF\/events\/226978457\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Maptime SF \/ Oakland",
+                "title_link": "http:\/\/www.meetup.com\/Maptime-SF\/events\/226978457\/",
+                "text": "Hey Folks! Long time no see from SF -- we're back in gear after an unexpected summer hiatus. Srrrrry guyz. But the holidays are coming up and nothing says Happy Festivus like a custom designed map for",
+                "fallback": "Meetup: Maptime SF \/ Oakland",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/9\/8\/0\/a\/highres_400538922.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Maptime-SF\/events\/226978457\/",
+                "thumb_width": 663,
+                "thumb_height": 570,
+                "id": 1
+            }
+        ],
+        "ts": "1449272766.000005"
+    }
+]

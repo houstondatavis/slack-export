@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U0CBK5KAT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CBK5KAT|aaron.anzalone> has joined the channel",
+        "ts": "1444734090.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0CBK5KAT",
+        "text": "Hey guys!",
+        "ts": "1444743964.000003"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Welcome!",
+        "ts": "1444747277.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey Aaron, welcome! ",
+        "ts": "1444754063.000005"
+    },
+    {
+        "user": "U0CCDH7S6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CCDH7S6|zubinrasheed> has joined the channel",
+        "ts": "1444755164.000006"
+    },
+    {
+        "user": "U0CCARLFQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CCARLFQ|mfaini> has joined the channel",
+        "ts": "1444755980.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "welcome!",
+        "ts": "1444756501.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0CCARLFQ",
+        "text": "cozy in here. :simple_smile: Hello from Marco",
+        "ts": "1444756558.000009"
+    },
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": " Hello!",
+        "ts": "1444767930.000010"
+    },
+    {
+        "user": "U0CDC6TBQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CDC6TBQ|stephenporter> has joined the channel",
+        "ts": "1444791398.000011"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1433558207.760580"
+    },
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433558299.000002"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1433558647.000003"
+    }
+]

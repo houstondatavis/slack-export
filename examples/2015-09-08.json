@@ -1,0 +1,186 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: remember that nested loops political districts to cities problem I asked you about a few months back?",
+        "ts": "1441775712.000002"
+    },
+    {
+        "user": "U061A5N1G",
+        "inviter": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1441775721.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I think I solved it.  have a working prototype of the vis :simple_smile: <http:\/\/bl.ocks.org\/micahstubbs\/raw\/29b4fd2f1ed6ed68a81e\/>",
+        "attachments": [
+            {
+                "title": "CLOSE VOTES UK",
+                "title_link": "http:\/\/bl.ocks.org\/micahstubbs\/raw\/29b4fd2f1ed6ed68a81e\/",
+                "text": "Based on the 2015 parliamentary elections in United Kingdom, this visualization shows which cities distribute their votes similarly over the political parties",
+                "fallback": "CLOSE VOTES UK",
+                "from_url": "http:\/\/bl.ocks.org\/micahstubbs\/raw\/29b4fd2f1ed6ed68a81e\/",
+                "id": 1
+            }
+        ],
+        "ts": "1441775747.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0ABL7E4W\/screen_shot_2015-09-08_at_21.58.41.png|Screen Shot 2015-09-08 at 21.58.41.png>",
+        "file": {
+            "id": "F0ABL7E4W",
+            "created": 1441775771,
+            "timestamp": 1441775771,
+            "name": "Screen Shot 2015-09-08 at 21.58.41.png",
+            "title": "Screen Shot 2015-09-08 at 21.58.41.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 548162,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0ABL7E4W\/screen_shot_2015-09-08_at_21.58.41.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0ABL7E4W\/download\/screen_shot_2015-09-08_at_21.58.41.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 255,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 340,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 511,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 681,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0ABL7E4W-835ded2763\/screen_shot_2015-09-08_at_21.58.41_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 726,
+            "image_exif_rotation": 1,
+            "original_w": 1093,
+            "original_h": 775,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0ABL7E4W\/screen_shot_2015-09-08_at_21.58.41.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0ABL7E4W-50acfed205",
+            "channels": [
+                "C064FLUHY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1441775773.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Sweet! Your version is awesome, like the colors and the radial view. Really neat. What was the main hurdle?",
+        "ts": "1441776256.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "function &amp; loop scope in javascript",
+        "ts": "1441776652.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "the project lay dormant for a few months on that hurdle",
+        "ts": "1441776672.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I picked it up again last weekend and realized if I initialized my array of zeroes and my object of empty arrays in side of my main loop, it would write the correct calculated arrays each time :tada:",
+        "edited": {
+            "user": "U061A1R2R",
+            "ts": "1441776921.000000"
+        },
+        "ts": "1441776738.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "(if I initialize the template array and object outside of the loop and then just assign them to the local variables inside of the loop, I end of with the same calculated array written for all ~500 of my output city objects - not the result I wanted at all)",
+        "edited": {
+            "user": "U061A1R2R",
+            "ts": "1441776880.000000"
+        },
+        "ts": "1441776801.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "code is here, fwiw <https:\/\/github.com\/micahstubbs\/close-votes-uk\/blob\/master\/data-prep\/99\/006.js#L71>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "micahstubbs\/close-votes-uk",
+                "title_link": "https:\/\/github.com\/micahstubbs\/close-votes-uk\/blob\/master\/data-prep\/99\/006.js#L71",
+                "text": "Contribute to close-votes-uk development by creating an account on GitHub.",
+                "fallback": "GitHub: micahstubbs\/close-votes-uk",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/2119400?v=3&s=400",
+                "from_url": "https:\/\/github.com\/micahstubbs\/close-votes-uk\/blob\/master\/data-prep\/99\/006.js#L71",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1441776831.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "cool",
+        "ts": "1441777831.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "kind of weird that javascript doesn\u2019t give a nicer way to initialize an empty array",
+        "ts": "1441777844.000017"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "er, a zero array",
+        "ts": "1441777868.000018"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "like in R: `rep(0, length(parties)`",
+        "ts": "1441777899.000019"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "or Python: `[0] * len(parties)`",
+        "ts": "1441777920.000020"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Will be my first event.  I can bring a case of bottled water",
+        "ts": "1436810884.000002"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Loaded it in my trunk.",
+        "ts": "1436811122.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Thanks <@U066B6F9R> for the water! ",
+        "ts": "1436848860.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "kudos to <@U061A5N1G> <@U066B6F9R> for bringing the drinks",
+        "ts": "1436850756.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "eager to chat with <@U061A5N1G> and hear more about the meetup tonight ",
+        "ts": "1436850799.000006"
+    }
+]

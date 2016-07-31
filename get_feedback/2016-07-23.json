@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<@U064KUGRJ>: there is no search bar",
+        "ts": "1469314321.000002"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<@U065ETZEC>: yea, I want to put one in.  Either a drop-down menu with available park names or maybe something with parks grouped by state",
+        "ts": "1469334519.000003"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "yeah that sounds good!",
+        "ts": "1469334728.000004"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "I was looking for white river national park today, but couldn\u2019t find it",
+        "ts": "1469334746.000005"
+    }
+]

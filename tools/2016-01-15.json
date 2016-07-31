@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U061A5N1G",
+        "members": [
+            "U061A1R2R",
+            "U061A3E0G",
+            "U061A5N1G",
+            "U064KUGRJ",
+            "U064QAV16",
+            "U064SRKPD",
+            "U065ETZEC",
+            "U066B6F9R",
+            "U066H4AKX",
+            "U066MTL5U",
+            "U06A0V8LS",
+            "U06AU830R",
+            "U06TSTHSA",
+            "U06U9C8Q7",
+            "U06V0NZ5M",
+            "U06VCHHBR",
+            "U08KJ4NT0",
+            "U08QXDA68",
+            "U0DS03NHG"
+        ],
+        "type": "message",
+        "subtype": "channel_archive",
+        "text": "<@U061A5N1G|neerajt> archived the channel (w\/ 19 members)",
+        "ts": "1452892040.000002"
+    }
+]

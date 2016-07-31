@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U06H9NP25",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06H9NP25|lucas_vinze> has joined the channel",
+        "ts": "1434658548.000055"
+    }
+]

@@ -1,0 +1,541 @@
+[
+    {
+        "id": "C061A0WJG",
+        "name": "datajam",
+        "created": "1433558319",
+        "creator": "U061A1R2R",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U061A1R2R",
+            "U061A3E0G",
+            "U061A5N1G",
+            "U064KUGRJ",
+            "U064SRKPD",
+            "U065ETZEC",
+            "U066H4AKX",
+            "U066MTL5U",
+            "U06TSTHSA",
+            "U06U9C8Q7",
+            "U06V0NZ5M",
+            "U06VCHHBR",
+            "U08KJ4NT0",
+            "U08QUEY76",
+            "U08QUNR6J",
+            "U08QXDA68",
+            "U0CCARLFQ",
+            "U0CCDH7S6",
+            "U0CN2N1PT",
+            "U0CRUMJ2D",
+            "U17FMTJMQ",
+            "U1GGRN36X",
+            "U1L93QDK6",
+            "U1L94SQ8N",
+            "U1LB3P8RF",
+            "U1QPREQUC"
+        ],
+        "pins": [
+            {
+                "id": "1444755381.000003",
+                "type": "C",
+                "user": "U061A5N1G",
+                "owner": "U061A5N1G",
+                "created": "1444755463"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C064FSX8X",
+        "name": "datasets",
+        "created": "1433860398",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place for datasets you'd like to visualize",
+            "creator": "U061A1R2R",
+            "last_set": "1433860402"
+        }
+    },
+    {
+        "id": "C1HB6SJS2",
+        "name": "design-thinking",
+        "created": "1466037211",
+        "creator": "U061A3E0G",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U061A3E0G",
+            "U1QPREQUC"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C064FLUHY",
+        "name": "examples",
+        "created": "1433860197",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place for example graphics to study, enjoy, and learn from",
+            "creator": "U061A1R2R",
+            "last_set": "1433860230"
+        }
+    },
+    {
+        "id": "C061A2UGJ",
+        "name": "general",
+        "created": "1433558207",
+        "creator": "U061A3E0G",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U061A1R2R",
+            "U061A3E0G",
+            "U061A5N1G",
+            "U064KUGRJ",
+            "U064QAV16",
+            "U064SRKPD",
+            "U065ETZEC",
+            "U066B6F9R",
+            "U066H4AKX",
+            "U066MTL5U",
+            "U06A0V8LS",
+            "U06AU830R",
+            "U06H9NP25",
+            "U06TSTHSA",
+            "U06U9C8Q7",
+            "U06V0NZ5M",
+            "U06VCHHBR",
+            "U07N1U6UB",
+            "U07P7LT9S",
+            "U08KJ4NT0",
+            "U08QUEY76",
+            "U08QUGTA4",
+            "U08QUNR6J",
+            "U08QVMBSS",
+            "U08QXDA68",
+            "U08RGD1RD",
+            "U08SYC5T7",
+            "U08SZBFAM",
+            "U0AQAF1QW",
+            "U0CBK5KAT",
+            "U0CCARLFQ",
+            "U0CCDH7S6",
+            "U0CDC6TBQ",
+            "U0CN2N1PT",
+            "U0CRUMJ2D",
+            "U0DS03NHG",
+            "U0GUN7U6T",
+            "U0GVDH70F",
+            "U0J7L4J8M",
+            "U0J8QFGN8",
+            "U0J8SUPPY",
+            "U0M45CW2X",
+            "U0M8JJYUQ",
+            "U17FMTJMQ",
+            "U17KVDXQD",
+            "U17KXSB7W",
+            "U17L585K5",
+            "U1GGRN36X",
+            "U1GHT2TA4",
+            "U1H7NKVHP",
+            "U1HKBB6MB",
+            "U1L93QDK6",
+            "U1L942MDL",
+            "U1L94SQ8N",
+            "U1L9889KJ",
+            "U1L9CEXGX",
+            "U1LA8HJ3W",
+            "U1LAHLAFK",
+            "U1LAZ5USV",
+            "U1LB3P8RF",
+            "U1LB96REX",
+            "U1LJEMJ66",
+            "U1LMNG29M",
+            "U1PB5DA3F",
+            "U1QPREQUC",
+            "U1QR4LUQP",
+            "U1QTYJDFG",
+            "U1R1B0Q6P",
+            "U1R4AJHD2",
+            "U1RA477CL",
+            "U1TM266DA"
+        ],
+        "topic": {
+            "value": "Next Data Jam Feb 13th 2016",
+            "creator": "U061A5N1G",
+            "last_set": "1452892116"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C16TQKMAQ",
+        "name": "get_feedback",
+        "created": "1462580282",
+        "creator": "U061A5N1G",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U061A1R2R",
+            "U061A3E0G",
+            "U061A5N1G",
+            "U064KUGRJ",
+            "U064SRKPD",
+            "U065ETZEC",
+            "U066B6F9R",
+            "U08QXDA68",
+            "U17FMTJMQ",
+            "U17KXSB7W",
+            "U1GGRN36X",
+            "U1LB3P8RF",
+            "U1QPREQUC"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "get feedback on something you\u2019re working on",
+            "creator": "U061A5N1G",
+            "last_set": "1462580283"
+        }
+    },
+    {
+        "id": "C1GHZFP63",
+        "name": "meetup",
+        "created": "1465863537",
+        "creator": "U061A5N1G",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C061A3E0Y",
+        "name": "meetup-",
+        "created": "1433558207",
+        "creator": "U061A3E0G",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U061A1R2R",
+            "U061A3E0G",
+            "U061A5N1G",
+            "U064KUGRJ",
+            "U064QAV16",
+            "U064SRKPD",
+            "U065ETZEC",
+            "U066B6F9R",
+            "U066H4AKX",
+            "U066MTL5U",
+            "U06A0V8LS",
+            "U06AU830R",
+            "U06H9NP25",
+            "U06TSTHSA",
+            "U06U9C8Q7",
+            "U06V0NZ5M",
+            "U06VCHHBR",
+            "U07N1U6UB",
+            "U07P7LT9S",
+            "U08KJ4NT0",
+            "U08QUEY76",
+            "U08QUGTA4",
+            "U08QUNR6J",
+            "U08QVMBSS",
+            "U08QXDA68",
+            "U08RGD1RD",
+            "U08SYC5T7",
+            "U08SZBFAM",
+            "U0AQAF1QW",
+            "U0CBK5KAT",
+            "U0CCARLFQ",
+            "U0CCDH7S6",
+            "U0CDC6TBQ",
+            "U0CN2N1PT",
+            "U0CRUMJ2D",
+            "U0DS03NHG",
+            "U0GUN7U6T",
+            "U0GVDH70F",
+            "U0J7L4J8M",
+            "U0J8QFGN8",
+            "U0J8SUPPY",
+            "U0M45CW2X",
+            "U0M8JJYUQ",
+            "U17FMTJMQ",
+            "U17KVDXQD",
+            "U17KXSB7W",
+            "U17L585K5",
+            "U1GGRN36X",
+            "U1GHT2TA4",
+            "U1H7NKVHP",
+            "U1HKBB6MB",
+            "U1L93QDK6",
+            "U1L942MDL",
+            "U1L94SQ8N",
+            "U1L9889KJ",
+            "U1L9CEXGX",
+            "U1LA8HJ3W",
+            "U1LAHLAFK",
+            "U1LAZ5USV",
+            "U1LB3P8RF",
+            "U1LB96REX",
+            "U1LJEMJ66",
+            "U1LMNG29M",
+            "U1PB5DA3F",
+            "U1QPREQUC",
+            "U1QR4LUQP",
+            "U1QTYJDFG",
+            "U1R1B0Q6P",
+            "U1R4AJHD2",
+            "U1RA477CL",
+            "U1TM266DA"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "U061A1R2R",
+            "last_set": "1452913319"
+        },
+        "purpose": {
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C13426QKC",
+        "name": "organizations",
+        "created": "1461360425",
+        "creator": "U061A3E0G",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U061A3E0G",
+            "U061A5N1G",
+            "U064KUGRJ",
+            "U065ETZEC",
+            "U08QXDA68",
+            "U1GGRN36X",
+            "U1LB3P8RF",
+            "U1QPREQUC",
+            "U1R1B0Q6P"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Links and discussions on interesting organizations doing things with data, sharing interesting data sets, and helping explore this brave new world.",
+            "creator": "U061A3E0G",
+            "last_set": "1461360426"
+        }
+    },
+    {
+        "id": "C065DT41X",
+        "name": "readings",
+        "created": "1433903599",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "posts on data visualizations theory and practice.  all forms of written word, aside from tutorials",
+            "creator": "U061A1R2R",
+            "last_set": "1433903599"
+        }
+    },
+    {
+        "id": "C0PNFE8NS",
+        "name": "sci",
+        "created": "1456851707",
+        "creator": "U066B6F9R",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U061A3E0G",
+            "U061A5N1G",
+            "U065ETZEC",
+            "U066B6F9R",
+            "U08QXDA68",
+            "U17KXSB7W",
+            "U1GGRN36X",
+            "U1QPREQUC",
+            "U1R1B0Q6P"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "scientific",
+            "creator": "U066B6F9R",
+            "last_set": "1456851708"
+        }
+    },
+    {
+        "id": "C064P9LG4",
+        "name": "sponsors",
+        "created": "1433868193",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place to share opportunities to collaborate with companies and orgs that like to support the data visualization community in houston",
+            "creator": "U061A1R2R",
+            "last_set": "1433868193"
+        }
+    },
+    {
+        "id": "C064MDSSC",
+        "name": "talks",
+        "created": "1433866202",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place for datavis videos &amp; podcasts.  linear recorded spoken-word audiovisual content, if you will.",
+            "creator": "U061A1R2R",
+            "last_set": "1433866203"
+        }
+    },
+    {
+        "id": "C08QUCF3R",
+        "name": "team-d3",
+        "created": "1439043847",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place for talking about d3 projects at the data jam",
+            "creator": "U061A1R2R",
+            "last_set": "1439043848"
+        }
+    },
+    {
+        "id": "C064FGV36",
+        "name": "tools",
+        "created": "1433860178",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place to share libraries, packages, and products for data visualization.  find a novel tool, or want to share one you use every day? post it here.",
+            "creator": "U061A1R2R",
+            "last_set": "1433860178"
+        }
+    },
+    {
+        "id": "C064FP6US",
+        "name": "tutorials",
+        "created": "1433860244",
+        "creator": "U061A1R2R",
+        "is_archived": true,
+        "is_general": false,
+        "members": [
+
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "a place for posts that teach you, step by step, how to build a certain interactive group or use a certain tool.  writing your own tutorial?  talk about it here.",
+            "creator": "U061A1R2R",
+            "last_set": "1433866537"
+        }
+    }
+]

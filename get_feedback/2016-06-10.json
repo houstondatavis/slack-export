@@ -1,0 +1,167 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<https:\/\/houston.shinyapps.io\/potholes\/>",
+        "ts": "1465604050.000024"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Shiny! Looking great! Those visual summaries are delightful ",
+        "ts": "1465606264.000025"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Tuesdays 10 am. Everybody is looking for information.",
+        "ts": "1465606321.000026"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Case closed in two hours",
+        "ts": "1465606388.000027"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Way ahead of schedule",
+        "ts": "1465606431.000028"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Those three insights could make a great film noir setting ",
+        "ts": "1465606450.000029"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Thanks <@U065ETZEC> !",
+        "ts": "1465606468.000030"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "hahahaha",
+        "ts": "1465606469.000031"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "thanks <@U061A3E0G> !",
+        "ts": "1465606474.000032"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Film noir movie about potholes. Someine get a recurrent neural network on the case.",
+        "edited": {
+            "user": "U061A3E0G",
+            "ts": "1465606531.000000"
+        },
+        "ts": "1465606522.000033"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "speaking of a film, have you seen this yet, <@U061A3E0G> ? <https:\/\/youtu.be\/LY7x2Ihqjmc?t=1m6s>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Sunspring | A Sci-Fi Short Film Starring Thomas Middleditch",
+                "title_link": "https:\/\/youtu.be\/LY7x2Ihqjmc?t=1m6s",
+                "author_name": "Ars Technica Videos",
+                "author_link": "https:\/\/www.youtube.com\/user\/arstechnicavideos",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/LY7x2Ihqjmc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Sunspring | A Sci-Fi Short Film Starring Thomas Middleditch",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/LY7x2Ihqjmc?start=66&feature=oembed&start=66&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/LY7x2Ihqjmc?t=1m6s",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465606526.000034",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Yes, and about to watch it again!",
+        "ts": "1465606549.000037"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "hahahahahaha so good!",
+        "ts": "1465606556.000038"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "yeah I agree, I really like the summaries too",
+        "ts": "1465607090.000039"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I still think it\u2019ll be good to figure out how to add search to the map",
+        "ts": "1465607098.000040"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I think not only for this project, but for others too",
+        "ts": "1465607111.000041"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "yeah search will be a good one",
+        "ts": "1465607177.000042"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "maybe next weekend",
+        "ts": "1465607191.000043"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Search in maps. What do y'all think about <http:\/\/geoban.intentive.info>",
+        "attachments": [
+            {
+                "title": "GeoBan.Intentive.Info",
+                "title_link": "http:\/\/geoban.intentive.info",
+                "text": "Design your own geographical go boards, laser cut out of sustainable materials.",
+                "fallback": "GeoBan.Intentive.Info",
+                "from_url": "http:\/\/geoban.intentive.info",
+                "service_icon": "http:\/\/geoban.intentive.info\/favicon.ico",
+                "service_name": "geoban.intentive.info",
+                "id": 1
+            }
+        ],
+        "ts": "1465607684.000044"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "I launched an update with a mobile optimization. Making it easier to play on a small board on mobile.",
+        "ts": "1465607754.000046"
+    }
+]

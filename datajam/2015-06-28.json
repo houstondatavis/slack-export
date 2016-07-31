@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U06U9C8Q7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06U9C8Q7|dvdt> has joined the channel",
+        "ts": "1435526689.000002"
+    }
+]

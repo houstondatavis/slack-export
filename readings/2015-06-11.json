@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "'D3 can be used to represent \"Big Data\" data visually only after it has been reduced. This is a great paper about the \"ImMens\" system that contains an overview of various methods of \"Big Data\" reduction that can be used in conjunction with visualization: <http:\/\/vis.stanford.edu\/files\/2013-imMens-EuroVis.pdf> (see the section \"3. Data Reduction Methods\").'",
+        "ts": "1434078388.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/groups.google.com\/forum\/#!topic\/d3-js\/ix58Fu_5eLY>",
+        "ts": "1434078394.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/vis.stanford.edu\/files\/2013-imMens-EuroVis.pdf>",
+        "ts": "1434078401.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F068P201Z\/screen_shot_2015-06-11_at_22.06.54.png|Data Reduction Methods> and commented: <http:\/\/vis.stanford.edu\/files\/2013-imMens-EuroVis.pdf>",
+        "file": {
+            "id": "F068P201Z",
+            "created": 1434078439,
+            "timestamp": 1434078439,
+            "name": "Screen Shot 2015-06-11 at 22.06.54.png",
+            "title": "Data Reduction Methods",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 55017,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F068P201Z\/screen_shot_2015-06-11_at_22.06.54.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F068P201Z\/download\/screen_shot_2015-06-11_at_22.06.54.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F068P201Z-3f14f10a76\/screen_shot_2015-06-11_at_22.06.54_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F068P201Z-3f14f10a76\/screen_shot_2015-06-11_at_22.06.54_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F068P201Z-3f14f10a76\/screen_shot_2015-06-11_at_22.06.54_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 143,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F068P201Z-3f14f10a76\/screen_shot_2015-06-11_at_22.06.54_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 190,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F068P201Z-3f14f10a76\/screen_shot_2015-06-11_at_22.06.54_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "image_exif_rotation": 1,
+            "original_w": 558,
+            "original_h": 221,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F068P201Z\/screen_shot_2015-06-11_at_22.06.54.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F068P201Z-d8894a6472",
+            "channels": [
+                "C065DT41X"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc068P1VFC",
+                "created": 1434078442,
+                "timestamp": 1434078442,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/vis.stanford.edu\/files\/2013-imMens-EuroVis.pdf>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434078442.000005"
+    }
+]

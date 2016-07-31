@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "nice <@U061A3E0G> !",
+        "ts": "1434647484.000014"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06H05ZRR\/screen_shot_2015-06-18_at_12.11.14.png|search interest for candidates> and commented: this search interest in candidates by city dataset looks quite cool.  can imagine a few clever ways we could extend existing election interactive graphics",
+        "file": {
+            "id": "F06H05ZRR",
+            "created": 1434647551,
+            "timestamp": 1434647551,
+            "name": "Screen Shot 2015-06-18 at 12.11.14.png",
+            "title": "search interest for candidates",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 20814,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06H05ZRR\/screen_shot_2015-06-18_at_12.11.14.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06H05ZRR\/download\/screen_shot_2015-06-18_at_12.11.14.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H05ZRR-c87c76764a\/screen_shot_2015-06-18_at_12.11.14_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H05ZRR-c87c76764a\/screen_shot_2015-06-18_at_12.11.14_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H05ZRR-c87c76764a\/screen_shot_2015-06-18_at_12.11.14_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 59,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H05ZRR-c87c76764a\/screen_shot_2015-06-18_at_12.11.14_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 78,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H05ZRR-c87c76764a\/screen_shot_2015-06-18_at_12.11.14_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "image_exif_rotation": 1,
+            "original_w": 570,
+            "original_h": 93,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06H05ZRR\/screen_shot_2015-06-18_at_12.11.14.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06H05ZRR-8e5b02c3a3",
+            "channels": [
+                "C064FSX8X"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc06H07W04",
+                "created": 1434647553,
+                "timestamp": 1434647553,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "this search interest in candidates by city dataset looks quite cool.  can imagine a few clever ways we could extend existing election interactive graphics",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434647553.000015"
+    }
+]

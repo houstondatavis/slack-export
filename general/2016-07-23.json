@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<http:\/\/www.bloomberg.com\/features\/2016-richard-berk-future-crime\/>",
+        "attachments": [
+            {
+                "service_name": "Bloomberg.com",
+                "title": "This Guy Trains Computers to Find Future Criminals",
+                "title_link": "http:\/\/www.bloomberg.com\/features\/2016-richard-berk-future-crime\/",
+                "text": "Richard Berk says his algorithms take the bias out of criminal justice. But could they make it worse?",
+                "fallback": "Bloomberg.com: This Guy Trains Computers to Find Future Criminals",
+                "image_url": "http:\/\/www.bloomberg.com\/features\/2016-richard-berk-future-crime\/img\/social.jpg",
+                "from_url": "http:\/\/www.bloomberg.com\/features\/2016-richard-berk-future-crime\/",
+                "image_width": 462,
+                "image_height": 250,
+                "image_bytes": 498847,
+                "service_icon": "http:\/\/www.bloomberg.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1469282298.000035"
+    }
+]

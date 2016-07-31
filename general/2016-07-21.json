@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "I like the sketching idea for doing science as well: before you collect your data \/ run the experiment, sketch out what you expect the results to look like (or what you want them to look like).",
+        "ts": "1469123746.000025"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "Then you make the actual plot and compare, for a really visual kind of hypothesis testing",
+        "ts": "1469123788.000026"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "Of course, I'm hardly ever disciplined enough to come up with something so concrete ahead of time, but it seems like a good idea",
+        "ts": "1469123852.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "<http:\/\/jkunst.com\/r\/pokemon-visualize-em-all\/>",
+        "attachments": [
+            {
+                "title": "\u00b7 Jkunst \u00b7 pokemon: visualize 'em all!",
+                "title_link": "http:\/\/jkunst.com\/r\/pokemon-visualize-em-all\/",
+                "text": "Statistics, code and data",
+                "fallback": "\u00b7 Jkunst \u00b7 pokemon: visualize 'em all!",
+                "from_url": "http:\/\/jkunst.com\/r\/pokemon-visualize-em-all\/",
+                "service_name": "jkunst.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469143768.000028"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U1GGRN36X>: related \n<http:\/\/ispokemongodownornot.com>",
+        "attachments": [
+            {
+                "title": "Is Pok\u00e9mon GO down or not?",
+                "title_link": "http:\/\/ispokemongodownornot.com",
+                "text": "Dashboard to see the status of the Pok\u00e9mon GO servers. Powered by Datadog.",
+                "fallback": "Is Pok\u00e9mon GO down or not?",
+                "image_url": "http:\/\/ispokemongodownornot.com\/datadog-pokeball.png",
+                "from_url": "http:\/\/ispokemongodownornot.com",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 17869,
+                "service_icon": "http:\/\/ispokemongodownornot.com\/favicon.ico",
+                "service_name": "ispokemongodownornot.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469143992.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "<@U066MTL5U>: haha awesome!",
+        "ts": "1469144024.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "<@U066MTL5U>:  how do they get that data about server up time? do they keep pinging the servers?",
+        "ts": "1469144123.000033"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "I assume so. I haven't looked at it too deeply yet ",
+        "ts": "1469144342.000034",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1GGRN36X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/github.com\/robbyrussell\/oh-my-zsh\/blob\/master\/plugins\/git\/git.plugin.zsh>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "robbyrussell\/oh-my-zsh",
+                "title_link": "https:\/\/github.com\/robbyrussell\/oh-my-zsh\/blob\/master\/plugins\/git\/git.plugin.zsh",
+                "text": "oh-my-zsh - A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 the...",
+                "fallback": "GitHub: robbyrussell\/oh-my-zsh",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/257?v=3&s=400",
+                "from_url": "https:\/\/github.com\/robbyrussell\/oh-my-zsh\/blob\/master\/plugins\/git\/git.plugin.zsh",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1444374551.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066MTL5U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> these git aliases really speed up my workflow",
+        "ts": "1444374582.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "you might enjoy this big set for the zsh shell",
+        "ts": "1444374600.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":simple_smile: ",
+        "ts": "1444374609.000006"
+    }
+]

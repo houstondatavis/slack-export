@@ -1,0 +1,41 @@
+[
+    {
+        "user": "U1R1B0Q6P",
+        "text": "<@U1R1B0Q6P|sethsa> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468940698.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1R1B0Q6P",
+        "text": "another cool tool is <https:\/\/www.overleaf.com>",
+        "edited": {
+            "user": "U1R1B0Q6P",
+            "ts": "1468940865.000000"
+        },
+        "ts": "1468940851.000003",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U061A5N1G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "wow",
+        "ts": "1468941012.000005"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I wish! Are you going? ?",
+        "ts": "1468280940.000003"
+    },
+    {
+        "user": "U17KXSB7W",
+        "text": "<@U17KXSB7W|perimosocordiae> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468281465.000004"
+    },
+    {
+        "user": "U1QPREQUC",
+        "text": "<@U1QPREQUC|justingosses> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468289421.000005"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "wow i didnt know it was in austin. I could\u2019ve gone!",
+        "ts": "1468292263.000006"
+    }
+]

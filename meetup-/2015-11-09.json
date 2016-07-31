@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/www.meetup.com\/ChicagoCityData\/events\/226207669\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Chicago City Data User Group",
+                "title_link": "http:\/\/www.meetup.com\/ChicagoCityData\/events\/226207669\/",
+                "text": "Education systems are a foundational component of urban life.&amp;nbsp; So it is not surprising that we have had a lot of interest in Chicago Public Schools data.&amp;nbsp; Join us on November 4th as we explo",
+                "fallback": "Meetup: Chicago City Data User Group",
+                "thumb_url": "http:\/\/img1.meetupstatic.com\/img\/004881038276245959070\/new_logo_big.png",
+                "from_url": "http:\/\/www.meetup.com\/ChicagoCityData\/events\/226207669\/",
+                "thumb_width": 567,
+                "thumb_height": 392,
+                "id": 1
+            }
+        ],
+        "ts": "1447120258.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "I went to chicago city data user group meetup last week. They are doing awesome stuff there.",
+        "ts": "1447120309.000004"
+    }
+]

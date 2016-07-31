@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U08KJ4NT0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08KJ4NT0|greg.magyar> has joined the channel",
+        "ts": "1438743050.776013"
+    }
+]

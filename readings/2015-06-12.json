@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/eloquentjavascript.net>",
+        "ts": "1434117784.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/technology.stitchfix.com\/blog\/2015\/05\/26\/significant-sample\/>",
+        "attachments": [
+            {
+                "text": "Stitch Fix is a full-stack startup creating unique solutions in data-driven merchandising, massively scaled personal styling, and complex logistics.",
+                "fallback": "Stitch Fix is a full-stack startup creating unique solutions in data-driven merchandising, massively scaled personal styling, and complex logistics.",
+                "from_url": "http:\/\/technology.stitchfix.com\/blog\/2015\/05\/26\/significant-sample\/",
+                "id": 1
+            }
+        ],
+        "ts": "1434134936.000002"
+    },
+    {
+        "user": "U066MTL5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066MTL5U|colinnlsn> has joined the channel",
+        "ts": "1434139108.000004"
+    },
+    {
+        "user": "U06A0V8LS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06A0V8LS|mccafferty> has joined the channel",
+        "ts": "1434155291.000005"
+    }
+]

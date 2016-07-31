@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U17KVDXQD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17KVDXQD|mcbrideclan> has joined the channel",
+        "ts": "1462893282.000008"
+    },
+    {
+        "user": "U17KXSB7W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17KXSB7W|perimosocordiae> has joined the channel",
+        "ts": "1462895151.000009"
+    },
+    {
+        "user": "U17L585K5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17L585K5|shawnhagler> has joined the channel",
+        "ts": "1462902268.000010"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "I met Georgia and Stephanie at Visualized last year. They did a talk recapping the project \"putting a bow on it\" and highlighting some of the lessons learned. I can't wait to share that talk once its published",
+        "ts": "1465911656.000033"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Also went ahead and did a couple of weeks of the dear data project with two designer friends of mine. The outcome was revealing, insightful and brought a lens into each other's worlds that left an impression",
+        "ts": "1465911702.000034"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F1GNUHMSL\/2015-05-09.jpg|A week of thanks>",
+        "file": {
+            "id": "F1GNUHMSL",
+            "created": 1465912010,
+            "timestamp": 1465912010,
+            "name": "2015-05-09.jpg",
+            "title": "A week of thanks",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 1440451,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1GNUHMSL\/2015-05-09.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1GNUHMSL\/download\/2015-05-09.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1GNUHMSL-95b0714ce3\/2015-05-09_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2448,
+            "original_h": 3264,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F1GNUHMSL\/2015-05-09.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F1GNUHMSL-2539dbd913",
+            "channels": [
+                "C061A3E0Y"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U061A5N1G"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "100",
+                    "users": [
+                        "U061A1R2R"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "pray",
+                    "users": [
+                        "U061A1R2R"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1465912013.000035"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very cool. I recognize that font!",
+        "ts": "1465915144.000037"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "heh thnx! Linson started as an optimized handwriting experiment :slightly_smiling_face: will be released as a font in a near future",
+        "edited": {
+            "user": "U061A3E0G",
+            "ts": "1465915273.000000"
+        },
+        "ts": "1465915254.000038"
+    }
+]

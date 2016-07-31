@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U064KUGRJ|timabram> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/timabram\/F0M87D90F\/converting_ms_time_string_to_dates.r|Converting ms time string to Dates>",
+        "file": {
+            "id": "F0M87D90F",
+            "created": 1455381900,
+            "timestamp": 1455381900,
+            "name": "Converting_ms_time_string_to_Dates.r",
+            "title": "Converting ms time string to Dates",
+            "mimetype": "text\/plain",
+            "filetype": "r",
+            "pretty_type": "R",
+            "user": "U064KUGRJ",
+            "editable": true,
+            "size": 112,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0M87D90F\/converting_ms_time_string_to_dates.r?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0M87D90F\/download\/converting_ms_time_string_to_dates.r?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F0M87D90F\/converting_ms_time_string_to_dates.r",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0M87D90F-003bc6e0c0",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/timabram\/F0M87D90F\/converting_ms_time_string_to_dates.r\/edit",
+            "preview": "require(lubridate)\r\ndatetime <-as.numeric(unlist(alcoholic$Date))\/1000\r\ndatetime <-as.interval(datetime, origin)",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">require<\/span>(<span class=\"cm-variable\">lubridate<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">datetime<\/span> <span class=\"cm-arrow\">&lt;-<\/span><span class=\"cm-variable\">as.numeric<\/span>(<span class=\"cm-variable\">unlist<\/span>(<span class=\"cm-variable\">alcoholic<\/span><span class=\"cm-dollar\">$<\/span><span class=\"cm-variable\">Date<\/span>))<span class=\"cm-operator\">\/<\/span><span class=\"cm-number\">1000<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-variable\">datetime<\/span> <span class=\"cm-arrow\">&lt;-<\/span><span class=\"cm-variable\">as.interval<\/span>(<span class=\"cm-variable\">datetime<\/span>, <span class=\"cm-variable\">origin<\/span>)<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 3,
+            "lines_more": 0,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U061A1R2R"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U064KUGRJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U064KUGRJ|timabram>",
+        "bot_id": null,
+        "ts": "1455381900.000002"
+    }
+]

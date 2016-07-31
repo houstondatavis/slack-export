@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U07P7LT9S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U07P7LT9S|egoodwintx> has joined the channel",
+        "ts": "1437071873.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hi, folks! Welcome",
+        "ts": "1437071958.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "greetings <@U07N1U6UB> <@U07P7LT9S> !",
+        "ts": "1437072095.000004"
+    },
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": "Howdy!",
+        "ts": "1437102930.000002"
+    },
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": "<@U061A5N1G> you still owe me slides from your HRUG talk!",
+        "ts": "1437102946.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Oops! ",
+        "ts": "1437105973.000002"
+    }
+]

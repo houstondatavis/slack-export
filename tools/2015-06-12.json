@@ -1,0 +1,168 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "yes,  thinking that too",
+        "ts": "1434112231.000029"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/uwdata.github.io\/voyager\/#\/>",
+        "ts": "1434117637.000030"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/github.com\/uwdata\/voyager>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "uwdata\/voyager",
+                "title_link": "https:\/\/github.com\/uwdata\/voyager",
+                "text": "voyager - Visualization browser for open-ended data exploration",
+                "fallback": "GitHub: uwdata\/voyager",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/5448960?v=3&s=400",
+                "from_url": "https:\/\/github.com\/uwdata\/voyager",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1434117720.000031"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I'd like to share my favorite terminal setup for windows",
+        "ts": "1434126803.000033"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "git bash + Console2",
+        "ts": "1434126812.000034"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/msysgit.github.io\/> (git bash is part of this installer)",
+        "attachments": [
+            {
+                "text": "We bring the awesome Git VCS to Windows",
+                "fallback": "We bring the awesome Git VCS to Windows",
+                "from_url": "https:\/\/msysgit.github.io\/",
+                "id": 1
+            }
+        ],
+        "ts": "1434126824.000035"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/sourceforge.net\/projects\/console\/>",
+        "attachments": [
+            {
+                "service_name": "SourceForge",
+                "title": "Console",
+                "title_link": "http:\/\/sourceforge.net\/projects\/console\/",
+                "text": "Console download. Console 2013-06-12 19:35:42 free download. Console Console is a Windows console window enhancement. Console features include: multiple tabs, text editor-like text selection, different background types, alph",
+                "fallback": "SourceForge: Console",
+                "from_url": "http:\/\/sourceforge.net\/projects\/console\/",
+                "id": 1
+            }
+        ],
+        "ts": "1434126832.000037"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "quick guide to selecting git bash as your shell in Console2 <https:\/\/lostechies.com\/jimmybogard\/2010\/04\/05\/integrating-the-git-bash-into-console\/>",
+        "ts": "1434126864.000039"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F069GGP8U\/6-12-2015_11.36.22_am.png|Git Bash + Console2> and commented: when you have it setup, you should see something like this :simple_smile:",
+        "file": {
+            "id": "F069GGP8U",
+            "created": 1434127012,
+            "timestamp": 1434127012,
+            "name": "6-12-2015 11.36.22 AM.png",
+            "title": "Git Bash + Console2",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 31185,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F069GGP8U\/6-12-2015_11.36.22_am.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F069GGP8U\/download\/6-12-2015_11.36.22_am.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F069GGP8U-a27ea57e96\/6-12-2015_11.36.22_am_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F069GGP8U-a27ea57e96\/6-12-2015_11.36.22_am_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F069GGP8U-a27ea57e96\/6-12-2015_11.36.22_am_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 289,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F069GGP8U-a27ea57e96\/6-12-2015_11.36.22_am_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 386,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F069GGP8U-a27ea57e96\/6-12-2015_11.36.22_am_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "image_exif_rotation": 1,
+            "original_w": 677,
+            "original_h": 544,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F069GGP8U\/6-12-2015_11.36.22_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F069GGP8U-350e84ff97",
+            "channels": [
+                "C064FGV36"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc069GGSSX",
+                "created": 1434127015,
+                "timestamp": 1434127015,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "when you have it setup, you should see something like this :simple_smile:",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434127015.000040"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "this is the closest thing I've found to the iTerm experience on a Mac, with multiple tabs and Unix syntax",
+        "ts": "1434127049.000041"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Bookmarking this for next time I'm helping someone on a Windows computer",
+        "ts": "1434127155.000042"
+    },
+    {
+        "user": "U06A0V8LS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06A0V8LS|mccafferty> has joined the channel",
+        "ts": "1434155291.000043"
+    }
+]

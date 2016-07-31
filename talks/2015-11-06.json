@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/www.youtube.com\/watch?v=JNMbLxqzGFA>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Vadim Ogievetsky - Crossing the Chasm 10.29.15",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=JNMbLxqzGFA",
+                "author_name": "viSFest",
+                "author_link": "https:\/\/www.youtube.com\/user\/viSFestWest",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/JNMbLxqzGFA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Vadim Ogievetsky - Crossing the Chasm 10.29.15",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/JNMbLxqzGFA?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=JNMbLxqzGFA",
+                "id": 1
+            }
+        ],
+        "ts": "1446835487.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "went to this talk last week.  interesting to hear what d3 is useful for from one of the guys who worked on it early on",
+        "ts": "1446835551.000004"
+    }
+]

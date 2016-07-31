@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "does anyone know if we can display phonetic alphabets in SVG? Ex - Algirdas Avi\u00c2\u017eienis",
+        "ts": "1465931267.000007",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

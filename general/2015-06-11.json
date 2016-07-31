@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "Hi, neerajt",
+        "ts": "1434038618.000042"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> Check out this Meetup with SF Big Analytics <http:\/\/meetu.ps\/2Jv4gy>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "SF Big Analytics",
+                "title_link": "http:\/\/meetu.ps\/2Jv4gy",
+                "text": "We are very happy to invite Min Ragan-Kelley from Prof. Fernando Perez ( ipython-notebook creator)'s team to talk about the latest development in Jupyter and IPython&amp;nbsp; Sparker : Min Ragan-Kelle",
+                "fallback": "Meetup: SF Big Analytics",
+                "thumb_url": "http:\/\/img1.meetupstatic.com\/img\/004881038276245959070\/new_logo_big.png",
+                "from_url": "http:\/\/meetu.ps\/2Jv4gy",
+                "thumb_width": 567,
+                "thumb_height": 392,
+                "id": 1
+            }
+        ],
+        "ts": "1434069434.000043"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Oh man, I want to go!",
+        "ts": "1434069769.000045"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Ah crap! Would've been fun to go.",
+        "ts": "1434069850.000046"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "ah wait, SF shouldve read",
+        "ts": "1434069874.000047"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Oh did it already happen ",
+        "ts": "1434069877.000048"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Not yet. I didn\u2019t do the time conversion",
+        "ts": "1434069909.000049"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "\"Prof. Fernando Perez ( ipython-notebook creator)'s team to talk about the latest development in Jupyter and IPython \"",
+        "ts": "1434075091.000050"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "visited this meetup a few weeks back -   solid talks.  Yelp's space is pretty cool - a cafe and bar that wraps around the building to a meeting space with a medley of chairs, bean bags, and exercise balls <http:\/\/www.meetup.com\/SF-Big-Analytics\/photos\/26086444\/>",
+        "attachments": [
+            {
+                "text": "The SF Big Analytics meetup will focus on all aspects of the big data analytics. From data ETL, feature generation, machine learning theory, algorithm and implementation to technologies and infrastruc",
+                "fallback": "The SF Big Analytics meetup will focus on all aspects of the big data analytics. From data ETL, feature generation, machine learning theory, algorithm and implementation to technologies and infrastruc",
+                "image_url": "http:\/\/photos2.meetupstatic.com\/photos\/event\/9\/8\/5\/c\/600_436899004.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/SF-Big-Analytics\/photos\/26086444\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 85753,
+                "id": 1
+            }
+        ],
+        "ts": "1434075197.000051"
+    }
+]

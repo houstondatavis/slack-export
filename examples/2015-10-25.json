@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "registration for openvis 2016 just opened <https:\/\/openvisconf.com\/#tickets>",
+        "attachments": [
+            {
+                "title": "OpenVisConf 2016",
+                "title_link": "https:\/\/openvisconf.com\/#tickets",
+                "text": "A two-day conference about data visualization on the Open Web.",
+                "fallback": "OpenVisConf 2016",
+                "from_url": "https:\/\/openvisconf.com\/#tickets",
+                "id": 1
+            }
+        ],
+        "ts": "1445816913.000002"
+    }
+]

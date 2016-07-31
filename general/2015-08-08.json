@@ -1,0 +1,43 @@
+[
+    {
+        "user": "U08QUEY76",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUEY76|ekabalo> has joined the channel",
+        "ts": "1439044174.000002"
+    },
+    {
+        "user": "U08QUGTA4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUGTA4|mohanrajendran> has joined the channel",
+        "ts": "1439044454.000003"
+    },
+    {
+        "user": "U08QUNR6J",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUNR6J|julinas> has joined the channel",
+        "ts": "1439044514.000004"
+    },
+    {
+        "user": "U08QVMBSS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QVMBSS|nbhossain> has joined the channel",
+        "ts": "1439048277.000005"
+    },
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1439055537.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Welcome, everyone!",
+        "ts": "1439076670.000007"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U0AQAF1QW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0AQAF1QW|stevemartingale> has joined the channel",
+        "ts": "1442422858.000002"
+    }
+]

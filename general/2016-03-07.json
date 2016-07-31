@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "<https:\/\/cbi-blog.s3.amazonaws.com\/blog\/wp-content\/uploads\/2016\/01\/IIoT-Market-Map.png>",
+        "attachments": [
+            {
+                "fallback": "1305x1146px image",
+                "image_url": "https:\/\/cbi-blog.s3.amazonaws.com\/blog\/wp-content\/uploads\/2016\/01\/IIoT-Market-Map.png",
+                "image_width": 1305,
+                "image_height": 1146,
+                "image_bytes": 426368,
+                "from_url": "https:\/\/cbi-blog.s3.amazonaws.com\/blog\/wp-content\/uploads\/2016\/01\/IIoT-Market-Map.png",
+                "id": 1
+            }
+        ],
+        "ts": "1457365631.000034"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "No mention of MarkLogic... If someone has better data please post.",
+        "ts": "1457365685.000036"
+    }
+]

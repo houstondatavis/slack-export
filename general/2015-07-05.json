@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "following looks interesting <https:\/\/plot.ly\/ipython-notebooks\/big-data-analytics-with-pandas-and-sqlite\/> and <https:\/\/datanitro.com\/trial?edx=1>",
+        "attachments": [
+            {
+                "title": "Big data analytics with Pandas and SQLite |  IPython Notebooks | plotly",
+                "title_link": "https:\/\/plot.ly\/ipython-notebooks\/big-data-analytics-with-pandas-and-sqlite\/",
+                "text": "A primer on out-of-memory analytics of large datasets with Pandas, SQLite, and IPython notebooks.",
+                "fallback": "Big data analytics with Pandas and SQLite |  IPython Notebooks | plotly",
+                "from_url": "https:\/\/plot.ly\/ipython-notebooks\/big-data-analytics-with-pandas-and-sqlite\/",
+                "id": 1
+            },
+            {
+                "text": "Automate Excel with Python. DataNitro lets you run any Python script or library - right in your spreadsheet.",
+                "fallback": "Automate Excel with Python. DataNitro lets you run any Python script or library - right in your spreadsheet.",
+                "from_url": "https:\/\/datanitro.com\/trial?edx=1",
+                "id": 2
+            }
+        ],
+        "ts": "1436157814.000002"
+    }
+]

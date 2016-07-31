@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U0J8SUPPY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0J8SUPPY|eloy> has joined the channel",
+        "ts": "1452610640.000004"
+    },
+    {
+        "user": "U0J8QFGN8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0J8QFGN8|davidjusti> has joined the channel",
+        "ts": "1452612743.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0J8QFGN8",
+        "text": "<@U061A3E0G>: Got a copy of the report, it's really nice!",
+        "ts": "1452613056.000006"
+    }
+]

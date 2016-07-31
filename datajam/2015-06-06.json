@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "yes!",
+        "ts": "1433598336.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/public.tableau.com\/profile\/micah.stubbs#!\/vizhome\/hospital-payments-explorer\/paymentsexplorer>",
+        "attachments": [
+            {
+                "service_name": "Tableau Public",
+                "service_url": "https:\/\/public.tableau.com\/profile\/micah.stubbs",
+                "text": "{{metaTag.description}}",
+                "fallback": "Tableau Public: ",
+                "from_url": "https:\/\/public.tableau.com\/profile\/micah.stubbs",
+                "id": 1
+            }
+        ],
+        "ts": "1433603186.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "mouse over to see the sum of the average payments by condition, for each region",
+        "ts": "1433603202.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1DhRfnKg1dM1SFWxMOMC8qNY1S0otOOPQb5LH8UIhDjg\/edit?usp=sharing>",
+        "ts": "1433608866.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "The event was fun",
+        "ts": "1433617949.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Sad I didn't get a chance to look at that book, javier!",
+        "ts": "1433617966.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Let's do this again soon! Great turnout!",
+        "ts": "1433618825.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Definitely, we discussed maybe doing it over a couple days. Thoughts?",
+        "ts": "1433624824.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Feedback was that it was fun, but maybe too short",
+        "ts": "1433624836.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I dunno, I think the short length was ok actually",
+        "ts": "1433637148.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Short events, more frequently",
+        "ts": "1433637175.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "May be better than big events infrequently",
+        "ts": "1433637186.000004"
+    }
+]

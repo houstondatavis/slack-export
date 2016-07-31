@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1465862078.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Kinda cool article related to the stuff Grace referred to about VR as a replacement for anesthetics <http:\/\/ict.usc.edu\/pubs\/Effectiveness%20of%20Virtual%20Reality%20for%20Pediatric%20Pain%20Distraction%20during%20IV%20Placement.pdf>",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1465865490.000000"
+        },
+        "ts": "1465865480.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/vis.csail.mit.edu>",
+        "ts": "1465865702.000005",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U061A5N1G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "loud_sound",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "frame_with_picture",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Woah!",
+        "ts": "1465865745.000006"
+    },
+    {
+        "user": "U1GGRN36X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1GGRN36X|dmajeti> has joined the channel",
+        "ts": "1465865851.000007"
+    }
+]

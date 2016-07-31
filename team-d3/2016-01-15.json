@@ -1,0 +1,19 @@
+[
+    {
+        "user": "U061A1R2R",
+        "members": [
+            "U061A1R2R",
+            "U066H4AKX",
+            "U066MTL5U",
+            "U08QUEY76",
+            "U08QUGTA4",
+            "U08QUNR6J",
+            "U08QVMBSS",
+            "U08QXDA68"
+        ],
+        "type": "message",
+        "subtype": "channel_archive",
+        "text": "<@U061A1R2R|micahstubbs> archived the channel (w\/ 8 members)",
+        "ts": "1452913212.000002"
+    }
+]

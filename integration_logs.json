@@ -1,0 +1,29 @@
+[
+    {
+        "user_id": "U061A1R2R",
+        "user_name": "micahstubbs",
+        "date": "1469998418",
+        "change_type": "added",
+        "app_type": "teamchatviz-000",
+        "app_id": "A1WNB1W9J",
+        "scope": "identify,channels:history,channels:read,emoji:read,files:read,reactions:read,reminders:read,search:read,team:read,users:read,usergroups:read"
+    },
+    {
+        "user_id": "U061A3E0G",
+        "user_name": "javier",
+        "date": "1467165970",
+        "change_type": "added",
+        "app_type": "Slack API Tester",
+        "app_id": "A02",
+        "scope": "MAX"
+    },
+    {
+        "user_id": "U061A1R2R",
+        "user_name": "micahstubbs",
+        "date": "1462152142",
+        "change_type": "added",
+        "service_id": "39311288999",
+        "service_type": "Twitter",
+        "scope": "incoming-webhook"
+    }
+]

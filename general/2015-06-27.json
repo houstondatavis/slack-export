@@ -1,0 +1,200 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/223540472\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/223540472\/",
+                "text": "This group is a place to share experiences with data visualization. Come talk about the software tools you use and the interactive graphics that inspire you.",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/223540472\/",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "id": 1
+            }
+        ],
+        "ts": "1435431845.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "just scheduled a d3js open lab",
+        "ts": "1435431852.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "we'll explore some d3js examples together",
+        "ts": "1435431879.000005"
+    },
+    {
+        "user": "U06TSTHSA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06TSTHSA|huyhoang> has joined the channel",
+        "ts": "1435432761.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "welcome <@U06TSTHSA> !",
+        "ts": "1435437160.000007"
+    },
+    {
+        "type": "message",
+        "user": "U06TSTHSA",
+        "text": "hi",
+        "ts": "1435441202.000008"
+    },
+    {
+        "type": "message",
+        "user": "U06TSTHSA",
+        "text": "thanks for the invitation",
+        "ts": "1435441484.000009"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F06TUNMTQ\/img_20150626_152950.jpg|Theatrum Orbis Terrarum from 1612> and commented: Yesterday I spent a few minutes flipping through one of the few copies remaining of the first \"world atlas\" at the Library of Congress.",
+        "file": {
+            "id": "F06TUNMTQ",
+            "created": 1435441488,
+            "timestamp": 1435441488,
+            "name": "IMG_20150626_152950.jpg",
+            "title": "Theatrum Orbis Terrarum from 1612",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 2669264,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06TUNMTQ\/img_20150626_152950.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06TUNMTQ\/download\/img_20150626_152950.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNMTQ-8fb0b39b26\/img_20150626_152950_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4160,
+            "original_h": 3120,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F06TUNMTQ\/img_20150626_152950.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06TUNMTQ-266f489050",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc06TUMZRA",
+                "created": 1435441500,
+                "timestamp": 1435441500,
+                "user": "U061A3E0G",
+                "is_intro": true,
+                "comment": "Yesterday I spent a few minutes flipping through one of the few copies remaining of the first \"world atlas\" at the Library of Congress.",
+                "channel": ""
+            }
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1435441500.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F06TUNSP6\/2f210a898ed5a7d73ed422db6c1cfa5e.jpg|#America>",
+        "file": {
+            "id": "F06TUNSP6",
+            "created": 1435441571,
+            "timestamp": 1435441571,
+            "name": "2f210a898ed5a7d73ed422db6c1cfa5e.jpg",
+            "title": "#America",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 168372,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06TUNSP6\/2f210a898ed5a7d73ed422db6c1cfa5e.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06TUNSP6\/download\/2f210a898ed5a7d73ed422db6c1cfa5e.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 264,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 352,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 529,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 705,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06TUNSP6-a40f42bc5f\/2f210a898ed5a7d73ed422db6c1cfa5e_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 752,
+            "image_exif_rotation": 1,
+            "original_w": 1264,
+            "original_h": 928,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F06TUNSP6\/2f210a898ed5a7d73ed422db6c1cfa5e.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06TUNSP6-ea045fd34b",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1435441580.000011"
+    }
+]

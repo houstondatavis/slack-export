@@ -1,0 +1,27 @@
+[
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1440873884.000002"
+    },
+    {
+        "type": "message",
+        "user": "U08QXDA68",
+        "text": "<@U066MTL5U> <@U061A1R2R> iheanyi is famous now. I went to school with him. I was his peer mentor",
+        "ts": "1440873976.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "oh very cool. where did you all study <@U08QXDA68> ?",
+        "ts": "1440883127.000004"
+    },
+    {
+        "type": "message",
+        "user": "U08QXDA68",
+        "text": "Notre Dame",
+        "ts": "1440883178.000005"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A5N1G|neerajt> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/neerajt\/F1FKSEXA4\/screen_shot_2016-06-09_at_5.09.35_pm.png|1001.png> and commented: We\u2019re :100:1! <@U061A1R2R> started this Meetup 50 Meetups ago. Since then, we\u2019ve moved from START to TX\/RX to Station, and all along we kept growing and learning from each other. It\u2019s a great group and I\u2019m happy to be a part of it. Well done, folks.",
+        "file": {
+            "id": "F1FKSEXA4",
+            "created": 1465510554,
+            "timestamp": 1465510554,
+            "name": "Screen Shot 2016-06-09 at 5.09.35 PM.png",
+            "title": "1001.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A5N1G",
+            "editable": false,
+            "size": 56023,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1FKSEXA4\/screen_shot_2016-06-09_at_5.09.35_pm.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F1FKSEXA4\/download\/screen_shot_2016-06-09_at_5.09.35_pm.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1FKSEXA4-c309f064e3\/screen_shot_2016-06-09_at_5.09.35_pm_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1FKSEXA4-c309f064e3\/screen_shot_2016-06-09_at_5.09.35_pm_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1FKSEXA4-c309f064e3\/screen_shot_2016-06-09_at_5.09.35_pm_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 232,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1FKSEXA4-c309f064e3\/screen_shot_2016-06-09_at_5.09.35_pm_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 310,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F1FKSEXA4-c309f064e3\/screen_shot_2016-06-09_at_5.09.35_pm_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "image_exif_rotation": 1,
+            "original_w": 462,
+            "original_h": 716,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/neerajt\/F1FKSEXA4\/screen_shot_2016-06-09_at_5.09.35_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F1FKSEXA4-fbf6d2d032",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1FKNFURL",
+                "created": 1465510554,
+                "timestamp": 1465510554,
+                "user": "U061A5N1G",
+                "is_intro": true,
+                "comment": "We\u2019re :100:1! <@U061A1R2R> started this Meetup 50 Meetups ago. Since then, we\u2019ve moved from START to TX\/RX to Station, and all along we kept growing and learning from each other. It\u2019s a great group and I\u2019m happy to be a part of it. Well done, folks.",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U064SRKPD",
+                        "U061A1R2R",
+                        "U064KUGRJ",
+                        "U065ETZEC",
+                        "U061A3E0G",
+                        "U07P7LT9S",
+                        "U066B6F9R"
+                    ],
+                    "count": 7
+                },
+                {
+                    "name": "clap",
+                    "users": [
+                        "U061A1R2R",
+                        "U065ETZEC",
+                        "U061A3E0G"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U061A5N1G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A5N1G|neerajt>",
+        "bot_id": null,
+        "ts": "1465510557.000007"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "WOOHOOOO!!!!! Good job <@U061A1R2R> and <@U061A5N1G>!!!",
+        "ts": "1465529823.000014"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "thank you for letting me do cool shit with y'all. :slightly_smiling_face:",
+        "ts": "1465529867.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> <@U065ETZEC> <@U061A3E0G> <https:\/\/twitter.com\/HoustonDataVis\/status\/741132757078839296>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/HoustonDataVis|@HoustonDataVis>: 1,001 data artists :art: + 50 meetups :film_projector: :chart_with_upwards_trend: \n#d3js #rstats #spotfire #Tableau #datavis \n<http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/> <https:\/\/pbs.twimg.com\/media\/CkkITkrWkAAEIuI.jpg>",
+                "ts": 1465534793,
+                "author_name": "HoustonDataVis",
+                "author_link": "https:\/\/twitter.com\/HoustonDataVis\/status\/741132757078839296",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000748238761\/bf757231235f06d3a1132b75615d486e_normal.png",
+                "author_subname": "@HoustonDataVis",
+                "text": "1,001 data artists :art: + 50 meetups :film_projector: :chart_with_upwards_trend: \n#d3js #rstats #spotfire #Tableau #datavis \n<http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/> <https:\/\/pbs.twimg.com\/media\/CkkITkrWkAAEIuI.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/HoustonDataVis\/status\/741132757078839296",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CkkITkrWkAAEIuI.jpg",
+                "image_width": 758,
+                "image_height": 1200,
+                "image_bytes": 98574,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "edited": {
+            "user": "U061A1R2R",
+            "ts": "1465534861.000000"
+        },
+        "ts": "1465534838.000016"
+    }
+]

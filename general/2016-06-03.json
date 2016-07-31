@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "Just stumbled on this today: <https:\/\/teleport.org\/cities\/houston\/>\nIt's a pretty interesting example of dashboard design combining some static and dynamic visualizations. Also, with some really basic similarity matrices, they've got a cool \"city-comparison-index\" here: <https:\/\/teleport.org\/2016\/02\/visualizing-city-similarity\/>",
+        "attachments": [
+            {
+                "service_name": "Teleport Cities",
+                "title": "Houston - Teleport Cities",
+                "title_link": "https:\/\/teleport.org\/cities\/houston\/",
+                "text": "Houston, Texas, is among the top cities with a free business environment. According to our city rankings, this is a good place to live with high ratings in Startups, Venture Capital and Healthcare. Log in to see personalized match scores, salary and cost of living comparisons. Houston is one of the top ten city matches for 0.6% of Teleport users.",
+                "fallback": "Teleport Cities: Houston - Teleport Cities",
+                "image_url": "https:\/\/d13k13wj6adfdf.cloudfront.net\/urban_areas\/Houston_9vk1m_web-7a1ff7109f@3x.jpg",
+                "from_url": "https:\/\/teleport.org\/cities\/houston\/",
+                "image_width": 1149,
+                "image_height": 250,
+                "image_bytes": 208199,
+                "service_icon": "https:\/\/teleport.org\/favicon.ico",
+                "id": 1
+            },
+            {
+                "service_name": "Teleport",
+                "title": "Visualizing city similarity - Teleport",
+                "title_link": "https:\/\/teleport.org\/2016\/02\/visualizing-city-similarity\/",
+                "text": "This blog post explains an alternative way to figure out how similar cities are. After you read it, you will realize why I think Madison and Reykjavik are very similar cities. \u00a0 Teleport Cities allows you to research the most interesting cities in the world using a sophisticated scoring system that compares and contrasts them. \u2026",
+                "fallback": "Teleport: Visualizing city similarity - Teleport",
+                "image_url": "https:\/\/teleport.org\/wp-content\/uploads\/2016\/02\/intro-sammon-voronoi.png",
+                "image_width": 380,
+                "image_height": 250,
+                "ts": 1456492444,
+                "from_url": "https:\/\/teleport.org\/2016\/02\/visualizing-city-similarity\/",
+                "image_bytes": 199106,
+                "service_icon": "https:\/\/teleport.org\/wp-content\/themes\/teleport-wp-theme\/img\/site-icons\/apple-touch-icon.png",
+                "id": 2
+            }
+        ],
+        "ts": "1464961793.000034",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

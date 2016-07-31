@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey <!everyone> : there\u2019s a community organized GitHub workshop happening soon. There will be mentors on-hand to guide you through some basic exercises and answer your questions.\n \n<http:\/\/codeparkhouston.com\/git-workshop\/>\n\nThis will be a great way to get comfortable with Git and GitHub so you can organize\/collaborate your own projects, contribute to existing ones, *get the most out of data jams*, and more.",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1455992845.000000"
+        },
+        "ts": "1455992796.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0M8JJYUQ",
+                    "U061A1R2R",
+                    "U066MTL5U",
+                    "U0J8SUPPY"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "If you\u2019re already experienced using Git and GitHub, consider registering as a Mentor",
+        "ts": "1455992815.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0M8JJYUQ",
+        "text": "<@U061A5N1G>: thanks for sharing it with us!",
+        "ts": "1455992865.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0M8JJYUQ",
+        "text": "applied as a Mentor!",
+        "ts": "1455992970.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0M8JJYUQ",
+        "text": "Can I share this information to others ?",
+        "ts": "1455992995.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U0M8JJYUQ>: Of course!",
+        "ts": "1455993021.000011"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1466037211.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<https:\/\/fonts.google.com\/>",
+        "attachments": [
+            {
+                "title": "Google Fonts",
+                "title_link": "https:\/\/fonts.google.com\/",
+                "text": "Making the web more beautiful, fast, and open through great typography",
+                "fallback": "Google Fonts",
+                "image_url": "https:\/\/www.gstatic.com\/images\/icons\/material\/apps\/fonts\/1x\/opengraph_color_1200dp.png",
+                "from_url": "https:\/\/fonts.google.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 5182,
+                "service_icon": "https:\/\/www.gstatic.com\/images\/branding\/product\/ico\/google_fonts_lodp.ico",
+                "service_name": "fonts.google.com",
+                "id": 1
+            }
+        ],
+        "ts": "1466037221.000003"
+    }
+]

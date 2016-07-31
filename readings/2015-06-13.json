@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AAAVAR\/-.txt|Untitled> and commented: Drew Winget at <https:\/\/groups.google.com\/forum\/#!topic\/d3-js\/55fRfdhS0_k>",
+        "file": {
+            "id": "F06AAAVAR",
+            "created": 1434207280,
+            "timestamp": 1434207280,
+            "name": "-.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 856,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06AAAVAR\/-.txt?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06AAAVAR\/download\/-.txt?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AAAVAR\/-.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06AAAVAR-b352212f8b",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AAAVAR\/-.txt\/edit",
+            "preview": "A visualisation should condense large and complex datasets into a statistically meaningful, synthetic representation of the data. Yes, we could have a dot for every person on earth, but that is more pixels than are on the screen; it will never make sense to try to hold them all in the browser's memory and force d3 to render them when the user can't even see them. Instead, think about what it is you're representing and what tasks the user is trying to solve, or questions they are needing to ask about the dataset. Then create a representation that abstracts the relevant facets of the domain into a visually coherent tool. Then the data sent to the browser is only that data that will drive the interface. That amount of data will always be manageable, given the particular zoom level, statistical summary, or context in which it is being represented. ",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>A visualisation should condense large and complex datasets into a statistically meaningful, synthetic representation of the data. Yes, we could have a dot for every person on earth, but that is more pixels than are on the screen; it will never make sense to try to hold them all in the browser's memory and force d3 to render them when the user can't even see them. Instead, think about what it is you're representing and what tasks the user is trying to solve, or questions they are needing to ask about the dataset. Then create a representation that abstracts the relevant facets of the domain into a visually coherent tool. Then the data sent to the browser is only that data that will drive the interface. That amount of data will always be manageable, given the particular zoom level, statistical summary, or context in which it is being represented. <\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C065DT41X"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc06AABHLK",
+                "created": 1434207280,
+                "timestamp": 1434207280,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "Drew Winget at <https:\/\/groups.google.com\/forum\/#!topic\/d3-js\/55fRfdhS0_k>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434207280.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>:  this reading on higher order functions in JavaScript like .map() is useful for the js data parsing pipeline I should you for the close-votes-uk project",
+        "ts": "1434213053.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/eloquentjavascript.net\/05_higher_order.html>",
+        "ts": "1434213054.000004"
+    },
+    {
+        "user": "U061A5N1G",
+        "inviter": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1434213059.000005"
+    }
+]

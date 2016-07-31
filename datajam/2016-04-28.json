@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "nice!",
+        "ts": "1461864582.000006"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<@U061A5N1G>: Thanks! Let me know if you have any suggestions!",
+        "ts": "1461864890.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hmm, it's kind of disorienting when the animation shifts and rezoooms",
+        "ts": "1461864954.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "it makes it hard to follow",
+        "ts": "1461864957.000009"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "yeah I think so too. I used leaflet, and it reorients by day. I think I am going to use ggmap and ggnimate to make a static gif to attach. Or just static map by day.",
+        "ts": "1461865107.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "yeah i guess you can have the gif generate on the fly each time someone visits the page?",
+        "ts": "1461870504.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "for the last 24 hours, or 3 days or something",
+        "ts": "1461870509.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "using ggmap+gganimate",
+        "ts": "1461870522.000013"
+    }
+]

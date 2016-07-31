@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Panama Papers Dataset: <https:\/\/www.occrp.org\/en\/panamapapers\/database>",
+        "attachments": [
+            {
+                "title": "OCCRP",
+                "title_link": "https:\/\/www.occrp.org\/en\/panamapapers\/database",
+                "text": "The Organized Crime and Corruption Reporting Project (OCCRP) is a network of investigative journalists across Eastern Europe and Central Asia.",
+                "fallback": "OCCRP",
+                "from_url": "https:\/\/www.occrp.org\/en\/panamapapers\/database",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U065ETZEC",
+            "ts": "1462826537.000000"
+        },
+        "ts": "1462826363.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U17FMTJMQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17FMTJMQ|wanjun> has joined the channel",
+        "ts": "1462856333.000007"
+    }
+]

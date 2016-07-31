@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "<https:\/\/about.gitlab.com\/comparison\/> for free 5 people private hub",
+        "attachments": [
+            {
+                "service_name": "GitLab",
+                "title": "GitLab compared to other tools",
+                "title_link": "https:\/\/about.gitlab.com\/comparison\/",
+                "text": "GitLab CE vs. GitLab EE GitLab vs. GitHub GitLab EE vs. GitHub Enterprise <http:\/\/GitLab.com|GitLab.com> vs. <http:\/\/GitHub.com|GitHub.com> GitLab CE\/EE vs. Bitbucket \u2026",
+                "fallback": "GitLab: GitLab compared to other tools",
+                "from_url": "https:\/\/about.gitlab.com\/comparison\/",
+                "thumb_url": "https:\/\/about.gitlab.com\/images\/gitlab_logo.png",
+                "thumb_width": 52,
+                "thumb_height": 48,
+                "id": 1
+            }
+        ],
+        "ts": "1459284841.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Cool!",
+        "ts": "1459286110.000010"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Aye aye! <http:\/\/imgs.xkcd.com\/comics\/types.png>",
+        "attachments": [
+            {
+                "fallback": "256x702px image",
+                "image_url": "http:\/\/imgs.xkcd.com\/comics\/types.png",
+                "image_width": 256,
+                "image_height": 702,
+                "image_bytes": 41925,
+                "from_url": "http:\/\/imgs.xkcd.com\/comics\/types.png",
+                "id": 1
+            }
+        ],
+        "ts": "1434292450.000029"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U061A3E0G>: as someone who was new to JavaScript recently, that XKCD explains my initial impressions perfectly",
+        "ts": "1434299685.000031"
+    },
+    {
+        "user": "U06AU830R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06AU830R|hobbymaryc> has joined the channel",
+        "ts": "1434303812.000032"
+    }
+]

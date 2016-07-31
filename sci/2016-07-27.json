@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0080278>",
+        "attachments": [
+            {
+                "title": "Quantifying Reproducibility in Computational Biology: The Case of the Tuberculosis Drugome",
+                "title_link": "http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0080278",
+                "text": "How easy is it to reproduce the results found in a typical computational biology paper? Either through experience or intuition the reader will already know that the answer is with difficulty or not at all. In this paper we attempt to quantify this difficulty by reproducing a previously published paper for different classes of users (ranging from users with little expertise to domain experts) and suggest ways in which the situation might be improved. Quantification is achieved by estimating the time required to reproduce each of the steps in the method described in the original paper and make them part of an explicit workflow that reproduces the original results. Reproducing the method took several months of effort, and required using new versions and new software that posed challenges to reconstructing and validating the results. The quantification leads to \u201creproducibility maps\u201d that reveal that novice researchers would only be able to reproduce a few of the steps in the method, and that only expert researchers with advance knowledge of the domain would be able to reproduce the method in its entirety. The workflow itself is published as an online resource together with supporting software and data. The paper concludes with a brief discussion of the complexities of requiring reproducibility in terms of cost versus benefit, and a desiderata with our observations and guidelines for improving reproducibility. This has implications not only in reproducing the work of others from published papers, but reproducing work from one\u2019s own laboratory.",
+                "fallback": "Quantifying Reproducibility in Computational Biology: The Case of the Tuberculosis Drugome",
+                "from_url": "http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0080278",
+                "service_icon": "http:\/\/journals.plos.org\/plosone\/resource\/img\/favicon.ico",
+                "service_name": "journals.plos.org",
+                "id": 1
+            }
+        ],
+        "ts": "1469630332.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A5N1G",
+                    "U1GGRN36X"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": " RT @oren_data: Corpus of  7.6 million speeches from the British Parliament spanning 200 yrs: <https:\/\/t.co\/KknxGlhE9W> via @sartanbegavhaum and @odaskal",
+        "attachments": [
+            {
+                "text": "British Parliament speeches (Hansard corpus). 1.6 billion words, 7.5 million talks, 1803-2005",
+                "fallback": "British Parliament speeches (Hansard corpus). 1.6 billion words, 7.5 million talks, 1803-2005",
+                "from_url": "http:\/\/www.hansard-corpus.org\/",
+                "id": 1
+            }
+        ],
+        "ts": "1446996747.000002"
+    }
+]

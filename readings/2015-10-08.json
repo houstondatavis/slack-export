@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": "<http:\/\/bit.ly\/1y9cauj> Interactive Dataviz for the web",
+        "attachments": [
+            {
+                "service_name": "DataViz",
+                "title": "Interactive Data Visualization for the Web, Free Online Version",
+                "title_link": "http:\/\/bit.ly\/1y9cauj",
+                "text": "Interactive Data Visualization for the Web, by\u00a0Scott Murray, O\u2019Reilly (2013), has a\u00a0Free online version. An introduction to D3 for people new to programming and web development, published by O\u2019Reilly. \u201cExplaining tricky technical topics with aplomb (and a little cheeky humor) is Scott Murray\u2019s forte. If you want to dive into the world of dynamic visualization using web standards, even if you are new to programming, this book is the place to start.\u201d - Mike Bostock, creator of D3. From O\u2019Reilly\u00a0website: \"This step-by-step guide is ideal whether you\u2019re a designer or visual artist with no programming experience, a reporter exploring the new frontier of data journalism, or anyone who wants to visualize and share data. Create and publish your own interactive data visualization projects on the Web\u2014even if you have little or no experience with data visualization or web development. It\u2019s easy and fun with this practical, hands-on introduction. Author Scott Murray teaches you the fundamental\u2026",
+                "fallback": "DataViz: Interactive Data Visualization for the Web, Free Online Version",
+                "image_url": "http:\/\/api.ning.com\/files\/0uMX6j0VBUmm6wzDl*nXiyU8uBPk0jABQt0L-zpimtkweeFmFWEnqiathbvon6KUlmANTsLRIl*jKG2ULOKN3QNW7AcSt*0S\/interactivedatacover.jpg?width=750",
+                "ts": 1420844637,
+                "from_url": "http:\/\/bit.ly\/1y9cauj",
+                "image_width": 191,
+                "image_height": 250,
+                "image_bytes": 271187,
+                "id": 1
+            }
+        ],
+        "ts": "1444350277.000002",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": "<http:\/\/datajournalismhandbook.org\/> Data Journalism Handbook",
+        "ts": "1444350329.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very cool -maybe it's time for me to finally learn",
+        "ts": "1444350386.000005"
+    }
+]

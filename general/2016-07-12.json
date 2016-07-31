@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1QTYJDFG",
+        "text": "<@U1QTYJDFG|jtbrogan001> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468327282.000043"
+    },
+    {
+        "user": "U1R1B0Q6P",
+        "text": "<@U1R1B0Q6P|sethsa> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468348451.000044"
+    },
+    {
+        "user": "U1R4AJHD2",
+        "text": "<@U1R4AJHD2|abhi> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468357873.000045"
+    }
+]

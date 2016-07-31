@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Hey there! I'm doing a presentation on Principles, Tools and Possibilities of Information Design at an HIMA luncheon tomorrow. Will be promoting the meetup there at the end of the session",
+        "edited": {
+            "user": "U061A3E0G",
+            "ts": "1456370069.000000"
+        },
+        "ts": "1456370030.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "missing this community! hope to see yall soon",
+        "ts": "1456370047.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "We miss you too, Javier. Hope to see you soon. ",
+        "ts": "1456370717.000015"
+    }
+]

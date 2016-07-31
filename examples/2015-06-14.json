@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U06AU830R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06AU830R|hobbymaryc> has joined the channel",
+        "ts": "1434303812.000029"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AVLABX\/screen_shot_2015-06-14_at_14.19.05.png|600,000 points in the browser with Render Queue> and commented: <http:\/\/bl.ocks.org\/syntagmatic\/raw\/3341641\/>",
+        "file": {
+            "id": "F06AVLABX",
+            "created": 1434309582,
+            "timestamp": 1434309582,
+            "name": "Screen Shot 2015-06-14 at 14.19.05.png",
+            "title": "600,000 points in the browser with Render Queue",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 574303,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06AVLABX\/screen_shot_2015-06-14_at_14.19.05.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06AVLABX\/download\/screen_shot_2015-06-14_at_14.19.05.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AVLABX-971c860d21\/screen_shot_2015-06-14_at_14.19.05_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AVLABX-971c860d21\/screen_shot_2015-06-14_at_14.19.05_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AVLABX-971c860d21\/screen_shot_2015-06-14_at_14.19.05_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 90,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AVLABX-971c860d21\/screen_shot_2015-06-14_at_14.19.05_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 120,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AVLABX-971c860d21\/screen_shot_2015-06-14_at_14.19.05_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06AVLABX-971c860d21\/screen_shot_2015-06-14_at_14.19.05_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 180,
+            "image_exif_rotation": 1,
+            "original_w": 889,
+            "original_h": 222,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06AVLABX\/screen_shot_2015-06-14_at_14.19.05.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06AVLABX-2a95ec1e83",
+            "channels": [
+                "C064FLUHY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc06AVLAN9",
+                "created": 1434309587,
+                "timestamp": 1434309587,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/bl.ocks.org\/syntagmatic\/raw\/3341641\/>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434309587.000030"
+    }
+]

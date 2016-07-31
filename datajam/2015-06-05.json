@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433558319.000002"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1433559510.000003"
+    },
+    {
+        "user": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1433562822.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F061AT0CX\/fritz.jpg|Fritz.jpg>",
+        "file": {
+            "id": "F061AT0CX",
+            "created": 1433562823,
+            "timestamp": 1433562823,
+            "name": "Fritz.jpg",
+            "title": "Fritz.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 427504,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F061AT0CX\/fritz.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F061AT0CX\/download\/fritz.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 278,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 371,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 556,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 742,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F061AT0CX-6f87cf1660\/fritz_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 791,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1200,
+            "original_h": 1553,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F061AT0CX\/fritz.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F061AT0CX-7ef83f455c",
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1433562832.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Gorgeous! It's fantastic",
+        "ts": "1433563027.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Fun sketch in haste, glad you like it! More polish next time",
+        "ts": "1433563351.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Fritz Khan inspiration",
+        "ts": "1433563409.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I'll have to check out his work in more detail, it looks cool!",
+        "ts": "1433569599.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "btw: <https:\/\/github.com\/houstondatavis\/data-jam-june-2015>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "houstondatavis\/data-jam-june-2015",
+                "title_link": "https:\/\/github.com\/houstondatavis\/data-jam-june-2015",
+                "text": "Contribute to data-jam-june-2015 development by creating an account on GitHub.",
+                "fallback": "GitHub: houstondatavis\/data-jam-june-2015",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/12770645?v=3&s=400",
+                "from_url": "https:\/\/github.com\/houstondatavis\/data-jam-june-2015",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1433569612.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Sorry for the awful formatting on the email",
+        "ts": "1433570997.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Still learning :blush: ",
+        "ts": "1433571039.000013"
+    }
+]

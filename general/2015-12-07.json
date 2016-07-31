@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U0DS03NHG",
+        "text": "I can imagine the technology being used for a host of \"Powers of 10\" visualizations.    Maybe not directly, it being tied to the mapping database.    But the capability to zoom in and out at several levels of detail could be applied to many situations, models and schematics.",
+        "ts": "1449501681.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "especially when you can show different data marks based on the zoom level",
+        "ts": "1449508098.000003"
+    }
+]

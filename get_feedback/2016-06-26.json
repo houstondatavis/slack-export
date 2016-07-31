@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Looks like some of the bubbles don't map to project locations (e.g. 69th street waste water treatment bubble is found near city hall.) Is that a data entry thing?",
+        "ts": "1466943646.000026"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Defibrillators too, if they are to be made available city wide then it's hard to plot a point on the map for it. Right now it's in midtown somewhere, I think.",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1466943715.000000"
+        },
+        "ts": "1466943703.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1LB3P8RF",
+        "text": "hey <@U061A5N1G>, i think it\u2019s a source data thing. There were a bunch of projects with 901 Bagby as the address. I will clean that up.",
+        "ts": "1466947234.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1LB3P8RF",
+        "text": "I also did a little housecleaning, since the \u201cYorkshire\u201d neighborhood mapped to England. The cross street \u201cNottingham\u201d didn\u2019t help",
+        "ts": "1466947276.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1LB3P8RF",
+        "text": "One thing I want to do is account for the ~200 CIP projects that are not mappable. There is a ton of technology $$ allocated, including $61k for \u201ccitizen engagement software\u201d that could present \u201crevenue opportunities\u201d (say what?)",
+        "ts": "1466947328.000031",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U061A5N1G",
+                    "U061A3E0G",
+                    "U1GGRN36X",
+                    "U064KUGRJ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LB3P8RF",
+        "text": "thanks for the feedback and I\u2019ll check up on those city hall projects",
+        "ts": "1466947359.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1LB3P8RF",
+        "text": "<@U061A5N1G>: i went through and made all of the lat\/lons more accurate. please have another look when you get a moment and let me know your feedback! :slightly_smiling_face:",
+        "ts": "1466964376.000033"
+    }
+]

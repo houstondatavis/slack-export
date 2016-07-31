@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1461360425.000002"
+    },
+    {
+        "user": "U061A3E0G",
+        "purpose": "Links and discussions on interesting organizations doing things with data, sharing interesting data sets, and helping explore this brave new world.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A3E0G|javier> set the channel purpose: Links and discussions on interesting organizations doing things with data, sharing interesting data sets, and helping explore this brave new world.",
+        "ts": "1461360426.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<http:\/\/www.capellasolutions.com\/>",
+        "attachments": [
+            {
+                "service_name": "Capella Solutions",
+                "title": "Welcome",
+                "title_link": "http:\/\/www.capellasolutions.com\/",
+                "text": "We help companies deliver business objectives by connecting people with data they need through thoughtful architecture and intuitive software design.",
+                "fallback": "Capella Solutions: Welcome",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5457ee11e4b03152ab73d249\/t\/545810c7e4b094e981559315\/1421595705745\/?format=1000w",
+                "from_url": "http:\/\/www.capellasolutions.com\/",
+                "thumb_width": 279,
+                "thumb_height": 53,
+                "id": 1
+            }
+        ],
+        "ts": "1461360448.000004"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1461361318.000006"
+    }
+]

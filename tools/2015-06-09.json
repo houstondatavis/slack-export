@@ -1,0 +1,391 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433860178.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place to share libraries, packages, and products for data visualization.  find a novel tool, or want to share one you use every day? post it here.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place to share libraries, packages, and products for data visualization.  find a novel tool, or want to share one you use every day? post it here.",
+        "ts": "1433860178.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/gephi.github.io\/>",
+        "ts": "1433860738.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064G5MNZ\/screen_shot_2015-06-09_at_09.39.06.png|Screen Shot 2015-06-09 at 09.39.06.png> and commented: <http:\/\/gephi.github.io\/>",
+        "file": {
+            "id": "F064G5MNZ",
+            "created": 1433860767,
+            "timestamp": 1433860767,
+            "name": "Screen Shot 2015-06-09 at 09.39.06.png",
+            "title": "Screen Shot 2015-06-09 at 09.39.06.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 448250,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064G5MNZ\/screen_shot_2015-06-09_at_09.39.06.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064G5MNZ\/download\/screen_shot_2015-06-09_at_09.39.06.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 175,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 234,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 351,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064G5MNZ-33c1a6fa42\/screen_shot_2015-06-09_at_09.39.06_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 468,
+            "image_exif_rotation": 1,
+            "original_w": 1004,
+            "original_h": 489,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064G5MNZ\/screen_shot_2015-06-09_at_09.39.06.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064G5MNZ-f2e7f6c774",
+            "channels": [
+                "C064FGV36"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc064G82HG",
+                "created": 1433860772,
+                "timestamp": 1433860772,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/gephi.github.io\/>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433860772.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064GAJF2\/screen_shot_2015-06-09_at_09.42.11.png|sigma.js> and commented: <http:\/\/sigmajs.org\/>\r\n\r\nSigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.",
+        "file": {
+            "id": "F064GAJF2",
+            "created": 1433860973,
+            "timestamp": 1433860973,
+            "name": "Screen Shot 2015-06-09 at 09.42.11.png",
+            "title": "sigma.js",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 148961,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064GAJF2\/screen_shot_2015-06-09_at_09.42.11.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064GAJF2\/download\/screen_shot_2015-06-09_at_09.42.11.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 161,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 215,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 322,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 429,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064GAJF2-1ad8ac85e2\/screen_shot_2015-06-09_at_09.42.11_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 458,
+            "image_exif_rotation": 1,
+            "original_w": 1205,
+            "original_h": 539,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064GAJF2\/screen_shot_2015-06-09_at_09.42.11.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064GAJF2-15b121803e",
+            "channels": [
+                "C064FGV36"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc064GAPS9",
+                "created": 1433860980,
+                "timestamp": 1433860980,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/sigmajs.org\/>\r\n\r\nSigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433860980.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/igraph.org\/>",
+        "ts": "1433861054.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/igraph.org\/r\/doc\/diameter.html>",
+        "ts": "1433861062.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph is open source and free. igraph can be programmed in R, Python and C\/C++.",
+        "ts": "1433861071.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/rgl.neoscientists.org\/about.shtml>",
+        "ts": "1433861087.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "3D Real-Time Visualization Device System for R",
+        "ts": "1433861094.000011"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064HG4G0\/screen_shot_2015-06-09_at_10.02.06.png|pixi.js> and commented: <http:\/\/www.pixijs.com\/>\r\n\r\n2D webGL renderer with canvas fallback\r\n",
+        "file": {
+            "id": "F064HG4G0",
+            "created": 1433862171,
+            "timestamp": 1433862171,
+            "name": "Screen Shot 2015-06-09 at 10.02.06.png",
+            "title": "pixi.js",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 413881,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064HG4G0\/screen_shot_2015-06-09_at_10.02.06.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064HG4G0\/download\/screen_shot_2015-06-09_at_10.02.06.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064HG4G0-b7530c5ee7\/screen_shot_2015-06-09_at_10.02.06_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064HG4G0-b7530c5ee7\/screen_shot_2015-06-09_at_10.02.06_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064HG4G0-b7530c5ee7\/screen_shot_2015-06-09_at_10.02.06_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 218,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064HG4G0-b7530c5ee7\/screen_shot_2015-06-09_at_10.02.06_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 291,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064HG4G0-b7530c5ee7\/screen_shot_2015-06-09_at_10.02.06_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064HG4G0-b7530c5ee7\/screen_shot_2015-06-09_at_10.02.06_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 437,
+            "image_exif_rotation": 1,
+            "original_w": 877,
+            "original_h": 532,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064HG4G0\/screen_shot_2015-06-09_at_10.02.06.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064HG4G0-8bd9965039",
+            "channels": [
+                "C064FGV36"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc064HG45C",
+                "created": 1433862176,
+                "timestamp": 1433862176,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/www.pixijs.com\/>\r\n\r\n2D webGL renderer with canvas fallback\r\n",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433862176.000012"
+    },
+    {
+        "user": "U064KUGRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064KUGRJ|timabram> has joined the channel",
+        "ts": "1433864706.943126"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/github.com\/ayasdi\/grapher>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "ayasdi\/grapher",
+                "title_link": "https:\/\/github.com\/ayasdi\/grapher",
+                "text": "grapher - WebGL\/Canvas Network Graphs",
+                "fallback": "GitHub: ayasdi\/grapher",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/9852563?v=3&s=400",
+                "from_url": "https:\/\/github.com\/ayasdi\/grapher",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1433865198.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "Draw network graphs using WebGL and Canvas backup.",
+        "ts": "1433865206.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/rstudio.github.io\/dygraphs\/>",
+        "ts": "1433865311.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "The dygraphs package is an R interface to the dygraphs JavaScript charting library. It provides rich facilities for charting time-series data in R",
+        "ts": "1433865348.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/dc-js.github.io\/dc.js\/>",
+        "ts": "1433865484.000007"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064LSU4T\/dc_js.txt|dc.js>",
+        "file": {
+            "id": "F064LSU4T",
+            "created": 1433865505,
+            "timestamp": 1433865505,
+            "name": "dc_js.txt",
+            "title": "dc.js",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 570,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064LSU4T\/dc_js.txt?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064LSU4T\/download\/dc_js.txt?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064LSU4T\/dc_js.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064LSU4T-e3375bc08f",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064LSU4T\/dc_js.txt\/edit",
+            "preview": "dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset (inspired by crossfilter's demo). It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset (inspired by crossfilter's demo). It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "channels": [
+                "C064FGV36"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433865505.000008"
+    },
+    {
+        "user": "U064QAV16",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064QAV16|pedrosan> has joined the channel",
+        "ts": "1433869302.000009"
+    },
+    {
+        "user": "U064SRKPD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064SRKPD|amandashih> has joined the channel",
+        "ts": "1433871947.000010"
+    },
+    {
+        "user": "U065ETZEC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U065ETZEC|jkim> has joined the channel",
+        "ts": "1433905933.000011"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U1RA477CL",
+        "text": "<@U1RA477CL|ophiolite> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468414060.000046"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "anyone else going to this tomorrow? <http:\/\/www.tableau.com\/community\/events\/tableau-10-houston>",
+        "ts": "1468435840.000047"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": ":confused: class",
+        "ts": "1468435995.000048"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<@U065ETZEC>: in the summer?? :confounded:",
+        "ts": "1468436124.000049"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Haha yes but learning some cool shit.",
+        "ts": "1468452374.000050"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "so whatchu learnin' ?",
+        "ts": "1468456840.000051"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/www.juyeongkim.com\/PH1998\/>",
+        "ts": "1468458969.000052",
+        "reactions": [
+            {
+                "name": "cool",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "books",
+                "users": [
+                    "U061A3E0G",
+                    "U1GGRN36X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

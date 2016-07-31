@@ -1,0 +1,501 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": " <https:\/\/github.com\/houstondatavis\/data-jam-august-2015>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "houstondatavis\/data-jam-august-2015",
+                "title_link": "https:\/\/github.com\/houstondatavis\/data-jam-august-2015",
+                "text": "data-jam-august-2015 - <http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/224341959\/>",
+                "fallback": "GitHub: houstondatavis\/data-jam-august-2015",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/12770645?v=3&s=400",
+                "from_url": "https:\/\/github.com\/houstondatavis\/data-jam-august-2015",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1439033466.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1: ",
+        "ts": "1439036796.000002"
+    },
+    {
+        "user": "U08QUEY76",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUEY76|ekabalo> has joined the channel",
+        "ts": "1439044174.000002"
+    },
+    {
+        "user": "U08QUNR6J",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUNR6J|julinas> has joined the channel",
+        "ts": "1439044634.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: curious, how do we determine if a meetup member is 'active'",
+        "ts": "1439045022.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "?",
+        "ts": "1439045024.000005"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U061A5N1G>:  is the \"visited\" column for the visit of the Houston datavis page? \nFollow up: does it take into account mobile apps?",
+        "ts": "1439045101.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U066MTL5U>: Yes, and yes",
+        "ts": "1439045118.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Tested it the other day",
+        "ts": "1439045122.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U061A1R2R>: that **status** var doesnt seem to be useful",
+        "ts": "1439045141.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "doh!",
+        "ts": "1439045149.000010"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "yeah they are all active",
+        "ts": "1439045149.000011"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "follow up",
+        "ts": "1439045151.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "formatting fail",
+        "ts": "1439045152.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "yeah <@U066MTL5U> , exactly",
+        "ts": "1439045161.000014"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "is \"joined\" for our meetup or for the meetup service?",
+        "ts": "1439045183.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "\"joined\" is for meetup group",
+        "ts": "1439045200.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "just updated the README.md accordingly",
+        "ts": "1439045370.000017"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": ":smiley:",
+        "ts": "1439045374.000018"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "beat me to it!",
+        "ts": "1439045377.000019"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "haha",
+        "ts": "1439045383.000020"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Halfway through a pull request",
+        "ts": "1439045387.000021"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "ah well",
+        "ts": "1439045388.000022"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "still, do it",
+        "ts": "1439045395.000023"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "it's probably better than what i wrote in haste",
+        "ts": "1439045404.000024"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "merged",
+        "ts": "1439046201.000025"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "thanks",
+        "ts": "1439046211.000026"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U061A5N1G>: is the lat long the zip code of the User (aka their address), the lat long of their last visit, or the lat long of their current city?",
+        "ts": "1439046867.000027"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "or to save you time, what method were you calling in the api? :simple_smile:",
+        "ts": "1439046888.000028"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "It's the lat long for their zip code (the center)",
+        "ts": "1439048219.000029"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U064KUGRJ> just pushed an interesting table",
+        "ts": "1439048242.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QVSSES\/unique-topics.json|unique-topics.json> and commented: an array of unique topics in the dataset",
+        "file": {
+            "id": "F08QVSSES",
+            "created": 1439049001,
+            "timestamp": 1439049001,
+            "name": "unique-topics.json",
+            "title": "unique-topics.json",
+            "mimetype": "text\/plain",
+            "filetype": "javascript",
+            "pretty_type": "JavaScript\/JSON",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 40138,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QVSSES\/unique-topics.json?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QVSSES\/download\/unique-topics.json?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QVSSES\/unique-topics.json",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QVSSES-b99c93fbc9",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QVSSES\/unique-topics.json\/edit",
+            "preview": "[\n  \"Fitness\",\n  \"Buddhist\",\n  \"Meditation\",\n  \"Dining Out\",\n  \"Spirituality\",\n  \"Museum\",\n  \"Computer programming\",\n  \"Programming Languages\",\n  \"Functional Programming\",",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>[<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Fitness&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Buddhist&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Meditation&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Dining Out&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Spirituality&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Museum&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Computer programming&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Programming Languages&quot;<\/span>,<\/pre><\/div>\n<div><pre>  <span class=\"cm-string\">&quot;Functional Programming&quot;<\/span>,<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 10,
+            "lines_more": 40,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc08QW24UD",
+                "created": 1439049001,
+                "timestamp": 1439049001,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "an array of unique topics in the dataset",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1439049003.000031"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QVN4NB\/01.js|01.js> and commented: a script to get unique topics, where I rename the dataset as `data.csv` and require some node modules.  usage: `node 01.js`",
+        "file": {
+            "id": "F08QVN4NB",
+            "created": 1439049116,
+            "timestamp": 1439049116,
+            "name": "01.js",
+            "title": "01.js",
+            "mimetype": "text\/plain",
+            "filetype": "javascript",
+            "pretty_type": "JavaScript\/JSON",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 975,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QVN4NB\/01.js?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QVN4NB\/download\/01.js?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QVN4NB\/01.js",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QVN4NB-41c7f71e4b",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QVN4NB\/01.js\/edit",
+            "preview": "var fs = require('fs');\nvar jf = require('jsonfile')\nvar d3 = require('d3');\nvar _ = require('lodash');\n\nvar csvfile1 = 'data.csv';\n\n\n\/\/ the goal of this script is to generate a unique list of \n\/\/ other meetups that members of the houston datavis meetups",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">fs<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">require<\/span>(<span class=\"cm-string\">'fs'<\/span>);<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">jf<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">require<\/span>(<span class=\"cm-string\">'jsonfile'<\/span>)<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">d3<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">require<\/span>(<span class=\"cm-string\">'d3'<\/span>);<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">_<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">require<\/span>(<span class=\"cm-string\">'lodash'<\/span>);<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">csvfile1<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-string\">'data.csv'<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/ the goal of this script is to generate a unique list of <\/span><\/pre><\/div>\n<div><pre><span class=\"cm-comment\">\/\/ other meetups that members of the houston datavis meetups<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 10,
+            "lines_more": 38,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc08QVQS83",
+                "created": 1439049116,
+                "timestamp": 1439049116,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "a script to get unique topics, where I rename the dataset as `data.csv` and require some node modules.  usage: `node 01.js`",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1439049116.000032"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U061A1R2R>: cool!",
+        "ts": "1439049827.000033"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i just pushed some code from Yuanbo that makes a sparse matrix of people's interests, and the resulting table: `meetupdata-Aug-08-2015-ext.csv`",
+        "ts": "1439049900.000034"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "thanks!",
+        "ts": "1439050596.000035"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "another formatted subset of the data",
+        "ts": "1439051907.000036"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QWS597\/topic-counts.json|topic-counts.json> and commented: an array of objects that have the unique topic and the count of times it occurs in the dataset",
+        "file": {
+            "id": "F08QWS597",
+            "created": 1439051962,
+            "timestamp": 1439051962,
+            "name": "topic-counts.json",
+            "title": "topic-counts.json",
+            "mimetype": "text\/plain",
+            "filetype": "javascript",
+            "pretty_type": "JavaScript\/JSON",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 107075,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QWS597\/topic-counts.json?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QWS597\/download\/topic-counts.json?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QWS597\/topic-counts.json",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QWS597-38ceb514d4",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QWS597\/topic-counts.json\/edit",
+            "preview": "[\n  {\n    \"topic\": \"\",\n    \"count\": 80\n  },\n  {\n    \"topic\": \"& Cumbia\",\n    \"count\": 1\n  },\n  {",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>[<\/pre><\/div>\n<div><pre>  {<\/pre><\/div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;topic&quot;<\/span>: <span class=\"cm-string\">&quot;&quot;<\/span>,<\/pre><\/div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;count&quot;<\/span>: <span class=\"cm-number\">80<\/span><\/pre><\/div>\n<div><pre>  },<\/pre><\/div>\n<div><pre>  {<\/pre><\/div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;topic&quot;<\/span>: <span class=\"cm-string\">&quot;&amp; Cumbia&quot;<\/span>,<\/pre><\/div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;count&quot;<\/span>: <span class=\"cm-number\">1<\/span><\/pre><\/div>\n<div><pre>  },<\/pre><\/div>\n<div><pre>  {<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 10,
+            "lines_more": 69,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc08QWETQQ",
+                "created": 1439051962,
+                "timestamp": 1439051962,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "an array of objects that have the unique topic and the count of times it occurs in the dataset",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1439051964.000037"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QXK2G7\/meetup_data_matrix.csv|meetup_data_matrix.csv> and commented: an adjacency matrix of topics, created by  Gerardo and Tim using R",
+        "file": {
+            "id": "F08QXK2G7",
+            "created": 1439056358,
+            "timestamp": 1439056358,
+            "name": "meetup_data_matrix.csv",
+            "title": "meetup_data_matrix.csv",
+            "mimetype": "text\/csv",
+            "filetype": "csv",
+            "pretty_type": "CSV",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 281596,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QXK2G7\/meetup_data_matrix.csv?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QXK2G7\/download\/meetup_data_matrix.csv?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QXK2G7\/meetup_data_matrix.csv",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QXK2G7-8128cc29b2",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QXK2G7\/meetup_data_matrix.csv\/edit",
+            "preview": "\"\",\".NET\",\"20'S & 30'S SOCIAL\",\"3D MODELING\",\"3D PRINTING\",\"ACTING\",\"ACTIVE DOGS\",\"ACTIVISM\",\"ADVENTURE\",\"AGILE PROJECT MANAGEMENT\",\"ALTERNATIVE MEDICINE\",\"ANDROID DEVELOPMENT\",\"ANIMAL RESCUE\",\"ANIMALS\",\"ANIME\",\"APPLIED STATISTICS\",\"ARCHITECTURE\",\"ARDUINO\",\"ART\",\"ARTIFICIAL INTELLIGENCE\",\"ARTISTS\",\"ARTS & ENTERTAINMENT\",\"ASP.NET\",\"AUTHORS\",\"B2B NETWORKING\",\"BACKPACKING\",\"BALLROOM DANCING\",\"BEER\",\"BEGINNER REAL ESTATE INVESTING\",\"BICYCLING\",\"BIG DATA\",\"BIG DATA ANALYTICS\",\"BIOTECHNOLOGY\",\"BLACK PROFESSIONALS\",\"BLACK SINGLES\",\"BLACK WOMEN\",\"BOARD GAMES\",\"BOLLYWOOD FILMS\",\"BOOK CLUB\",\"BUSINESS ANALYTICS\",\"BUSINESS INTELLIGENCE\",\"BUSINESS STRATEGY\",\"C\/C++\",\"C#\",\"CAMPING\",\"CARD GAMES\",\"CARS\",\"CASHFLOW\",\"CIVIC ENGAGEMENT\",\"CLOUD COMPUTING\",\"CMS (CONTENT MANAGEMENT SYSTEMS)\",\"COFFEE\",\"COGNITIVE SCIENCE\",\"COLLABORATION\",\"COLLABORATION BETWEEN CREATIVE MINDS\",\"COMEDY\",\"COMMUNICATION SKILLS\",\"COMMUNITY ORGANIZATIONS\",\"COMMUNITY SERVICE\",\"COMPUTER PROGRAMMING\",\"COMPUTER SCIENCE\",\"CONCERTS\",\"CONSCIOUSNESS\",\"COOKING\",\"COU...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&quot;&quot;,&quot;.NET&quot;,&quot;20'S &amp; 30'S SOCIAL&quot;,&quot;3D MODELING&quot;,&quot;3D PRINTING&quot;,&quot;ACTING&quot;,&quot;ACTIVE DOGS&quot;,&quot;ACTIVISM&quot;,&quot;ADVENTURE&quot;,&quot;AGILE PROJECT MANAGEMENT&quot;,&quot;ALTERNATIVE MEDICINE&quot;,&quot;ANDROID DEVELOPMENT&quot;,&quot;ANIMAL RESCUE&quot;,&quot;ANIMALS&quot;,&quot;ANIME&quot;,&quot;APPLIED STATISTICS&quot;,&quot;ARCHITECTURE&quot;,&quot;ARDUINO&quot;,&quot;ART&quot;,&quot;ARTIFICIAL INTELLIGENCE&quot;,&quot;ARTISTS&quot;,&quot;ARTS &amp; ENTERTAINMENT&quot;,&quot;ASP.NET&quot;,&quot;AUTHORS&quot;,&quot;B2B NETWORKING&quot;,&quot;BACKPACKING&quot;,&quot;BALLROOM DANCING&quot;,&quot;BEER&quot;,&quot;BEGINNER REAL ESTATE INVESTING&quot;,&quot;BICYCLING&quot;,&quot;BIG DATA&quot;,&quot;BIG DATA ANALYTICS&quot;,&quot;BIOTECHNOLOGY&quot;,&quot;BLACK PROFESSIONALS&quot;,&quot;BLACK SINGLES&quot;,&quot;BLACK WOMEN&quot;,&quot;BOARD GAMES&quot;,&quot;BOLLYWOOD FILMS&quot;,&quot;BOOK CLUB&quot;,&quot;BUSINESS ANALYTICS&quot;,&quot;BUSINESS INTELLIGENCE&quot;,&quot;BUSINESS STRATEGY&quot;,&quot;C\/C++&quot;,&quot;C#&quot;,&quot;CAMPING&quot;,&quot;CARD GAMES&quot;,&quot;CARS&quot;,&quot;CASHFLOW&quot;,&quot;CIVIC ENGAGEMENT&quot;,&quot;CLOUD COMPUTING&quot;,&quot;CMS (CONTENT MANAGEMENT SYSTEMS)&quot;,&quot;COFFEE&quot;,&quot;COGNITIVE SCIENCE&quot;,&quot;COLLABORATION&quot;,&quot;COLLABORATION BETWEEN CREATIVE MINDS&quot;,&quot;COMEDY&quot;,&quot;COMMUNICATION SKILLS&quot;,&quot;COMMUNITY ORGANIZATIONS&quot;,&quot;COMMUNITY SERVICE&quot;,&quot;COMPUTER PROGRAMMING&quot;,&quot;COMPUTER SCIENCE&quot;,&quot;CONCERTS&quot;,&quot;CONSCIOUSNESS&quot;,&quot;COOKING&quot;,&quot;COU...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 366,
+            "lines_more": 365,
+            "channels": [
+                "C061A0WJG"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc08QY0SFK",
+                "created": 1439056358,
+                "timestamp": 1439056358,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "an adjacency matrix of topics, created by  Gerardo and Tim using R",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1439056358.000038"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/bost.ocks.org\/mike\/miserables\/>",
+        "ts": "1439056970.000039"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "more word cloud tools",
+        "ts": "1439060081.000040"
+    },
+    {
+        "user": "U066H4AKX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066H4AKX|gregsmith> has joined the channel",
+        "ts": "1439061833.000041"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "<http:\/\/gregism.github.io\/datajam\/>",
+        "ts": "1439061838.000042"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/bl.ocks.org\/micahstubbs\/1fa88ce2b089f8f04143>",
+        "ts": "1439062964.000043"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "meetup topic adjacency matrix from Tim, Gerardo, and I :simple_smile:",
+        "ts": "1439062980.000044"
+    }
+]

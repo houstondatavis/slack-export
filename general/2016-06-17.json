@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "That is amaaaaazing!",
+        "ts": "1466173887.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U1H7NKVHP> <@U1HKBB6MB> welcome!",
+        "ts": "1466175217.000012",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1HKBB6MB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

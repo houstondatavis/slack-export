@@ -1,0 +1,17 @@
+[
+    {
+        "user": "U066B6F9R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066B6F9R|pavanb> has joined the channel",
+        "ts": "1456851707.000002"
+    },
+    {
+        "user": "U066B6F9R",
+        "purpose": "scientific",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U066B6F9R|pavanb> set the channel purpose: scientific",
+        "ts": "1456851708.000003"
+    }
+]

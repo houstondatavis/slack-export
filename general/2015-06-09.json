@@ -1,0 +1,177 @@
+[
+    {
+        "user": "U064KUGRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064KUGRJ|timabram> has joined the channel",
+        "ts": "1433864707.943132"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/groups.google.com\/forum\/#!topic\/d3-js\/Olzbb_-dNqU> here is some conversation on the d3-js google group on a 3-dimensional force layout",
+        "ts": "1433865601.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "working with census data?  <http:\/\/opendata.stackexchange.com\/> is a great place to ask questions",
+        "attachments": [
+            {
+                "title": "Open Data Stack Exchange",
+                "title_link": "http:\/\/opendata.stackexchange.com\/",
+                "text": "Q&amp;A for developers and researchers interested in open data",
+                "fallback": "Open Data Stack Exchange",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/opendata\/img\/apple-touch-icon.png?v=9d8eacfa5005&a",
+                "from_url": "http:\/\/opendata.stackexchange.com\/",
+                "thumb_width": 158,
+                "thumb_height": 158,
+                "id": 1
+            }
+        ],
+        "ts": "1433866058.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: announced the July Meetup",
+        "ts": "1433867647.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/223102558\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/223102558\/",
+                "text": "conversation to 7p lightning :zap: talks&amp;nbsp; THEN a tour Python data visualization with Neeraj",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/223102558\/",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "id": 1
+            }
+        ],
+        "ts": "1433867648.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "would be cool to see a link to Jupyter and an example project",
+        "ts": "1433867679.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "perhaps a link to a tutorial",
+        "ts": "1433867683.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "and an image of a chart you produce with python",
+        "ts": "1433867691.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "(perhaps the histogram-axes plot from last night)",
+        "ts": "1433867705.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "to add the the description",
+        "ts": "1433867714.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "feel free to post the content here for me to add",
+        "ts": "1433867722.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "or add it directly yourself to the <http:\/\/meetup.com|meetup.com> page",
+        "ts": "1433867730.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Thanks :micah: !",
+        "ts": "1433867777.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Haha! the little picture is funny :simple_smile:",
+        "ts": "1433868063.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Ok I'll add the content later today. An outline, links, and an image",
+        "ts": "1433868098.000017"
+    },
+    {
+        "user": "U064QAV16",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064QAV16|pedrosan> has joined the channel",
+        "ts": "1433869302.000018"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey, Giovanni",
+        "ts": "1433871522.000019"
+    },
+    {
+        "user": "U064SRKPD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064SRKPD|amandashih> has joined the channel",
+        "ts": "1433871947.000020"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey, Amanda",
+        "ts": "1433872477.000021"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "hello",
+        "ts": "1433872541.000022"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: fantastic - would be good to mention packages you will discuss - Blaze, Bokeh",
+        "ts": "1433887765.000023"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I'll loop back through and add links and prettify the text a bit once it's up there :simple_smile:",
+        "ts": "1433887791.000024"
+    },
+    {
+        "user": "U065ETZEC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U065ETZEC|jkim> has joined the channel",
+        "ts": "1433905933.000025"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey, J\u00fa",
+        "ts": "1433913388.000026"
+    }
+]

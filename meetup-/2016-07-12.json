@@ -1,0 +1,160 @@
+[
+    {
+        "user": "U1QTYJDFG",
+        "text": "<@U1QTYJDFG|jtbrogan001> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468327282.000066"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "<@U061A1R2R>:  My slides are viewable here: <https:\/\/docs.google.com\/presentation\/d\/1PnJoNG0mwTAAo2niOVm-oLfYSM9szYfal-3Ehi0W_GY\/edit?usp=sharing>",
+        "ts": "1468343254.000067"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U17KXSB7W|perimosocordiae> shared a file: <https:\/\/houstondatavis.slack.com\/files\/perimosocordiae\/F1R1RBB8Q\/dataviztalk-72016|DataViz talk - 7\/2016>",
+        "file": {
+            "id": "F1R1RBB8Q",
+            "created": 1468343272,
+            "timestamp": 1468343272,
+            "name": "DataViztalk-72016",
+            "title": "DataViz talk - 7\/2016",
+            "mimetype": "application\/vnd.google-apps.presentation",
+            "filetype": "gpres",
+            "pretty_type": "GDocs Presentation",
+            "user": "U17KXSB7W",
+            "editable": false,
+            "size": 2881,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/presentation\/d\/1PnJoNG0mwTAAo2niOVm-oLfYSM9szYfal-3Ehi0W_GY\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gpres_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/272a\/img\/files\/gpres_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/perimosocordiae\/F1R1RBB8Q\/dataviztalk-72016",
+            "channels": [
+                "C061A3E0Y"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "clap",
+                    "users": [
+                        "U061A3E0G",
+                        "U064SRKPD",
+                        "U065ETZEC",
+                        "U061A1R2R",
+                        "U061A5N1G",
+                        "U1QPREQUC"
+                    ],
+                    "count": 6
+                },
+                {
+                    "name": "ok_hand",
+                    "users": [
+                        "U061A3E0G",
+                        "U064SRKPD",
+                        "U065ETZEC",
+                        "U061A1R2R",
+                        "U061A5N1G"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U061A3E0G",
+                        "U065ETZEC",
+                        "U064SRKPD",
+                        "U061A1R2R",
+                        "U061A5N1G"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        "user": "U17KXSB7W",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U17KXSB7W|perimosocordiae>",
+        "bot_id": null,
+        "ts": "1468343272.000068"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "awesome work! Its a powerful idea, glad to know you are pushing the envelop on this process CJ!",
+        "ts": "1468344350.000069"
+    },
+    {
+        "user": "U1R1B0Q6P",
+        "text": "<@U1R1B0Q6P|sethsa> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468348451.000084"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "The slides aren't super useful on their own, so here are the demos I presented last night: <https:\/\/github.com\/perimosocordiae\/houstondatavis-july2016>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "perimosocordiae\/houstondatavis-july2016",
+                "title_link": "https:\/\/github.com\/perimosocordiae\/houstondatavis-july2016",
+                "text": "houstondatavis-july2016 - Demo scripts from my talk on graph-based machine learning.",
+                "fallback": "GitHub: perimosocordiae\/houstondatavis-july2016",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/82855?v=3&s=400",
+                "from_url": "https:\/\/github.com\/perimosocordiae\/houstondatavis-july2016",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468349039.000085",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U066MTL5U",
+                    "U064SRKPD",
+                    "U065ETZEC",
+                    "U1R1B0Q6P",
+                    "U1QPREQUC",
+                    "U061A1R2R",
+                    "U061A3E0G"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very cool - excited to talk more ML when I get back to Texas; been cutting my teeth on it here in Boston.",
+        "ts": "1468350380.000090"
+    },
+    {
+        "user": "U1R4AJHD2",
+        "text": "<@U1R4AJHD2|abhi> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468357873.000091"
+    }
+]

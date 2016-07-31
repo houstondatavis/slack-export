@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433903598.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "posts on data visualizations theory and practice.  all forms of written word, aside from tutorials",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: posts on data visualizations theory and practice.  all forms of written word, aside from tutorials",
+        "ts": "1433903599.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/benalman.com\/news\/2010\/03\/theres-no-such-thing-as-a-json\/>",
+        "ts": "1433903602.000004"
+    }
+]

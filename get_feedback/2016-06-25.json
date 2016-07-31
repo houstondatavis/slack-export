@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U1LB3P8RF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LB3P8RF|jeff> has joined the channel",
+        "ts": "1466909901.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1LB3P8RF",
+        "text": "hey, i was super inspired by today\u2019s data jam, so i got around to my official weekend project early. would love your feedback. will post to github tomorrow most likely. <http:\/\/januaryadvisors.com\/mapping-houstons-capital-improvement-projects-by-location-and-budget\/>",
+        "attachments": [
+            {
+                "service_name": "January Advisors",
+                "title": "Mapping Houston's Capital Improvement Projects By Location and Budget - January Advisors",
+                "title_link": "http:\/\/januaryadvisors.com\/mapping-houstons-capital-improvement-projects-by-location-and-budget\/",
+                "text": "Mapping the budget and location of Houston's capital improvement projects (CIPs) from 2016-2020.",
+                "fallback": "January Advisors: Mapping Houston's Capital Improvement Projects By Location and Budget - January Advisors",
+                "thumb_url": "http:\/\/januaryadvisors.com\/wp-content\/uploads\/2016\/06\/cip.jpg",
+                "ts": 1466907596,
+                "from_url": "http:\/\/januaryadvisors.com\/mapping-houstons-capital-improvement-projects-by-location-and-budget\/",
+                "thumb_width": 625,
+                "thumb_height": 408,
+                "id": 1
+            }
+        ],
+        "ts": "1466910067.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064SRKPD",
+                    "U061A1R2R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

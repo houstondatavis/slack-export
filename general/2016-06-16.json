@@ -1,0 +1,32 @@
+[
+    {
+        "user": "U1HKBB6MB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1HKBB6MB|vanessareneehdz> has joined the channel",
+        "ts": "1466099916.000009"
+    },
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<@U061A3E0G>:  have you seen this? <http:\/\/dcgi.fel.cvut.cz\/home\/sykorad\/stylit>\na different approach to style transfer that preserves the original hand-drawn work as a creative tool",
+        "ts": "1466133755.000010",
+        "reactions": [
+            {
+                "name": "fire_engine",
+                "users": [
+                    "U061A3E0G",
+                    "U061A1R2R"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

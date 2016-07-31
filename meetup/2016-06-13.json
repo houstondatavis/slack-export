@@ -1,0 +1,19 @@
+[
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1465863537.000002"
+    },
+    {
+        "user": "U061A5N1G",
+        "members": [
+            "U061A5N1G"
+        ],
+        "type": "message",
+        "subtype": "channel_archive",
+        "text": "<@U061A5N1G|neerajt> archived the channel (w\/ 1 member)",
+        "ts": "1465863701.000003"
+    }
+]

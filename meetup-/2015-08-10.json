@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U08SYC5T7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08SYC5T7|suzannevee> has joined the channel",
+        "ts": "1439237563.000008"
+    },
+    {
+        "user": "U08SZBFAM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08SZBFAM|vijay4slack> has joined the channel",
+        "ts": "1439238545.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "so it seems that there are machine learning libraries in javascript <http:\/\/cs.stanford.edu\/people\/karpathy\/convnetjs\/demo\/mnist.html>",
+        "ts": "1439268677.000002"
+    }
+]

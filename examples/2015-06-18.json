@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/cartography.oregonstate.edu\/demos\/AdaptiveCompositeMapProjections\/>",
+        "ts": "1434647902.000032"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06H0JB4P\/screen_shot_2015-06-18_at_12.18.40.png|adaptive composite map projections>",
+        "file": {
+            "id": "F06H0JB4P",
+            "created": 1434647955,
+            "timestamp": 1434647955,
+            "name": "Screen Shot 2015-06-18 at 12.18.40.png",
+            "title": "adaptive composite map projections",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 738308,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06H0JB4P\/screen_shot_2015-06-18_at_12.18.40.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06H0JB4P\/download\/screen_shot_2015-06-18_at_12.18.40.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 163,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 217,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 325,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 434,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06H0JB4P-ee8ad9617f\/screen_shot_2015-06-18_at_12.18.40_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 463,
+            "image_exif_rotation": 1,
+            "original_w": 1385,
+            "original_h": 626,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06H0JB4P\/screen_shot_2015-06-18_at_12.18.40.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06H0JB4P-b8254abe52",
+            "channels": [
+                "C064FLUHY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1434647963.000033"
+    }
+]

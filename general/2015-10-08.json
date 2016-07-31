@@ -1,0 +1,263 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Is there a R package equivalent to Python's Mechanize?",
+        "ts": "1444329851.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "that's a great question, nothing comes to mind but one idea is to peruse the reverse imports for the *httr* package",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1444330467.000000"
+        },
+        "ts": "1444330423.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "bottom of this page: <https:\/\/cran.r-project.org\/web\/packages\/httr\/index.html>",
+        "ts": "1444330432.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "there are lots of interesting projects on there",
+        "ts": "1444330446.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1: ",
+        "ts": "1444330898.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Reporting live from Visualized! It's been awesome. ",
+        "ts": "1444343651.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very cool!! Will you do another summary talk for us next month?",
+        "ts": "1444343788.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1: ",
+        "ts": "1444346293.000002"
+    },
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": "Hope no one minds a little cross promotion, but there's now a Houston R Users Group slack at <http:\/\/hrug.slack.com\/>",
+        "ts": "1444350529.000002"
+    },
+    {
+        "type": "message",
+        "user": "U07P7LT9S",
+        "text": "U can msg me on here for an invite",
+        "ts": "1444350549.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1: <@U07P7LT9S> ",
+        "ts": "1444353767.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F0C5E5GKD\/img_20151008_164427.jpg|Santiago Ortiz demoed Lichen>",
+        "file": {
+            "id": "F0C5E5GKD",
+            "created": 1444363625,
+            "timestamp": 1444363625,
+            "name": "IMG_20151008_164427.jpg",
+            "title": "Santiago Ortiz demoed Lichen",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 2222767,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0C5E5GKD\/img_20151008_164427.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0C5E5GKD\/download\/img_20151008_164427.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5E5GKD-56808db262\/img_20151008_164427_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3120,
+            "original_h": 4160,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F0C5E5GKD\/img_20151008_164427.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0C5E5GKD-5bd45bfd8d",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1444363631.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": ":astonished: ",
+        "ts": "1444364385.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "That's so cool! I'm at a conference in Montr\u00e9al but I have serious conference envy right now",
+        "ts": "1444364423.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F0C5F32MS\/img_20151007_132018.jpg|David Mccandles on frameworks>",
+        "file": {
+            "id": "F0C5F32MS",
+            "created": 1444365327,
+            "timestamp": 1444365327,
+            "name": "IMG_20151007_132018.jpg",
+            "title": "David Mccandles on frameworks",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 1409091,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0C5F32MS\/img_20151007_132018.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0C5F32MS\/download\/img_20151007_132018.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0C5F32MS-c53f0dc955\/img_20151007_132018_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4160,
+            "original_h": 3120,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F0C5F32MS\/img_20151007_132018.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0C5F32MS-b0228d509b",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U061A1R2R"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1444365332.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "fantastic <@U061A3E0G> ",
+        "ts": "1444369159.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "so cool to see @moebio integrate datacomb.  met @chrispolis who made datacomb a few weeks back at a d3 meetup ",
+        "ts": "1444369200.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "just experienced webVR in the HTC Vive",
+        "ts": "1444369225.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/www.meetup.com\/Silicon-Valley-HTML5-WebGL-Meetup\/events\/225544009\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Silicon Valley WebGL Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Silicon-Valley-HTML5-WebGL-Meetup\/events\/225544009\/",
+                "text": "WebGLers! Long time, no C.&amp;nbsp; This time we are converging on the GooglePlex to get some updates on the state of the art of WebGL and WebVR! &amp;nbsp;We will have some really cool guest speakers inclu",
+                "fallback": "Meetup: Silicon Valley WebGL Meetup",
+                "thumb_url": "http:\/\/photos4.meetupstatic.com\/photos\/event\/5\/b\/3\/8\/highres_425003352.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Silicon-Valley-HTML5-WebGL-Meetup\/events\/225544009\/",
+                "thumb_width": 751,
+                "thumb_height": 283,
+                "id": 1
+            }
+        ],
+        "ts": "1444369287.000005"
+    }
+]

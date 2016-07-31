@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey guys, short notice (&lt;1 hour) but this is happening today",
+        "ts": "1462294336.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<http:\/\/www.meetup.com\/ACM-Houston\/events\/230374640\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "ACM Houston",
+                "title_link": "http:\/\/www.meetup.com\/ACM-Houston\/events\/230374640\/",
+                "text": "Welcome to our talk with Chief Scientist Hadley Wickham of RStudio.&amp;nbsp; Abstract:&amp;nbsp; To do data science you need five sets of verbs: import, tidy,&amp;nbsp;transform, visualise, and model. Importantl",
+                "fallback": "Meetup: ACM Houston",
+                "thumb_url": "http:\/\/photos2.meetupstatic.com\/photos\/event\/5\/a\/2\/7\/highres_448883079.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/ACM-Houston\/events\/230374640\/",
+                "thumb_width": 2048,
+                "thumb_height": 1536,
+                "id": 1
+            }
+        ],
+        "ts": "1462294338.000005"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "bringing my advanced R copy, so I can get it signed!",
+        "ts": "1462294396.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Not data vis per se, but for those of us using and learning R, the pipes can really save you from having your code turn into an unmanageable mess",
+        "ts": "1462294404.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

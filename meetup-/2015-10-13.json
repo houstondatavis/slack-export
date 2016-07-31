@@ -1,0 +1,36 @@
+[
+    {
+        "user": "U0CBK5KAT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CBK5KAT|aaron.anzalone> has joined the channel",
+        "ts": "1444734090.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": ":coffee: + :computer: = :boom: ",
+        "ts": "1444754085.000003"
+    },
+    {
+        "user": "U0CCDH7S6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CCDH7S6|zubinrasheed> has joined the channel",
+        "ts": "1444755164.000004"
+    },
+    {
+        "user": "U0CCARLFQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CCARLFQ|mfaini> has joined the channel",
+        "ts": "1444755980.000005"
+    },
+    {
+        "user": "U0CDC6TBQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CDC6TBQ|stephenporter> has joined the channel",
+        "ts": "1444791398.000006"
+    }
+]

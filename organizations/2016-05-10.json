@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<http:\/\/webkid.io\/>",
+        "attachments": [
+            {
+                "title": "WEBKID",
+                "title_link": "http:\/\/webkid.io\/",
+                "text": "WEBKID brings your data to life. We produce interactive web experiences with the latest technology that work in every browser and on every device.",
+                "fallback": "WEBKID",
+                "image_url": "http:\/\/www.webkid.io\/images\/teaser.png",
+                "from_url": "http:\/\/webkid.io\/",
+                "image_width": 280,
+                "image_height": 154,
+                "image_bytes": 76488,
+                "id": 1
+            }
+        ],
+        "ts": "1462890821.000002"
+    }
+]

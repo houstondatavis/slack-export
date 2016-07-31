@@ -1,0 +1,37 @@
+[
+    {
+        "user": "U066B6F9R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066B6F9R|pavanb> has joined the channel",
+        "ts": "1433955435.000005"
+    },
+    {
+        "user": "U066H4AKX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066H4AKX|gregsmith> has joined the channel",
+        "ts": "1433962066.000006"
+    },
+    {
+        "user": "U066MTL5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066MTL5U|colinnlsn> has joined the channel",
+        "ts": "1433967649.000007"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1433972873.000008"
+    },
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U061A5N1G|neerajt> has left the channel",
+        "ts": "1433972896.000009"
+    }
+]

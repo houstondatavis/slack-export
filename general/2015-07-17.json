@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U066H4AKX> will be presenting a lightning talk on a recent project using leaflet.js and mapbox for map data in our next meetup (August 10)",
+        "ts": "1437164647.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "nice! ",
+        "ts": "1437165241.000003"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "<@U061A5N1G>: thought you'd enjoy this <http:\/\/cyrille.rossant.net\/scientific-python-in-the-browser-its-coming\/>",
+        "attachments": [
+            {
+                "text": "Cyrille Rossant's blog,",
+                "fallback": "Cyrille Rossant's blog,",
+                "from_url": "http:\/\/cyrille.rossant.net\/scientific-python-in-the-browser-its-coming\/",
+                "id": 1
+            }
+        ],
+        "ts": "1437175833.000002"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Folks,\n\nI am looking for a python pandas intern to wrangle and visualize time series energy data. If you have someone to recommend, I would appreciate the lead. Thanks. \n\nBest,\nPavan \n\n<mailto:pbathla@flexgenpowersystems.com|pbathla@flexgenpowersystems.com>",
+        "ts": "1437194265.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very interesting article, @pavan. Thanks for sharing it! I think the IPython notebook is definitely the first revolution in the direction he's talking about in the article. It exposes all the necessary components to do the rest of the work that it will take to get Python fully integrated in the browser, it's just a matter of time now.  @micah posted the news in another channel that the IPython folks were just awarded $6M to continue their great work.",
+        "ts": "1437198580.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i completely just used those @ signs the wrong way. :disappointed:",
+        "ts": "1437198607.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U066B6F9R> <@U061A1R2R>",
+        "ts": "1437198627.000004"
+    }
+]

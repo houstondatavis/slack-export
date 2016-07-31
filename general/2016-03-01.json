@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "<@U061A3E0G>: Is this HIMA about automation or marketing? there are 2 different organizations.",
+        "edited": {
+            "user": "U066B6F9R",
+            "ts": "1456849022.000000"
+        },
+        "ts": "1456848886.000016"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "Guys, How do we start a scipy or pydata\/algo group? Is there one in Houston?",
+        "ts": "1456848962.000017"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "@pavan I believe this HIMA is interactive marketing ",
+        "ts": "1456849192.000019"
+    },
+    {
+        "type": "message",
+        "user": "U066B6F9R",
+        "text": "thanks",
+        "ts": "1456849480.000020"
+    }
+]

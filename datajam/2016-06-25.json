@@ -1,0 +1,121 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Good morning everyone!",
+        "ts": "1466856220.000006"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "DATA JAM THIS! <https:\/\/github.com\/houstondatavis\/data-jam-june-2016>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "houstondatavis\/data-jam-june-2016",
+                "title_link": "https:\/\/github.com\/houstondatavis\/data-jam-june-2016",
+                "text": "Contribute to data-jam-june-2016 development by creating an account on GitHub.",
+                "fallback": "GitHub: houstondatavis\/data-jam-june-2016",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/12770645?v=3&s=400",
+                "from_url": "https:\/\/github.com\/houstondatavis\/data-jam-june-2016",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1466863266.000007"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Hello all!",
+        "ts": "1466864250.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Excited to see some pictures in here :smiley: ",
+        "ts": "1466864941.000010"
+    },
+    {
+        "user": "U1L94SQ8N",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L94SQ8N|mohcinemadkour> has joined the channel",
+        "ts": "1466867883.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "does anyone know what the religious affiliations codes mean?",
+        "ts": "1466872695.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "never mind it doesn't look that accurate or complete, actually",
+        "ts": "1466872747.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "eg. `Yeshiva D'monsey Rabbinical College` is `NA`",
+        "ts": "1466872903.000014"
+    },
+    {
+        "user": "U064SRKPD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064SRKPD|amandashih> has joined the channel",
+        "ts": "1466876231.000015"
+    },
+    {
+        "type": "message",
+        "user": "U064SRKPD",
+        "text": "<https:\/\/exchange.ai\/downloads\/college-scorecard-analysis-with-random-forest\/>",
+        "attachments": [
+            {
+                "title": "     Exchange.ai | a Marketplace for Analytics      \u00bb College Scorecard Analysis with Random Forest",
+                "title_link": "https:\/\/exchange.ai\/downloads\/college-scorecard-analysis-with-random-forest\/",
+                "text": "Browse and download apps for analytics from the Exchange. <http:\/\/Exchange.ai|Exchange.ai> has dozens of templates and extensions for your platform.",
+                "fallback": "     Exchange.ai | a Marketplace for Analytics      \u00bb College Scorecard Analysis with Random Forest",
+                "from_url": "https:\/\/exchange.ai\/downloads\/college-scorecard-analysis-with-random-forest\/",
+                "service_icon": "https:\/\/exchange.ai\/wp-content\/uploads\/edd\/2016\/02\/favico2.png?v=3",
+                "service_name": "exchange.ai",
+                "id": 1
+            }
+        ],
+        "ts": "1466877397.000016",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1LB3P8RF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LB3P8RF|jeff> has joined the channel",
+        "ts": "1466909892.000020"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "type": "message",
+        "user": "U0GVDH70F",
+        "text": "I enjoyed it! Looking forward to the Datajam",
+        "ts": "1452718422.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0GVDH70F",
+        "text": "FYI....",
+        "ts": "1452728534.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0GVDH70F",
+        "text": "Andrei Macsin\nAndrei Macsin\nCTO at Data Science Central\nApplying Graphic Design Principles to Create Killer Dashboards\nReserve your Webinar seat now: <http:\/\/goo.gl\/zqmRQN> \n\nDate: Tuesday, January 26, 2016\nTime: 09:00 AM Pacific Standard Time\nDuration: 1 hour\n\nPlease join us for our next Data Science Central Webinar: \"Applying Graphic Design Principles to Create Killer Dash...Show more\n\nUnlikeCommentYou + 1",
+        "attachments": [
+            {
+                "title": "Applying Graphic Design Principles to Create Killer Dashboards",
+                "title_link": "http:\/\/goo.gl\/zqmRQN",
+                "text": "Tuesday, January 26, 2016 at 09:00 AM Pacific Standard Time",
+                "fallback": "Applying Graphic Design Principles to Create Killer Dashboards",
+                "from_url": "http:\/\/goo.gl\/zqmRQN",
+                "id": 1
+            }
+        ],
+        "ts": "1452728538.000009"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U064SRKPD|amandashih> shared a file: <https:\/\/houstondatavis.slack.com\/files\/amandashih\/F0JDJ524E\/01_11_2016_Meetup|01\/11\/2016 Meetup>",
+        "file": {
+            "id": "F0JDJ524E",
+            "created": 1452742130,
+            "timestamp": 1452742165,
+            "name": "01_11_2016_Meetup",
+            "title": "01\/11\/2016 Meetup",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U064SRKPD",
+            "editable": true,
+            "size": 2774,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JDJ524E\/01_11_2016_Meetup?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JDJ524E\/download\/01_11_2016_Meetup?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/amandashih\/F0JDJ524E\/01_11_2016_Meetup",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0JDJ524E-d63771820c",
+            "preview": "<document><h2>Upcoming Things<\/h2><ul><li><a href=\"http:\/\/www.meetup.com\/houstonr\/\">Houston R Users<\/a> hosting series of intro talks<ul><li tabbing=\"1\"><a href=\"http:\/\/www.meetup.com\/houstonr\/events\/227950530\/\">Intro to KnitR<\/a>, with Neeraj<ul><li tabbing=\"2\">All about a neat tool that let&#39;s you write nicely annotated R code like <a href=\"https:\/\/github.com\/yihui\/knitr-examples\/blob\/master\/001-minimal.Rmd\">this<\/a><\/li><\/ul><\/li><li tabbing=\"1\"><a href=\"http:\/\/www.meetup.com\/houstonr\/events\/227950604\/\">Production code in R<\/a>, with Hadley Wickham<\/li><\/ul><\/li><\/ul><\/document>",
+            "updated": 1452745275,
+            "editor": "U064SRKPD",
+            "last_editor": "U064SRKPD",
+            "state": "inactive",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 2,
+            "reactions": [
+                {
+                    "name": "clap::skin-tone-3",
+                    "users": [
+                        "U061A1R2R",
+                        "U0J8SUPPY",
+                        "U061A5N1G"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U064SRKPD",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U064SRKPD|amandashih>",
+        "bot_id": null,
+        "ts": "1452745415.000011"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U064SRKPD|amandashih> commented on U064SRKPD's file <https:\/\/houstondatavis.slack.com\/files\/amandashih\/F0JDJ524E\/01_11_2016_Meetup|01\/11\/2016 Meetup>: Here are notes from Monday's MeetUp!",
+        "file": {
+            "id": "F0JDJ524E",
+            "created": 1452742130,
+            "timestamp": 1452742165,
+            "name": "01_11_2016_Meetup",
+            "title": "01\/11\/2016 Meetup",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U064SRKPD",
+            "editable": true,
+            "size": 2774,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JDJ524E\/01_11_2016_Meetup?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0JDJ524E\/download\/01_11_2016_Meetup?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/amandashih\/F0JDJ524E\/01_11_2016_Meetup",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0JDJ524E-d63771820c",
+            "preview": "<document><h2>Upcoming Things<\/h2><ul><li><a href=\"http:\/\/www.meetup.com\/houstonr\/\">Houston R Users<\/a> hosting series of intro talks<ul><li tabbing=\"1\"><a href=\"http:\/\/www.meetup.com\/houstonr\/events\/227950530\/\">Intro to KnitR<\/a>, with Neeraj<ul><li tabbing=\"2\">All about a neat tool that let&#39;s you write nicely annotated R code like <a href=\"https:\/\/github.com\/yihui\/knitr-examples\/blob\/master\/001-minimal.Rmd\">this<\/a><\/li><\/ul><\/li><li tabbing=\"1\"><a href=\"http:\/\/www.meetup.com\/houstonr\/events\/227950604\/\">Production code in R<\/a>, with Hadley Wickham<\/li><\/ul><\/li><\/ul><\/document>",
+            "updated": 1452745275,
+            "editor": "U064SRKPD",
+            "last_editor": "U064SRKPD",
+            "state": "inactive",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 2,
+            "reactions": [
+                {
+                    "name": "clap::skin-tone-3",
+                    "users": [
+                        "U061A1R2R",
+                        "U0J8SUPPY",
+                        "U061A5N1G"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "comment": {
+            "id": "Fc0JDL83DM",
+            "created": 1452745416,
+            "timestamp": 1452745416,
+            "user": "U064SRKPD",
+            "is_intro": false,
+            "comment": "Here are notes from Monday's MeetUp!",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1452745415.000012"
+    }
+]

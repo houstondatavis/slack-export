@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I\u2019m attending a Meetup with Bay Area d3 User Group <http:\/\/meetu.ps\/2M4HTv>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Bay Area d3 User Group",
+                "title_link": "http:\/\/meetu.ps\/2M4HTv",
+                "text": "Last month in San Francisco we were exposed to ways of manipulating data layers in MapSense and Zan taught us how to overcome scaling issues with her presentation How to Make Sense of Maps. Oakland ha",
+                "fallback": "Meetup: Bay Area d3 User Group",
+                "thumb_url": "http:\/\/photos4.meetupstatic.com\/photos\/event\/5\/0\/8\/e\/highres_170660622.jpeg",
+                "from_url": "http:\/\/meetu.ps\/2M4HTv",
+                "thumb_width": 177,
+                "thumb_height": 50,
+                "id": 1
+            }
+        ],
+        "ts": "1439848089.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "good ideas are invented many places at once",
+        "ts": "1439848125.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "going to checkout this 'data potluck' :-) ",
+        "ts": "1439848155.000005"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Sounds cool! Excited to hear about it",
+        "ts": "1439851107.000006"
+    }
+]

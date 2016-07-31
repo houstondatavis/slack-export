@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U06AU830R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06AU830R|hobbymaryc> has joined the channel",
+        "ts": "1434303812.000002"
+    }
+]

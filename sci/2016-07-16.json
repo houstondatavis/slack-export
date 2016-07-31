@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "The allen institute is so cool. I got a flip-book from them a few years ago that shows the development of the human brain, from embryo to young child",
+        "ts": "1468672058.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1QPREQUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Wonder what you guys think about this:",
+        "ts": "1468672081.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<http:\/\/www.vox.com\/2016\/7\/14\/12016710\/science-challeges-research-funding-peer-review-process>",
+        "attachments": [
+            {
+                "service_name": "Vox",
+                "title": "The 7 biggest problems facing science, according to 270 scientists",
+                "title_link": "http:\/\/www.vox.com\/2016\/7\/14\/12016710\/science-challeges-research-funding-peer-review-process",
+                "text": "These are dark times for science so we asked hundreds of researchers how to fix it.",
+                "fallback": "Vox: The 7 biggest problems facing science, according to 270 scientists",
+                "image_url": "https:\/\/cdn0.vox-cdn.com\/thumbor\/6fE2Dvd4GkjLKE2vYsyg9-CWOBs=\/0x0:2700x1500\/1080x600\/cdn0.vox-cdn.com\/uploads\/chorus_image\/image\/50119035\/FixingScienceLead.0.png",
+                "ts": 1468494002,
+                "from_url": "http:\/\/www.vox.com\/2016\/7\/14\/12016710\/science-challeges-research-funding-peer-review-process",
+                "image_width": 450,
+                "image_height": 250,
+                "image_bytes": 892269,
+                "service_icon": "https:\/\/cdn0.vox-cdn.com\/community_logos\/52517\/voxv.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468672084.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1QPREQUC",
+        "text": "<@U061A5N1G>:  Nothing that surprising in there but still a good read. Discussion has been ongoing in a geology-coding slack team on replication (point 3 of the article). <http:\/\/Mybinder.org|Mybinder.org> and <http:\/\/rescience.github.io> have been mentioned, also trying to influence journal editors \/ reviewers to strength\/enforce journal code documentation standards.",
+        "edited": {
+            "user": "U1QPREQUC",
+            "ts": "1468691720.000000"
+        },
+        "ts": "1468691655.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U1QPREQUC>: cool! I have seen mybinder before, have you you used it, or do you know anyone who has?",
+        "ts": "1468691982.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "re*science* looks very interesting",
+        "ts": "1468692009.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "reading about it now",
+        "ts": "1468692011.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1QPREQUC",
+        "text": "<@U061A5N1G>: I know other people who have used it. I was hoping to try mybinder this weekend. I'll post if I get something up. ",
+        "ts": "1468692200.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "That would be cool",
+        "ts": "1468693689.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "For writing papers, has anyone looked at Authorea or ShareLaTeX?",
+        "ts": "1468693875.000009"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "if i was a professor, i would make my students to annotate and replicate some studies as homeworks.",
+        "ts": "1468694091.000010"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "`ReScience` will be a good class project",
+        "ts": "1468694286.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1QPREQUC",
+        "text": "<@U061A5N1G>: I got something up on <http:\/\/mybinder.org|mybinder.org>. It was pretty simple. There is a binder badge\/link to add to your github repo, but here is the direct link. <http:\/\/app.mybinder.org\/user\/6e31b6a91c38c74a18ca7037bd889776\/notebooks\/index.ipynb>",
+        "ts": "1468711376.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey <@U1QPREQUC>, I\u2019m getting a \u201cnot found\u201d message.",
+        "ts": "1468726403.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1QPREQUC",
+        "text": "<@U061A5N1G>: try this link <http:\/\/app.mybinder.org\/user\/214514bc91595fa1a3ed478fe0414c6a\/notebooks\/index.ipynb>",
+        "ts": "1468726735.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "oh, nice! i like the use of seaborn",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1468727989.000000"
+        },
+        "ts": "1468727984.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "and bokeh",
+        "ts": "1468728009.000006"
+    }
+]

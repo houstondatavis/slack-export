@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "i was playing around with some flight data from transtats (and also getting introduced to highcharts in R): <http:\/\/timabram.com\/USflights\/index.html>. Let me know what you think!",
+        "ts": "1465968258.000013",
+        "reactions": [
+            {
+                "name": "airplane",
+                "users": [
+                    "U061A3E0G",
+                    "U065ETZEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "world_map",
+                "users": [
+                    "U061A3E0G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

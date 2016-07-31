@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Very cool <@U061A3E0G>!  Having a hard time reading some of the company names.",
+        "ts": "1465147261.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Are you generating the tool tip text programmatically, or still manually?",
+        "ts": "1465147281.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "It's from the dataset, just in a more semantic format. I think I might be aiming at this threshold of intuition vs hard fact somehow... ",
+        "ts": "1465147392.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Like, in some ways the current system is a visually interesting and delightful pivot table, with transitions that kind of massage the eyes... and subtle interface conventions to enable curiosity reasoning and exploration, rather than hard facts\/absolute figures",
+        "ts": "1465147489.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Yeah so obscuring the names a little bit helps encourage more curiosity kinda?",
+        "ts": "1465147615.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Right, and start up names are so whacky anyways",
+        "ts": "1465147640.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I can see that. It is delightful, I pulled it up on my phone and it was fun to move the bubbles around :smiley: ",
+        "ts": "1465147646.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Disclaimer: big screen optimized",
+        "ts": "1465147686.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "I have algorithmic layouts going, but they don't take consideration screen size yet",
+        "ts": "1465147716.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Is this on github? There's a small typo",
+        "ts": "1465151135.000015"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "thnx! It is a branch in the previous innovation map, but the data is from a google spreadsheet",
+        "ts": "1465153060.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "what did you  see?",
+        "ts": "1465153068.000017"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "In the tool tip you want to change it's to its",
+        "ts": "1465153292.000018"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "noted! thank's you's sir!",
+        "ts": "1465153320.000019"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "I used this <http:\/\/getmdl.io> as the ui framework, and good ole d3 for the viz",
+        "edited": {
+            "user": "U061A3E0G",
+            "ts": "1465345914.000000"
+        },
+        "ts": "1465153381.000020"
+    }
+]

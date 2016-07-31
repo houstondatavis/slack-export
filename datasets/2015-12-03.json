@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: have you seen this medical pathways database before?",
+        "ts": "1449171175.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/www.reactome.org\/>",
+        "ts": "1449171177.000003"
+    },
+    {
+        "user": "U061A5N1G",
+        "inviter": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1449171184.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U061A1R2R>: this is brilliant!",
+        "ts": "1449171423.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i\u2019m going to be messing around with this all day",
+        "ts": "1449171446.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "nice! ",
+        "ts": "1449174840.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "do check out their visual explorer.  it looks like they link a directory tree view,  a flow diagram,  an adjacency matrix,  and a human body diagram",
+        "ts": "1449174908.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "so five linked charts in one dashboard view",
+        "ts": "1449174939.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i\u2019m going to try out some of my own data in there",
+        "ts": "1449175315.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "pretty giddyabout it",
+        "ts": "1449175328.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1: ",
+        "ts": "1449175714.000012"
+    }
+]

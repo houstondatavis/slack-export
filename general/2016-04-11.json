@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "the meetup tonight looks great.  glad to see <@U061A3E0G> on schedule ",
+        "ts": "1460419244.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "glad to be back! about to go on :smile:",
+        "ts": "1460419262.000017",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "here are my slides: <https:\/\/docs.google.com\/presentation\/d\/1Reb32htvKANqkOuovf6yoUgzdkzhXWlpgF7IYVHKsc4\/>",
+        "ts": "1460419297.000018"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<https:\/\/github.com\/thomasp85\/ggraph>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "thomasp85\/ggraph",
+                "title_link": "https:\/\/github.com\/thomasp85\/ggraph",
+                "text": "ggraph - Grammar of Graph Graphics",
+                "fallback": "GitHub: thomasp85\/ggraph",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/1775316?v=3&s=400",
+                "from_url": "https:\/\/github.com\/thomasp85\/ggraph",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1460420311.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A3E0G",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

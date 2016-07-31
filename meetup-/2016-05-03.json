@@ -1,0 +1,19 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/www.odsc.com>",
+        "attachments": [
+            {
+                "service_name": "Open Data Science Conference",
+                "title": "ODSC | Data Science Conferences",
+                "title_link": "http:\/\/www.odsc.com",
+                "text": "Data Science Conferences by ODSC. Learn from the best and brightest. 100+ speakers, 30+ workshops, 15+ training sessions all under one roof.",
+                "fallback": "Open Data Science Conference: ODSC | Data Science Conferences",
+                "from_url": "http:\/\/www.odsc.com",
+                "id": 1
+            }
+        ],
+        "ts": "1462307332.000002"
+    }
+]

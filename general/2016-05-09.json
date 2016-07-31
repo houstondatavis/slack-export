@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "My \u201clightning\u201d talk presentation: <https:\/\/docs.google.com\/presentation\/d\/1cMh8Wg8jPyabGPah3ToUFs6dqShAhiBkDKuyJAj6zQI\/edit#slide=id.p>",
+        "ts": "1462843266.000009",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U061A5N1G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-3",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U17FMTJMQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17FMTJMQ|wanjun> has joined the channel",
+        "ts": "1462856333.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "welcome <@U17FMTJMQ>!",
+        "ts": "1462856479.000011",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

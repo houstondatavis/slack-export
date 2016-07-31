@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> this one's for you :smile: <https:\/\/twitter.com\/micahstubbs\/status\/744967344255008772>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/drob|@drob>: New blog post: One year as a Data Scientist at Stack Overflow <http:\/\/varianceexplained.org\/r\/year_data_scientist\/> #rstats <https:\/\/pbs.twimg.com\/media\/Clan2X1WEAAg7hp.jpg>",
+                "ts": 1466449030,
+                "author_name": "David Robinson",
+                "author_link": "https:\/\/twitter.com\/drob\/status\/744967344255008772",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/777175344\/David_Robinson_normal.jpg",
+                "author_subname": "@drob",
+                "text": "New blog post: One year as a Data Scientist at Stack Overflow <http:\/\/varianceexplained.org\/r\/year_data_scientist\/> #rstats <https:\/\/pbs.twimg.com\/media\/Clan2X1WEAAg7hp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/micahstubbs\/status\/744967344255008772",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Clan2X1WEAAg7hp.jpg",
+                "image_width": 1024,
+                "image_height": 768,
+                "image_bytes": 63590,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1466519236.000014",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U061A5N1G",
+                    "U061A3E0G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "robot_face",
+                "users": [
+                    "U1GGRN36X",
+                    "U061A3E0G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "nice autobiographical longform post from a biologist gone data scientist",
+        "ts": "1466519281.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "It's excellent, I'm already 1\/3 the way through it",
+        "ts": "1466519383.000017"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Thank you for sharing!",
+        "ts": "1466519395.000018"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U065ETZEC> <@U064KUGRJ> you'll like this too",
+        "ts": "1466519462.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064KUGRJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

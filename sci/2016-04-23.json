@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1461460509.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "very cool! didnt see this channel here hehe",
+        "ts": "1461460518.000003"
+    }
+]

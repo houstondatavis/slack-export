@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "Teaching a Semester of D3.js\n\n",
+        "ts": "1452781721.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "this post from @arnicas is quite good <http:\/\/blogger.ghostweather.com\/2016\/01\/teaching-semester-of-d3js.html?m=1>",
+        "ts": "1452781771.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066MTL5U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "cc <@U061A5N1G> <@U066MTL5U> ",
+        "ts": "1452781783.000004"
+    }
+]

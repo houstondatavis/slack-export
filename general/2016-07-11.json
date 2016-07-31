@@ -1,0 +1,35 @@
+[
+    {
+        "user": "U1QPREQUC",
+        "text": "<@U1QPREQUC|justingosses> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468284653.000039"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Rbokeh! <https:\/\/channel9.msdn.com\/Events\/useR-international-R-User-conference\/useR2016\/rbokeh-A-Simple-Flexible-Declarative-Framework-for-Interactive-Graphics>",
+        "edited": {
+            "user": "U065ETZEC",
+            "ts": "1468294715.000000"
+        },
+        "ts": "1468294700.000040",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1LB96REX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1QR4LUQP",
+        "text": "<@U1QR4LUQP|ckanu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468299217.000042"
+    }
+]

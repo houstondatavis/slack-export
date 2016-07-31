@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "<http:\/\/earth.nullschool.net\/> prepare to waste the rest of your day",
+        "attachments": [
+            {
+                "title": "earth :: a global map of wind, weather, and ocean conditions",
+                "title_link": "http:\/\/earth.nullschool.net\/",
+                "text": "See current wind, weather, ocean, and pollution conditions, as forecast by supercomputers, on an interactive animated map. Updated every three hours.",
+                "fallback": "earth :: a global map of wind, weather, and ocean conditions",
+                "image_url": "http:\/\/earth.nullschool.net\/sample.png",
+                "from_url": "http:\/\/earth.nullschool.net\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 357547,
+                "id": 1
+            }
+        ],
+        "ts": "1453664154.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

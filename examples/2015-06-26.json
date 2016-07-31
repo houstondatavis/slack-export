@@ -1,0 +1,124 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U066MTL5U>: I rediscovered what I think are railroad charts in the MBTA project <http:\/\/mbtaviz.github.io\/>",
+        "attachments": [
+            {
+                "title": "Visualizing MBTA Data",
+                "title_link": "http:\/\/mbtaviz.github.io\/",
+                "text": "An interactive exploration of ridership, congestion, and delay on Boston's subway system.",
+                "fallback": "Visualizing MBTA Data",
+                "image_url": "http:\/\/mbtaviz.github.io\/media\/wide-preview-collage.png",
+                "from_url": "http:\/\/mbtaviz.github.io\/",
+                "image_width": 636,
+                "image_height": 250,
+                "image_bytes": 225697,
+                "id": 1
+            }
+        ],
+        "ts": "1435338374.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I really like the way it animates the linked system map when you mouse over the railroad chart",
+        "ts": "1435338414.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06SWLJUV\/screen_shot_2015-06-26_at_12.07.24.png|interaction>",
+        "file": {
+            "id": "F06SWLJUV",
+            "created": 1435338485,
+            "timestamp": 1435338485,
+            "name": "Screen Shot 2015-06-26 at 12.07.24.png",
+            "title": "interaction",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 377747,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06SWLJUV\/screen_shot_2015-06-26_at_12.07.24.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06SWLJUV\/download\/screen_shot_2015-06-26_at_12.07.24.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 158,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 211,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 317,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 423,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SWLJUV-eacd33807c\/screen_shot_2015-06-26_at_12.07.24_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 451,
+            "image_exif_rotation": 1,
+            "original_w": 1213,
+            "original_h": 534,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06SWLJUV\/screen_shot_2015-06-26_at_12.07.24.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06SWLJUV-94f87a0554",
+            "channels": [
+                "C064FLUHY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1435338493.000005"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "The breakdown to individual station entrances and exits by time is equally impressive",
+        "ts": "1435338558.000006"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "How all that to load with no noticeable lag is what I really want to know",
+        "ts": "1435338651.000007"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U061A1R2R>: that\u2019s an absolutely fascinating graphic!",
+        "ts": "1435342475.000008"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Its very similar to the one I've built but it contains in it both the \"forward\" and \"reverse\" lines in a loop",
+        "ts": "1435342517.000009"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "It takes a while to get used to for sure, but that's quite compelling.",
+        "ts": "1435342598.000010"
+    }
+]

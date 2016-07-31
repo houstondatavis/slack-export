@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "posted some photos of the data jam Saturday :-)  <http:\/\/meetu.ps\/2LbH4K>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/meetu.ps\/2LbH4K",
+                "text": "following the success of our first data jam, a lot of us are excited to do this again! we'll work in small teams to visualize a new dataset in three hours. we'll announce the actual dataset at the beg",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/meetu.ps\/2LbH4K",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "id": 1
+            }
+        ],
+        "ts": "1439131708.000008"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "for Elom - here is the math education vis project my friend Zan is working on <https:\/\/www.desmos.com\/>",
+        "attachments": [
+            {
+                "service_name": "Desmos.com",
+                "service_url": "https:\/\/www.desmos.com\/",
+                "text": "Explore math with <http:\/\/desmos.com|desmos.com>, a free online graphing calculator",
+                "fallback": "Desmos.com: ",
+                "from_url": "https:\/\/www.desmos.com\/",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/desmos\/img\/calc_thumb.png",
+                "thumb_width": 140,
+                "thumb_height": 140,
+                "id": 1
+            }
+        ],
+        "ts": "1439132077.000010"
+    },
+    {
+        "user": "U08RGD1RD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08RGD1RD|lisa> has joined the channel",
+        "ts": "1439151847.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "welcome <@U08RGD1RD> :simple_smile:",
+        "ts": "1439180506.000013"
+    }
+]

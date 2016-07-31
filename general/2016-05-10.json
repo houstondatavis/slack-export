@@ -1,0 +1,90 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<https:\/\/goo.gl\/B3tB8r> - <http:\/\/www.r2d3.us\/visual-intro-to-machine-learning-part-1\/>",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Animation, Pacing &amp; Exposition",
+                "title_link": "https:\/\/goo.gl\/B3tB8r",
+                "text": "For a better viewing and editing experience, install the free app.",
+                "fallback": "Google Docs: Animation, Pacing &amp; Exposition",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/5w1qmcXg9RLDQnmhZ4sH5IdppU7m_u9j4FaRVXYMwSJGgvKKo1nZbH3Q42KkRm_Ewc1xbg",
+                "thumb_width": 800,
+                "thumb_height": 450,
+                "from_url": "https:\/\/goo.gl\/B3tB8r",
+                "id": 1
+            },
+            {
+                "title": "A Visual Introduction to Machine Learning",
+                "title_link": "http:\/\/www.r2d3.us\/visual-intro-to-machine-learning-part-1\/",
+                "text": "What is machine learning? See how it works with our animated data visualization.",
+                "fallback": "A Visual Introduction to Machine Learning",
+                "image_url": "http:\/\/www.r2d3.us\/static\/pages\/decision-trees-part-1\/preview.png",
+                "from_url": "http:\/\/www.r2d3.us\/visual-intro-to-machine-learning-part-1\/",
+                "image_width": 467,
+                "image_height": 250,
+                "image_bytes": 77357,
+                "id": 2
+            }
+        ],
+        "ts": "1462884974.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<http:\/\/muyueh.com\/greenhoney\/>",
+        "ts": "1462884984.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "<http:\/\/playground.tensorflow.org\/>",
+        "attachments": [
+            {
+                "title": "Tensorflow \u2014 Neural Network Playground",
+                "title_link": "http:\/\/playground.tensorflow.org\/",
+                "text": "Tinker with a real neural network right here in your browser.",
+                "fallback": "Tensorflow \u2014 Neural Network Playground",
+                "image_url": "http:\/\/playground.tensorflow.org\/preview.png",
+                "image_width": 475,
+                "image_height": 250,
+                "from_url": "http:\/\/playground.tensorflow.org\/",
+                "image_bytes": 164023,
+                "id": 1
+            }
+        ],
+        "ts": "1462884991.000015"
+    },
+    {
+        "user": "U17KVDXQD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17KVDXQD|mcbrideclan> has joined the channel",
+        "ts": "1462893282.000017"
+    },
+    {
+        "user": "U17KXSB7W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17KXSB7W|perimosocordiae> has joined the channel",
+        "ts": "1462895151.000018"
+    },
+    {
+        "user": "U17L585K5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17L585K5|shawnhagler> has joined the channel",
+        "ts": "1462902268.000019"
+    }
+]

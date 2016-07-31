@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "I tried Authorea but didn't get into it. I used ShareLatex for a paper, though, which worked pretty well",
+        "ts": "1468803858.000002"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "<https:\/\/www.sharelatex.com\/>",
+        "attachments": [
+            {
+                "title": "ShareLaTeX, Online LaTeX Editor",
+                "title_link": "https:\/\/www.sharelatex.com\/",
+                "text": "An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.",
+                "fallback": "ShareLaTeX, Online LaTeX Editor",
+                "from_url": "https:\/\/www.sharelatex.com\/",
+                "service_icon": "https:\/\/www.sharelatex.com\/favicon.ico",
+                "service_name": "sharelatex.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468803872.000003"
+    }
+]

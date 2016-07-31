@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/jupyter.org\/jupyterlab\/>",
+        "ts": "1468886503.000002"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<https:\/\/channel9.msdn.com\/Events\/useR-international-R-User-conference\/useR2016\/Colour-schemes-in-data-visualisation-Bias-and-Precision>",
+        "attachments": [
+            {
+                "service_name": "Channel 9",
+                "title": "Colour schemes in data visualisation: Bias and Precision  (Channel 9)",
+                "title_link": "https:\/\/channel9.msdn.com\/Events\/useR-international-R-User-conference\/useR2016\/Colour-schemes-in-data-visualisation-Bias-and-Precision",
+                "text": "The technique of mapping continuous values to a sequence of colours, is often used to visualise quantitative data. The ability of different colour schemes to facilitate data interpretation has not bee",
+                "fallback": "Channel 9: Colour schemes in data visualisation: Bias and Precision  (Channel 9)",
+                "thumb_url": "http:\/\/video.ch9.ms\/ch9\/f4f1\/c77acd22-ed83-4f0b-8a47-90f9ca9bf4f1\/D1McCAWS17Cornwell_220.jpg",
+                "video_html_width": "512",
+                "video_html_height": "288",
+                "video_url": "https:\/\/sec.ch9.ms\/ch9\/f4f1\/c77acd22-ed83-4f0b-8a47-90f9ca9bf4f1\/D1McCAWS17Cornwell_mid.mp4",
+                "from_url": "https:\/\/channel9.msdn.com\/Events\/useR-international-R-User-conference\/useR2016\/Colour-schemes-in-data-visualisation-Bias-and-Precision",
+                "thumb_width": 220,
+                "thumb_height": 123,
+                "service_icon": "https:\/\/channel9.msdn.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468906802.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U064KUGRJ",
+                    "U066MTL5U",
+                    "U061A5N1G"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

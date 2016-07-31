@@ -1,0 +1,389 @@
+[
+    {
+        "user": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A5N1G|neerajt> has joined the channel",
+        "ts": "1462580282.000002"
+    },
+    {
+        "user": "U061A5N1G",
+        "purpose": "get feedback on something you\u2019re working on",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A5N1G|neerajt> set the channel purpose: get feedback on something you\u2019re working on",
+        "ts": "1462580283.000003"
+    },
+    {
+        "user": "U061A3E0G",
+        "inviter": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A3E0G|javier> has joined the channel",
+        "ts": "1462580283.000004"
+    },
+    {
+        "user": "U065ETZEC",
+        "inviter": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U065ETZEC|jkim> has joined the channel",
+        "ts": "1462580283.000005"
+    },
+    {
+        "user": "U064SRKPD",
+        "inviter": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064SRKPD|amandashih> has joined the channel",
+        "ts": "1462580283.000006"
+    },
+    {
+        "user": "U061A1R2R",
+        "inviter": "U061A5N1G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1462580283.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "hey guys, prototyping this psychosis risk calculator. it takes some environmental risk factors, along with baseline risk for any non-psychotic person with a relative with psychosis, and gives a probability for that person having a psychotic episode in the next few years. the numbers it computes are based on statistical models we\u2019ve built and are honing, but i wanted your input on a way to visualize the output in an accessible way.",
+        "ts": "1462585122.000008",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<https:\/\/kesh-lab.shinyapps.io\/Meister-calc\/>",
+        "ts": "1462585127.000009"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Awesome! I will check it out",
+        "ts": "1462585183.000010"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "What's a Sig fig?",
+        "ts": "1462585253.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "thanks! it\u2019s very basic. up to now all the work has gone into getting the math to work, not the look. :blush:",
+        "ts": "1462585258.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "oh, that won\u2019t be in the final version, that was just so we could play with showing different numbers of digits",
+        "ts": "1462585285.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i don\u2019t think anything more than 2 makes sense",
+        "ts": "1462585293.000014"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "anything more than that gives a false idea about how precise our model can get",
+        "ts": "1462585313.000015"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "woahhhhhhh",
+        "ts": "1462585320.000016"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Heh, gotcha, I was worried, I eat a significant amount of figs daily",
+        "ts": "1462585321.000017",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "haha! yeah if we find that to be a risk factor i will let you know",
+        "ts": "1462585363.000018"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "so far, i think figs are okay",
+        "ts": "1462585371.000019"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "can you link the paper to the shiny app?",
+        "ts": "1462585375.000020"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "yes we will link paper -&gt; app and app -&gt; paper",
+        "ts": "1462585395.000021"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "right now the paper is in progress",
+        "ts": "1462585407.000022"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "coool! very interesting",
+        "ts": "1462585417.000023"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i\u2019m hoping to begin doing these with other papers where appropriate",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1462585444.000000"
+        },
+        "ts": "1462585436.000024"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "cannabis is a risk factor for psychosis?",
+        "ts": "1462585454.000026"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "oh yes",
+        "ts": "1462585458.000027"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "one of the biggest",
+        "ts": "1462585462.000028"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "What's the \"season\"?",
+        "ts": "1462585492.000029"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "yeah it is",
+        "ts": "1462585498.000030"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Environmental Risk Score: 2.798\nProbability: 78.18 %",
+        "ts": "1462585608.000031"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "good question, that needs to be explained better - it\u2019s interesting, we have found that winter and spring births are overrepresented in the psychosis population",
+        "ts": "1462585610.000032"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "Wow",
+        "ts": "1462585623.000033"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "these models are all being tested and retested as we get more data, so some things may get dropped, others added",
+        "ts": "1462585644.000034"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "we\u2019re pushing to get access to some other large studies to validate with",
+        "ts": "1462585660.000035",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065ETZEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Wiiild",
+        "ts": "1462585660.000036"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "I am very looking forward to reading the paper! This is very interesting.",
+        "ts": "1462585748.000037"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "So roughly how big is the set the current models were built on?",
+        "ts": "1462585762.000038"
+    },
+    {
+        "user": "U066B6F9R",
+        "inviter": "U061A3E0G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066B6F9R|pavanb> has joined the channel",
+        "ts": "1462585836.000039"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "we did a bayesian model using a combination of epidemiological data and a sample of ~400 people at high risk for whom we had direct observations",
+        "ts": "1462586958.000040"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "~10% of those in our sample ended up converting to a psychotic disorder at sometime during follow-up",
+        "ts": "1462586998.000041"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "that corresponds pretty well the prevalence that\u2019s been observed in people with a first degree relative with psychosis",
+        "ts": "1462587100.000042"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "~1% in general population, ~10% in first-degree relatives, and ~50% in monozygotic twins",
+        "ts": "1462587164.000043"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Wild! One thought is that it's useful for exploring other conditions. instead of a percent probability, could you say 1 out of 10 people with these is likely to have an episode, for example?",
+        "ts": "1462587262.000044"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "To contextualize the percentage into something more palatable",
+        "ts": "1462587286.000045"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "hmmm so have 10 little grey people, and color them in depending on the % risk?",
+        "ts": "1462587318.000046"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "or did you mean spell it out in a sentence",
+        "ts": "1462587326.000047"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Either way, something to make the percentage more real. It's kinda hard to map what that number might mean in terms of an individual life, but that social angle might make it easier to imagine",
+        "ts": "1462587451.000048"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Just a thought, not totally sure what 1.867 of a person might looks like, but the general idea",
+        "ts": "1462587521.000049"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "sounds good, i think a sentence will be easy to do",
+        "ts": "1462587866.000050"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "for now",
+        "ts": "1462587870.000051"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "keep in mind these models need work. i\u2019m just trying to get the interface ready",
+        "ts": "1462587910.000052"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "i\u2019d also like a way to show the uncertainty somehow",
+        "ts": "1462587955.000053"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "kind of like error bars",
+        "ts": "1462587969.000054"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "No worries! Wouldn't share anything on this channel to public, safe place :)",
+        "ts": "1462587998.000055",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065ETZEC",
+                    "U061A5N1G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "whiteboarding some more ideas. thanks guys!",
+        "ts": "1462588507.000056",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<http:\/\/www.bbc.com\/culture\/story\/20150917-what-maps-reveal-about-ourselves>",
+        "attachments": [
+            {
+                "title": "What maps reveal about ourselves",
+                "title_link": "http:\/\/www.bbc.com\/culture\/story\/20150917-what-maps-reveal-about-ourselves",
+                "text": "Cartography has produced beautiful works of art \u2013 but are they as objective as we think? Alastair Sooke explores the unreliable history of map-making.",
+                "fallback": "What maps reveal about ourselves",
+                "image_url": "http:\/\/ichef.bbci.co.uk\/wwfeatures\/624_351\/images\/live\/p0\/32\/qq\/p032qqh3.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "http:\/\/www.bbc.com\/culture\/story\/20150917-what-maps-reveal-about-ourselves",
+                "image_bytes": 44484,
+                "id": 1
+            }
+        ],
+        "ts": "1447771648.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "a nice survey of maps! ",
+        "ts": "1447782543.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "I met a team from the Ordnance Survey at this conference in NY a few weeks back.  Some fascinating work they do.  ",
+        "ts": "1447782583.000005"
+    }
+]

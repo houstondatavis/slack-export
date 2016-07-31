@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433860398.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place for datasets you'd like to visualize",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place for datasets you'd like to visualize",
+        "ts": "1433860402.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/data.ohouston.org\/dataset>",
+        "ts": "1433860405.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "the Houston Data Portal, the source for the employee-manager data from the City of Houston I showed last night",
+        "ts": "1433860426.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/data.ohouston.org\/dataset\/city-of-houston-employee-supervisor-roster>",
+        "ts": "1433860434.000006"
+    },
+    {
+        "user": "U064KUGRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064KUGRJ|timabram> has joined the channel",
+        "ts": "1433864706.943120"
+    },
+    {
+        "user": "U064QAV16",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064QAV16|pedrosan> has joined the channel",
+        "ts": "1433869302.000002"
+    },
+    {
+        "user": "U064SRKPD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064SRKPD|amandashih> has joined the channel",
+        "ts": "1433871947.000003"
+    },
+    {
+        "user": "U065ETZEC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U065ETZEC|jkim> has joined the channel",
+        "ts": "1433905933.000004"
+    }
+]

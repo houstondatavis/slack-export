@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": ":guitar:",
+        "ts": "1465862120.000002"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/231227184\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Houston Data Visualization Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/231227184\/",
+                "text": "we'll work in small teams to visualize a new dataset in three hours. we'll announce the actual dataset at the beginning of the event. this jam is tool agnostic, so you can choose to use what you're al",
+                "fallback": "Meetup: Houston Data Visualization Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/2\/b\/a\/e\/highres_298991182.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Houston-Data-Visualization-Meetup\/events\/231227184\/",
+                "thumb_width": 871,
+                "thumb_height": 832,
+                "service_icon": "http:\/\/img2.meetupstatic.com\/img\/44824024200340517185\/m\/ios\/Icon-60pt@2x.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465862161.000003"
+    },
+    {
+        "user": "U1GGRN36X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1GGRN36X|dmajeti> has joined the channel",
+        "ts": "1465865788.000005"
+    }
+]

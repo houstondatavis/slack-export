@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<@U064SRKPD> is starting her talk about D3",
+        "ts": "1447116665.000002",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U061A1R2R",
+                    "U065ETZEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "slide deck here: <http:\/\/pandafulmanda.github.io\/d3-intro-slides\/#\/>",
+        "ts": "1447116819.000003"
+    }
+]

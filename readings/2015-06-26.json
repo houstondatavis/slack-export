@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Great article on R vs Python in terms of rapid data visualization. \n<http:\/\/technology.stitchfix.com\/blog\/2015\/03\/17\/grammar-of-data-science\/>",
+        "attachments": [
+            {
+                "text": "Stitch Fix is a full-stack startup creating unique solutions in data-driven merchandising, massively scaled personal styling, and complex logistics.",
+                "fallback": "Stitch Fix is a full-stack startup creating unique solutions in data-driven merchandising, massively scaled personal styling, and complex logistics.",
+                "from_url": "http:\/\/technology.stitchfix.com\/blog\/2015\/03\/17\/grammar-of-data-science\/",
+                "id": 1
+            }
+        ],
+        "ts": "1435319743.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U066MTL5U> reading this now",
+        "ts": "1435329092.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06SMUD6G\/screenshot_2015-06-26-09-30-02.png|Slack for Android Upload>",
+        "file": {
+            "id": "F06SMUD6G",
+            "created": 1435329111,
+            "timestamp": 1435329111,
+            "name": "Screenshot_2015-06-26-09-30-02.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 305754,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06SMUD6G\/screenshot_2015-06-26-09-30-02.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06SMUD6G\/download\/screenshot_2015-06-26-09-30-02.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 314,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 418,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 627,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 837,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SMUD6G-4724c65738\/screenshot_2015-06-26-09-30-02_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 892,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1200,
+            "original_h": 1377,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06SMUD6G\/screenshot_2015-06-26-09-30-02.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06SMUD6G-99361ee413",
+            "channels": [
+                "C065DT41X"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1435329118.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06SN1MQB\/screenshot_2015-06-26-09-30-44.png|Slack for Android Upload>",
+        "file": {
+            "id": "F06SN1MQB",
+            "created": 1435329120,
+            "timestamp": 1435329120,
+            "name": "Screenshot_2015-06-26-09-30-44.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 263228,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06SN1MQB\/screenshot_2015-06-26-09-30-44.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F06SN1MQB\/download\/screenshot_2015-06-26-09-30-44.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 353,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 471,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 706,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 942,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F06SN1MQB-37d5998bb7\/screenshot_2015-06-26-09-30-44_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 1004,
+            "image_exif_rotation": 1,
+            "original_w": 1200,
+            "original_h": 1177,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F06SN1MQB\/screenshot_2015-06-26-09-30-44.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F06SN1MQB-615eee53cc",
+            "channels": [
+                "C065DT41X"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1435329127.000006"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U061A1R2R>: when I saw those simple lines and the result, my jaw hit the floor.",
+        "ts": "1435329204.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Ggally is a beast of a tool. Problem that I've experienced with it is it keeps breaking with new versions of R",
+        "ts": "1435329292.000008"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "That's too bad! I was going to start learning this weekend. Do you have a recommended version of R that seems stable with Ggally?",
+        "ts": "1435329374.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": " It's stable for me with 3.1.0",
+        "ts": "1435330701.000010"
+    }
+]

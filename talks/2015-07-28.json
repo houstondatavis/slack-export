@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> shared a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08A5MD1N\/visualizingstatisticalmixeffectsandsimpsonsparadoxinfovis|Visualizing Statistical Mix Effects and Simpson's Paradox: InfoVis>",
+        "file": {
+            "id": "F08A5MD1N",
+            "created": 1438149846,
+            "timestamp": 1438149846,
+            "name": "VisualizingStatisticalMixEffectsandSimpsonsParadoxInfoVis",
+            "title": "Visualizing Statistical Mix Effects and Simpson's Paradox: InfoVis",
+            "mimetype": "application\/vnd.google-apps.presentation",
+            "filetype": "gpres",
+            "pretty_type": "GDocs Presentation",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 11880,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/presentation\/d\/1glF_JcGVRIahzfrYyw9OKDDB9eWeUxpfD2vCDJTkTqo\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gpres_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/272a\/img\/files\/gpres_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08A5MD1N\/visualizingstatisticalmixeffectsandsimpsonsparadoxinfovis",
+            "channels": [
+                "C064MDSSC"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1438149847.000003"
+    }
+]

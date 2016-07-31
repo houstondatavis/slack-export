@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hmmm how many co authors did you have? ",
+        "ts": "1468840610.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I like the look of ShareLaTeX but it's gonna be hard to convince my colleagues in the psychiatry department to start using LaTeX :confused: ",
+        "ts": "1468840693.000006"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "Two coauthors, which was pretty easy to manage. All of the authors were comfortable with writing LaTeX, though.",
+        "ts": "1468855442.000007"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "I eased into LaTeX with the LyX editor (<https:\/\/www.lyx.org\/>), which takes a more structured and friendly approach to LaTeX editing.",
+        "ts": "1468855500.000008"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "But most non-LaTeX academics I've spoken to aren't interested in learning it",
+        "ts": "1468855537.000009"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": ":slightly_frowning_face:",
+        "ts": "1468856052.000010"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "damnnn <@U17KXSB7W> shareLaTeX is uber cool. so this is like google doc for latex, right?",
+        "ts": "1468864976.000011"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "yep, multiple people can edit at once, and there's a \"show revisions\" tab for tracking changes",
+        "ts": "1468866863.000012"
+    },
+    {
+        "type": "message",
+        "user": "U17KXSB7W",
+        "text": "it also handles compilation for you, which is pretty nice",
+        "ts": "1468866889.000013"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "yeah i\u2019m using it for a project right now - it can be linked to a github repository",
+        "ts": "1468898293.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "so that\u2019s pretty cool too",
+        "ts": "1468898307.000003"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "<@U061A5N1G>: shareLaTeX?",
+        "ts": "1468898913.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "yeah",
+        "ts": "1468898934.000005"
+    },
+    {
+        "type": "message",
+        "user": "U065ETZEC",
+        "text": "that\u2019s cool",
+        "ts": "1468898985.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I don\u2019t know if it\u2019s just me but it seems like it\u2019d be a lot easier to convince non-techy collaborators to give Authorea a try compared to something like shareLaTeX.",
+        "ts": "1468899157.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I can't articulate yet why I like shareLaTeX much better, but I just do. So, it\u2019s kind of a dilemma.",
+        "ts": "1468899272.000008"
+    }
+]

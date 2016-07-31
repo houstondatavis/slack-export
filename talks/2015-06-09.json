@@ -1,0 +1,236 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433866202.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place for datavis videos &amp; podcasts.  linear recorded spoken-word audiovisual content, if you will.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place for datavis videos &amp; podcasts.  linear recorded spoken-word audiovisual content, if you will.",
+        "ts": "1433866203.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064MED17\/screen_shot_2015-06-09_at_11.10.32.png|data stories podcast> and commented: <http:\/\/datastori.es\/>",
+        "file": {
+            "id": "F064MED17",
+            "created": 1433866265,
+            "timestamp": 1433866265,
+            "name": "Screen Shot 2015-06-09 at 11.10.32.png",
+            "title": "data stories podcast",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 292773,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064MED17\/screen_shot_2015-06-09_at_11.10.32.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064MED17\/download\/screen_shot_2015-06-09_at_11.10.32.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 229,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 305,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 458,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 610,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MED17-3c58e96ecd\/screen_shot_2015-06-09_at_11.10.32_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 651,
+            "image_exif_rotation": 1,
+            "original_w": 1263,
+            "original_h": 803,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064MED17\/screen_shot_2015-06-09_at_11.10.32.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064MED17-9e52c390f6",
+            "channels": [
+                "C064MDSSC"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc064MGV96",
+                "created": 1433866273,
+                "timestamp": 1433866273,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/datastori.es\/>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433866273.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064MJNVB\/screen_shot_2015-06-09_at_11.11.57.png|partially derivative podcast> and commented: <http:\/\/www.partiallyderivative.com\/>",
+        "file": {
+            "id": "F064MJNVB",
+            "created": 1433866355,
+            "timestamp": 1433866355,
+            "name": "Screen Shot 2015-06-09 at 11.11.57.png",
+            "title": "partially derivative podcast",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 221562,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064MJNVB\/screen_shot_2015-06-09_at_11.11.57.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064MJNVB\/download\/screen_shot_2015-06-09_at_11.11.57.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 151,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 201,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 302,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 402,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MJNVB-a948b56006\/screen_shot_2015-06-09_at_11.11.57_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 429,
+            "image_exif_rotation": 1,
+            "original_w": 1059,
+            "original_h": 444,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064MJNVB\/screen_shot_2015-06-09_at_11.11.57.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064MJNVB-712a0c2a7f",
+            "channels": [
+                "C064MDSSC"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc064MH22V",
+                "created": 1433866362,
+                "timestamp": 1433866362,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/www.partiallyderivative.com\/>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433866361.000007"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "collaborative community notes from the OpenVis Conf 2015",
+        "ts": "1433890844.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> shared a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0657U1KJ\/openvisconf2015communitynotes|OpenVis Conf 2015 Community Notes>",
+        "file": {
+            "id": "F0657U1KJ",
+            "created": 1433890848,
+            "timestamp": 1433890848,
+            "name": "OpenVisConf2015CommunityNotes",
+            "title": "OpenVis Conf 2015 Community Notes",
+            "mimetype": "application\/vnd.google-apps.document",
+            "filetype": "gdoc",
+            "pretty_type": "GDocs Document",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 26550,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/document\/d\/13t3kKdF21KKj89gKDEOzOimiwVpWuNiyNPrry21Gc7o\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gdraw_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/272a\/img\/files\/gdoc_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0657U1KJ\/openvisconf2015communitynotes",
+            "channels": [
+                "C064MDSSC"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433890848.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "video <http:\/\/openvisconf.com\/>",
+        "attachments": [
+            {
+                "title": "OpenVisConf 2015",
+                "title_link": "http:\/\/openvisconf.com\/",
+                "text": "A two-day conference about data visualization on the Open Web.",
+                "fallback": "OpenVisConf 2015",
+                "from_url": "http:\/\/openvisconf.com\/",
+                "id": 1
+            }
+        ],
+        "ts": "1433890896.000006"
+    }
+]

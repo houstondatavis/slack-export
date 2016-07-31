@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A5N1G|neerajt> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/neerajt\/F0D4WS3J4\/setx1_1280.jpg|HTX_Doppler_Oct24.jpg>",
+        "file": {
+            "id": "F0D4WS3J4",
+            "created": 1445723910,
+            "timestamp": 1445723910,
+            "name": "SETX1_1280.jpg",
+            "title": "HTX_Doppler_Oct24.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A5N1G",
+            "editable": false,
+            "size": 202112,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0D4WS3J4\/setx1_1280.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F0D4WS3J4\/download\/setx1_1280.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_64.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_80.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_360.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_480.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_160.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_720.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_960.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F0D4WS3J4-29999a7e0b\/setx1_1280_1024.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 1280,
+            "original_h": 720,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/neerajt\/F0D4WS3J4\/setx1_1280.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F0D4WS3J4-8f186bca75",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A5N1G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A5N1G|neerajt>",
+        "bot_id": null,
+        "ts": "1445723912.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Such rain",
+        "ts": "1445723915.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Side note: No legend for colors?  lame :confused:",
+        "ts": "1445723962.000004"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<@U061A5N1G> well since water is blue, clearly the blue sections have the heavier rainfall. ",
+        "ts": "1445724156.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I know, right! Also, the green outline for flooding is obfuscated by the overlay wonder what could be done about that.",
+        "ts": "1445724325.000006"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "rainbow :rainbow: color scales :-\/",
+        "ts": "1445733779.000002"
+    }
+]

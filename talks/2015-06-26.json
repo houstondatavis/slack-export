@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/datastori.es\/ds-56-amanda-cox-nyt\/>",
+        "attachments": [
+            {
+                "service_name": "Data Stories",
+                "title": "Data Stories #56: Amanda Cox on Working With R, NYT Projects, Favorite Data",
+                "title_link": "http:\/\/datastori.es\/ds-56-amanda-cox-nyt\/",
+                "text": "\u201cI'd give two of my left fingers\u00a0for this\u00a0data\u201d - Amanda Cox\u00a0on the show :) We have the great Amanda Cox from NYT on the show this time! Amanda",
+                "fallback": "Data Stories: Data Stories #56: Amanda Cox on Working With R, NYT Projects, Favorite Data",
+                "from_url": "http:\/\/datastori.es\/ds-56-amanda-cox-nyt\/",
+                "id": 1
+            }
+        ],
+        "ts": "1435330110.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> <@U066MTL5U> the NYT uses R... fun stories ^^",
+        "ts": "1435330158.000004"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Oh the Data Stories podcast! I'll move it up in my queue",
+        "ts": "1435330273.000005"
+    }
+]

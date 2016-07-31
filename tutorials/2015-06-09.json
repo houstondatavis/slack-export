@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1433860244.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "old_name": "tuts",
+        "name": "tutorials",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U061A1R2R|micahstubbs> has renamed the channel from \"tuts\" to \"tutorials\"",
+        "ts": "1433860261.000003"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place for posts that teach you, step by step, how to build a certain interactive group or use a certain tool.  writing your own tutorial?  talk about it here.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place for posts that teach you, step by step, how to build a certain interactive group or use a certain tool.  writing your own tutorial?  talk about it here.",
+        "ts": "1433860326.000004"
+    },
+    {
+        "user": "U064KUGRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064KUGRJ|timabram> has joined the channel",
+        "ts": "1433864707.943129"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064MMV18\/screen_shot_2015-06-09_at_11.13.14.png|Intro to WebGL with Three.js> and commented: <http:\/\/davidscottlyons.com\/threejs\/presentations\/frontporch14\/#slide-0>",
+        "file": {
+            "id": "F064MMV18",
+            "created": 1433866429,
+            "timestamp": 1433866429,
+            "name": "Screen Shot 2015-06-09 at 11.13.14.png",
+            "title": "Intro to WebGL with Three.js",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 38891,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064MMV18\/screen_shot_2015-06-09_at_11.13.14.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F064MMV18\/download\/screen_shot_2015-06-09_at_11.13.14.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MMV18-7024df0afa\/screen_shot_2015-06-09_at_11.13.14_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MMV18-7024df0afa\/screen_shot_2015-06-09_at_11.13.14_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MMV18-7024df0afa\/screen_shot_2015-06-09_at_11.13.14_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 209,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MMV18-7024df0afa\/screen_shot_2015-06-09_at_11.13.14_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 279,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MMV18-7024df0afa\/screen_shot_2015-06-09_at_11.13.14_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F064MMV18-7024df0afa\/screen_shot_2015-06-09_at_11.13.14_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 418,
+            "image_exif_rotation": 1,
+            "original_w": 782,
+            "original_h": 454,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F064MMV18\/screen_shot_2015-06-09_at_11.13.14.png",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F064MMV18-536ae06a65",
+            "channels": [
+                "C064FP6US"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc064MP5DH",
+                "created": 1433866432,
+                "timestamp": 1433866432,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "<http:\/\/davidscottlyons.com\/threejs\/presentations\/frontporch14\/#slide-0>",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433866432.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place for posts that teach you, step by step, how to build a certain interactive group or use a certain tool.  writing your own tutorial?  talk about it here.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place for posts that teach you, step by step, how to build a certain interactive group or use a certain tool.  writing your own tutorial?  talk about it here.",
+        "ts": "1433866537.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/github.com\/davidlyons\/frontporch>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "davidlyons\/frontporch",
+                "title_link": "https:\/\/github.com\/davidlyons\/frontporch",
+                "text": "frontporch - Intro to WebGL with Three.js presentation",
+                "fallback": "GitHub: davidlyons\/frontporch",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/1305201?v=3&s=400",
+                "from_url": "https:\/\/github.com\/davidlyons\/frontporch",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1433866558.000004"
+    },
+    {
+        "user": "U064QAV16",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064QAV16|pedrosan> has joined the channel",
+        "ts": "1433869302.000006"
+    },
+    {
+        "user": "U064SRKPD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U064SRKPD|amandashih> has joined the channel",
+        "ts": "1433871947.000007"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> shared a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0656FKS7\/d3.meetup.oaklandtutorial|d3.meetups tutorial>",
+        "file": {
+            "id": "F0656FKS7",
+            "created": 1433888315,
+            "timestamp": 1433888315,
+            "name": "d3.meetup.oaklandtutorial",
+            "title": "d3.meetups tutorial",
+            "mimetype": "application\/vnd.google-apps.document",
+            "filetype": "gdoc",
+            "pretty_type": "GDocs Document",
+            "user": "U061A1R2R",
+            "editable": false,
+            "size": 2187,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/document\/d\/1VgSb7POMD54l_8ehcXVDrW_gOovWmUotet1JC5ImCWo\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gdraw_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/272a\/img\/files\/gdoc_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F0656FKS7\/d3.meetup.oaklandtutorial",
+            "channels": [
+                "C064FP6US"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1433888316.000009"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "has a nice section on Understanding Force Layouts",
+        "ts": "1433888367.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "from the comments of this meetup <http:\/\/www.meetup.com\/Bay-Area-d3-User-Group\/events\/222967528\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Bay Area d3 User Group",
+                "title_link": "http:\/\/www.meetup.com\/Bay-Area-d3-User-Group\/events\/222967528\/",
+                "text": "Happy June! Last month, John Guerra gave us an interactive introduction to the basic concepts in d3. This month, John returns to help us understand more about force layouts and using them effectively.",
+                "fallback": "Meetup: Bay Area d3 User Group",
+                "thumb_url": "http:\/\/photos4.meetupstatic.com\/photos\/event\/5\/0\/8\/e\/highres_170660622.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Bay-Area-d3-User-Group\/events\/222967528\/",
+                "thumb_width": 177,
+                "thumb_height": 50,
+                "id": 1
+            }
+        ],
+        "ts": "1433888386.000012"
+    },
+    {
+        "user": "U065ETZEC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U065ETZEC|jkim> has joined the channel",
+        "ts": "1433905933.000014"
+    }
+]

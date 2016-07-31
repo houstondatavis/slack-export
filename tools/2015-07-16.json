@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/blog.jupyter.org\/2015\/07\/07\/jupyter-funding-2015\/>",
+        "attachments": [
+            {
+                "service_name": "Project Jupyter",
+                "title": "New funding for Jupyter",
+                "title_link": "http:\/\/blog.jupyter.org\/2015\/07\/07\/jupyter-funding-2015\/",
+                "text": "We are pleased to announce that the Jupyter\/IPython project has received $6M in funding from three organisations: The Leona M. and Harry B. Helmsley Charitable Trust The Gordon and Betty Moore Foundation The Alfred P. Sloan Foundation The grant,...",
+                "fallback": "Project Jupyter: New funding for Jupyter",
+                "image_url": "http:\/\/blog.jupyter.org\/content\/images\/2015\/07\/HSM.png",
+                "ts": 1436312060,
+                "from_url": "http:\/\/blog.jupyter.org\/2015\/07\/07\/jupyter-funding-2015\/",
+                "image_width": 871,
+                "image_height": 250,
+                "image_bytes": 316521,
+                "id": 1
+            }
+        ],
+        "ts": "1437116032.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "big news recently <@U061A5N1G> ",
+        "ts": "1437116054.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "fascinating to see open source projects attract this level of funding ",
+        "ts": "1437116072.000005"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Yeah it is interesting, will be curious to see where they take it next. It's really a fantastic project, good news! ",
+        "ts": "1437116273.000006"
+    }
+]

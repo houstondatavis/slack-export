@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Hey everyone! Sorry for the radio silence! We've been hard at work on the launch of <http:\/\/visualized.com\/>",
+        "attachments": [
+            {
+                "title": "Visualized 2015 - October 8th & 9th",
+                "title_link": "http:\/\/visualized.com\/",
+                "text": "We're excited to announce the next Visualized main event. Once again, we\u2019ll be bringing together the most inspiring and creative information designers and data visualizers from across the globe to share meaningful stories and explore the future of information communication.",
+                "fallback": "Visualized 2015 - October 8th &amp; 9th",
+                "from_url": "http:\/\/visualized.com\/",
+                "id": 1
+            }
+        ],
+        "ts": "1436978529.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "you guys should do academic discounts :wink:",
+        "ts": "1436979045.000004"
+    },
+    {
+        "user": "U07N1U6UB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U07N1U6UB|whitedog> has joined the channel",
+        "ts": "1437016029.000002"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hey y\u2019all, here\u2019s the listing of free &amp; open source tools for data visualization we went through today <https:\/\/opensource.com\/life\/15\/6\/eight-open-source-data-visualization-tools>",
+        "attachments": [
+            {
+                "service_name": "Opensource.com",
+                "title": "8 excellent open source data visualization tools",
+                "title_link": "https:\/\/opensource.com\/life\/15\/6\/eight-open-source-data-visualization-tools",
+                "text": "Data visualization is the mechanism of taking tabular or spatial data and conveying it in a human-friendly and visual way. In this article we look at eight open source tools that can help you to create useful and informative graphs.",
+                "fallback": "Opensource.com: 8 excellent open source data visualization tools",
+                "thumb_url": "https:\/\/opensource.com\/sites\/default\/files\/images\/business\/LIFE_wavegraph.png",
+                "from_url": "https:\/\/opensource.com\/life\/15\/6\/eight-open-source-data-visualization-tools",
+                "thumb_width": 520,
+                "thumb_height": 292,
+                "id": 1
+            }
+        ],
+        "ts": "1458014344.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Hope some of you will try these out and get back to us about your experiences",
+        "ts": "1458014364.000004"
+    }
+]

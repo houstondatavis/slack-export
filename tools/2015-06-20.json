@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G>: have you gotten R to work in the Jupyter notebook on a mac?",
+        "ts": "1434854599.000051"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "it's supposed to be possible",
+        "ts": "1434854606.000052"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/www.datascienceriot.com\/?p=589>",
+        "attachments": [
+            {
+                "text": "IPython is a great tool for developers, particularly for R programmers who are accustomed to the luxury of running blocks of code during development. The",
+                "fallback": "IPython is a great tool for developers, particularly for R programmers who are accustomed to the luxury of running blocks of code during development. The",
+                "from_url": "http:\/\/www.datascienceriot.com\/?p=589",
+                "id": 1
+            }
+        ],
+        "ts": "1434854650.000053"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "or perhaps this",
+        "ts": "1434854686.000055"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/www.michaelpacer.com\/maths\/r-kernel-for-ipython-notebook>",
+        "ts": "1434854687.000056"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "...",
+        "ts": "1434854688.000057"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "tried myself this morning, but got stuck on a dependency",
+        "ts": "1434854708.000058"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "do you have zeroMQ installed?",
+        "ts": "1434862940.000059"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "was that the dependency you got stuck on?",
+        "ts": "1434862957.000060"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "it's a little bit of a pain in the butt at the moment. hopefully it becomes more convenient to install and change kernels soon",
+        "ts": "1434862992.000061"
+    }
+]

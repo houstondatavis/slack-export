@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Hey! lots of new names, welcome everyone!",
+        "ts": "1467162903.000032"
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "I'm in Mountain View this week with <@U061A1R2R> and we are about to have a datadive with the local D3 community at the <http:\/\/h2o.ai|h2o.ai> facilities. Will bring back lots of ideas!",
+        "ts": "1467162951.000033",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U061A5N1G",
+                    "U061A1R2R",
+                    "U064KUGRJ",
+                    "U1GGRN36X"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "Also happy D3.js v4.0 day, hope you are hacking a good time",
+        "ts": "1467162965.000034"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "user": "U0CRUMJ2D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CRUMJ2D|tra38> has joined the channel",
+        "ts": "1445364450.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0CRUMJ2D",
+        "text": "Data Jam: I am planning on uploading the code for the data jam but I am having difficulty with the sentiment analysis. It appears to be taking a very, very long time to perform (since it has to analyze over 10,000 rows) so I will have to run the query later. Once I get the query resolved, I will likely be able to upload the code and its results.",
+        "edited": {
+            "user": "U0CRUMJ2D",
+            "ts": "1445364605.000000"
+        },
+        "ts": "1445364519.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U0CRUMJ2D> cool!  what sort of sentiment analysis are you running?  there might be ways to optimize it :-)",
+        "ts": "1445371971.000005"
+    }
+]

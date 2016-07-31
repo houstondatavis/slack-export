@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "Has anyone else heard of this? Google Data Studio. \n\"Beautiful Data Stories Start Here\"\n<https:\/\/www.google.com\/analytics\/data-studio\/>",
+        "attachments": [
+            {
+                "title": "       Data Studio (beta) | Data Visualization &amp; Reporting | Try It For Free \u2013 Google     ",
+                "title_link": "https:\/\/www.google.com\/analytics\/data-studio\/",
+                "text": "Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable.",
+                "fallback": "       Data Studio (beta) | Data Visualization &amp; Reporting | Try It For Free \u2013 Google     ",
+                "from_url": "https:\/\/www.google.com\/analytics\/data-studio\/",
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469536208.000039"
+    }
+]

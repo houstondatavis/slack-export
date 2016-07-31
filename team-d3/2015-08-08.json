@@ -1,0 +1,426 @@
+[
+    {
+        "user": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U061A1R2R|micahstubbs> has joined the channel",
+        "ts": "1439043847.000002"
+    },
+    {
+        "user": "U061A1R2R",
+        "purpose": "a place for talking about d3 projects at the data jam",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U061A1R2R|micahstubbs> set the channel purpose: a place for talking about d3 projects at the data jam",
+        "ts": "1439043847.000003"
+    },
+    {
+        "user": "U066MTL5U",
+        "inviter": "U061A1R2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066MTL5U|colinnlsn> has joined the channel",
+        "ts": "1439044291.000004"
+    },
+    {
+        "user": "U066H4AKX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U066H4AKX|gregsmith> has joined the channel",
+        "ts": "1439044413.000005"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "howdy",
+        "ts": "1439044454.000006"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "woo hoo",
+        "ts": "1439044459.000007"
+    },
+    {
+        "user": "U08QUEY76",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUEY76|ekabalo> has joined the channel",
+        "ts": "1439044636.000008"
+    },
+    {
+        "user": "U08QUNR6J",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUNR6J|julinas> has joined the channel",
+        "ts": "1439044647.000009"
+    },
+    {
+        "user": "U08QUGTA4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QUGTA4|mohanrajendran> has joined the channel",
+        "ts": "1439044742.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QUN603\/meetupdata-aug-08-2015.csv|meetupdata-Aug-08-2015.csv> and commented: the dataset!",
+        "file": {
+            "id": "F08QUN603",
+            "created": 1439044860,
+            "timestamp": 1439044860,
+            "name": "meetupdata-Aug-08-2015.csv",
+            "title": "meetupdata-Aug-08-2015.csv",
+            "mimetype": "text\/csv",
+            "filetype": "csv",
+            "pretty_type": "CSV",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 220827,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QUN603\/meetupdata-aug-08-2015.csv?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QUN603\/download\/meetupdata-aug-08-2015.csv?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QUN603\/meetupdata-aug-08-2015.csv",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QUN603-09ed7e1b6b",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QUN603\/meetupdata-aug-08-2015.csv\/edit",
+            "preview": ",status,city,state,country,lat,lon,visited,joined,topics\n0,active,Houston,TX,us,29.72,-95.22,12\/15\/14,04\/10\/14,\"Fitness, Buddhist, Meditation, Dining Out, Spirituality, Museum, Computer programming, Programming Languages, Functional Programming, Big Data, Web Development, English as a Second Language, English Language, Young Professional Singles, Data Mining, Data Analytics, Data Visualization, New Technology, Singles 30's-50's, Single Professionals, Web Design, Technology, Intellectual Discussion, Fun\/Intellectual Discussions, Philosophy Discussions, Philosophy, Education, Reading, Learning, Singles Over 40, Singles 40's-60's, Singles Activities, Fun Activities for Singles, Singles Social Activities, Singles events, Singles, Critical Thinking, Self-Improvement, Ethics, Consciousness, Philosophy of Mind, Self Exploration, Philosophy-Ethics-Politics-and-Religion., Book Club\"\n1,active,Boston,MA,us,42.35,-71.07,03\/16\/15,03\/16\/15,\"Yorkshire Terrier, Scala, Functional Programming, Hiking, Hong Kong Culture, Entrep...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>,status,city,state,country,lat,lon,visited,joined,topics<\/pre><\/div>\n<div><pre>0,active,Houston,TX,us,29.72,-95.22,12\/15\/14,04\/10\/14,&quot;Fitness, Buddhist, Meditation, Dining Out, Spirituality, Museum, Computer programming, Programming Languages, Functional Programming, Big Data, Web Development, English as a Second Language, English Language, Young Professional Singles, Data Mining, Data Analytics, Data Visualization, New Technology, Singles 30's-50's, Single Professionals, Web Design, Technology, Intellectual Discussion, Fun\/Intellectual Discussions, Philosophy Discussions, Philosophy, Education, Reading, Learning, Singles Over 40, Singles 40's-60's, Singles Activities, Fun Activities for Singles, Singles Social Activities, Singles events, Singles, Critical Thinking, Self-Improvement, Ethics, Consciousness, Philosophy of Mind, Self Exploration, Philosophy-Ethics-Politics-and-Religion., Book Club&quot;<\/pre><\/div>\n<div><pre>1,active,Boston,MA,us,42.35,-71.07,03\/16\/15,03\/16\/15,&quot;Yorkshire Terrier, Scala, Functional Programming, Hiking, Hong Kong Culture, Entrep...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 597,
+            "lines_more": 594,
+            "channels": [
+                "C08QUCF3R"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc08QUQVQW",
+                "created": 1439044860,
+                "timestamp": 1439044860,
+                "user": "U061A1R2R",
+                "is_intro": true,
+                "comment": "the dataset!",
+                "channel": ""
+            }
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1439044861.000011"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/christopheviau.com\/d3list\/gallery.html>",
+        "ts": "1439045334.000012"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "many examples",
+        "ts": "1439045338.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U066MTL5U|colinnlsn> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/colinnlsn\/F08QV630X\/stopwords.csv|stopwords.csv> and commented: List of stopwords gotten from <http:\/\/www.ranks.nl\/stopwords>",
+        "file": {
+            "id": "F08QV630X",
+            "created": 1439047007,
+            "timestamp": 1439047007,
+            "name": "stopwords.csv",
+            "title": "stopwords.csv",
+            "mimetype": "text\/csv",
+            "filetype": "csv",
+            "pretty_type": "CSV",
+            "user": "U066MTL5U",
+            "editable": true,
+            "size": 4177,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QV630X\/stopwords.csv?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QV630X\/download\/stopwords.csv?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/colinnlsn\/F08QV630X\/stopwords.csv",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QV630X-807a12cbd0",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/colinnlsn\/F08QV630X\/stopwords.csv\/edit",
+            "preview": "a,able,about,above,abst,accordance,according,accordingly,across,act,actually,added,adj,affected,affecting,affects,after,afterwards,again,against,ah,all,almost,alone,along,already,also,although,always,am,among,amongst,an,and,announce,another,any,anybody,anyhow,anymore,anyone,anything,anyway,anyways,anywhere,apparently,approximately,are,aren,arent,arise,around,as,aside,ask,asking,at,auth,available,away,awfully,b,back,be,became,because,become,becomes,becoming,been,before,beforehand,begin,beginning,beginnings,begins,behind,being,believe,below,beside,besides,between,beyond,biol,both,brief,briefly,but,by,c,ca,came,can,cannot,can't,cause,causes,certain,certainly,co,com,come,comes,contain,containing,contains,could,couldnt,d,date,did,didn't,different,do,does,doesn't,doing,done,don't,down,downwards,due,during,e,each,ed,edu,effect,eg,eight,eighty,either,else,elsewhere,end,ending,enough,especially,et,et-al,etc,even,ever,every,everybody,everyone,everything,everywhere,ex,except,f,far,few,ff,fifth,first,five,fix,followed,fo...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>a,able,about,above,abst,accordance,according,accordingly,across,act,actually,added,adj,affected,affecting,affects,after,afterwards,again,against,ah,all,almost,alone,along,already,also,although,always,am,among,amongst,an,and,announce,another,any,anybody,anyhow,anymore,anyone,anything,anyway,anyways,anywhere,apparently,approximately,are,aren,arent,arise,around,as,aside,ask,asking,at,auth,available,away,awfully,b,back,be,became,because,become,becomes,becoming,been,before,beforehand,begin,beginning,beginnings,begins,behind,being,believe,below,beside,besides,between,beyond,biol,both,brief,briefly,but,by,c,ca,came,can,cannot,can't,cause,causes,certain,certainly,co,com,come,comes,contain,containing,contains,could,couldnt,d,date,did,didn't,different,do,does,doesn't,doing,done,don't,down,downwards,due,during,e,each,ed,edu,effect,eg,eight,eighty,either,else,elsewhere,end,ending,enough,especially,et,et-al,etc,even,ever,every,everybody,everyone,everything,everywhere,ex,except,f,far,few,ff,fifth,first,five,fix,followed,fo...<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 4,
+            "lines_more": 3,
+            "channels": [
+                "C08QUCF3R"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc08QVHE0Z",
+                "created": 1439047007,
+                "timestamp": 1439047007,
+                "user": "U066MTL5U",
+                "is_intro": true,
+                "comment": "List of stopwords gotten from <http:\/\/www.ranks.nl\/stopwords>",
+                "channel": ""
+            }
+        },
+        "user": "U066MTL5U",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U066MTL5U|colinnlsn>",
+        "bot_id": null,
+        "ts": "1439047007.000014"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A1R2R|micahstubbs> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QV8TB9\/splitting_the_topic_strings_into_an_array.js|splitting the topic strings into an array>",
+        "file": {
+            "id": "F08QV8TB9",
+            "created": 1439047364,
+            "timestamp": 1439047364,
+            "name": "splitting_the_topic_strings_into_an_array.js",
+            "title": "splitting the topic strings into an array",
+            "mimetype": "text\/plain",
+            "filetype": "javascript",
+            "pretty_type": "JavaScript\/JSON",
+            "user": "U061A1R2R",
+            "editable": true,
+            "size": 113,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QV8TB9\/splitting_the_topic_strings_into_an_array.js?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QV8TB9\/download\/splitting_the_topic_strings_into_an_array.js?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QV8TB9\/splitting_the_topic_strings_into_an_array.js",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QV8TB9-e158a5365a",
+            "edit_link": "https:\/\/houstondatavis.slack.com\/files\/micahstubbs\/F08QV8TB9\/splitting_the_topic_strings_into_an_array.js\/edit",
+            "preview": "\/\/ topics are a comma separated string\nvar topic  = data[1][\"topics\"];\n\nvar topicArray =  topic.split(\/,\\s?\/);",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">\/\/ topics are a comma separated string<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">topic<\/span>  <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">data<\/span>[<span class=\"cm-number\">1<\/span>][<span class=\"cm-string\">&quot;topics&quot;<\/span>];<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">var<\/span> <span class=\"cm-variable\">topicArray<\/span> <span class=\"cm-operator\">=<\/span>  <span class=\"cm-variable\">topic<\/span>.<span class=\"cm-property\">split<\/span>(<span class=\"cm-string-2\">\/,\\s?\/<\/span>);<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 4,
+            "lines_more": 0,
+            "channels": [
+                "C08QUCF3R"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U061A1R2R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A1R2R|micahstubbs>",
+        "bot_id": null,
+        "ts": "1439047365.000015"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "for testing regexes",
+        "ts": "1439047571.000017"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<http:\/\/www.regexr.com\/>",
+        "attachments": [
+            {
+                "text": "Regular expression tester with syntax highlighting, contextual help, video tutorial, reference, and searchable community patterns.",
+                "fallback": "Regular expression tester with syntax highlighting, contextual help, video tutorial, reference, and searchable community patterns.",
+                "from_url": "http:\/\/www.regexr.com\/",
+                "id": 1
+            }
+        ],
+        "ts": "1439047571.000018"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/rubular.com\/>",
+        "attachments": [
+            {
+                "text": "Rubular is a Ruby-based regular expression editor and tester. It's a handy way to test regular expressions as you write them. Rubular is an especially good fit for Ruby and Rails developers, since it uses Ruby on the server to evaluate regexes, but should also be useful for those working in other programming languages and frameworks (Java, PHP, Python, Javascript, etc.)",
+                "fallback": "Rubular is a Ruby-based regular expression editor and tester. It's a handy way to test regular expressions as you write them. Rubular is an especially good fit for Ruby and Rails developers, since it uses Ruby on the server to evaluate regexes, but should also be useful for those working in other programming languages and frameworks (Java, PHP, Python, Javascript, etc.)",
+                "from_url": "http:\/\/rubular.com\/",
+                "id": 1
+            }
+        ],
+        "ts": "1439047577.000020"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "<https:\/\/github.com\/Gregism\/datajam>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Gregism\/datajam",
+                "title_link": "https:\/\/github.com\/Gregism\/datajam",
+                "text": "Contribute to datajam development by creating an account on GitHub.",
+                "fallback": "GitHub: Gregism\/datajam",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/1307192?v=3&s=400",
+                "from_url": "https:\/\/github.com\/Gregism\/datajam",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1439047625.000022"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "<http:\/\/gregism.github.io\/datajam\/>",
+        "ts": "1439047854.000024"
+    },
+    {
+        "user": "U08QVMBSS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QVMBSS|nbhossain> has joined the channel",
+        "ts": "1439049329.000025"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U08QVMBSS|nbhossain> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/nbhossain\/F08QWS7MH\/texas_zip_code_shapes.kml|Texas Zip Code Shapes.kml>",
+        "file": {
+            "id": "F08QWS7MH",
+            "created": 1439053091,
+            "timestamp": 1439053091,
+            "name": "Texas Zip Code Shapes.kml",
+            "title": "Texas Zip Code Shapes.kml",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U08QVMBSS",
+            "editable": false,
+            "size": 10628402,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QWS7MH\/texas_zip_code_shapes.kml?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F08QWS7MH\/download\/texas_zip_code_shapes.kml?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/nbhossain\/F08QWS7MH\/texas_zip_code_shapes.kml",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F08QWS7MH-38a25cff08",
+            "channels": [
+                "C08QUCF3R"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U08QVMBSS",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U08QVMBSS|nbhossain>",
+        "bot_id": null,
+        "ts": "1439053095.000026"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "welcome <@U08QVMBSS> :simple_smile:",
+        "ts": "1439053892.000027"
+    },
+    {
+        "type": "message",
+        "user": "U08QUGTA4",
+        "text": "to install R in project Jupyter using Anaconda\n\nconda install -c r ipython-notebook r-irkernel",
+        "ts": "1439054636.000028"
+    },
+    {
+        "type": "message",
+        "user": "U066H4AKX",
+        "text": "fusiontable for future reference",
+        "ts": "1439055034.000029"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": ":+1:",
+        "ts": "1439055314.000030"
+    },
+    {
+        "user": "U08QXDA68",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U08QXDA68|cdikibo> has joined the channel",
+        "ts": "1439055627.000031"
+    },
+    {
+        "type": "message",
+        "user": "U08QUGTA4",
+        "text": "<https:\/\/github.com\/mohanrajendran\/data-jam>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "mohanrajendran\/data-jam",
+                "title_link": "https:\/\/github.com\/mohanrajendran\/data-jam",
+                "text": "Contribute to data-jam development by creating an account on GitHub.",
+                "fallback": "GitHub: mohanrajendran\/data-jam",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/4929558?v=3&s=400",
+                "from_url": "https:\/\/github.com\/mohanrajendran\/data-jam",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1439059211.000032"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "meetup topic adjacency matrix from Tim, Gerardo, and I :simple_smile:",
+        "ts": "1439062941.000034"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<http:\/\/bl.ocks.org\/micahstubbs\/1fa88ce2b089f8f04143>",
+        "ts": "1439062959.000035"
+    },
+    {
+        "type": "message",
+        "user": "U066MTL5U",
+        "text": "<!group> thanks for coming out ya'll! ",
+        "ts": "1439063812.000036"
+    }
+]

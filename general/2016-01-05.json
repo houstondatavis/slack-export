@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "user": "U064KUGRJ",
+        "text": "check out Nicholas Felton's skillshare class on data viz: <https:\/\/t.co\/odAahxmVPL>\napparently it's free this week!",
+        "attachments": [
+            {
+                "service_name": "Skillshare",
+                "title": "Condensing the News: An Introduction to Data Visualization",
+                "title_link": "https:\/\/www.skillshare.com\/classes\/design\/Condensing-the-News-An-Introduction-to-Data-Visualization\/1435958330?discount=ZFTUX&teacherRef=8606490&via=teacher-referral-partner&utm_source=Felton&utm_medium=teacher-referral-partner&utm_campaign=2016-01-05-Felton2-free",
+                "text": "Join information designer Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization! You'll learn how to build a data set, transform information into graphics, and unlock the storytelling power of data. This 90-minute class centers\u00a0on a fun project called \"condensing the news. \" Inspired by one of Nicholas's favorite prompts, you'll follow your curiosity, \u00a0studying a newspaper section's wo...",
+                "fallback": "Skillshare: Condensing the News: An Introduction to Data Visualization",
+                "thumb_url": "https:\/\/static.skillshare.com\/uploads\/video\/thumbnails\/2efe95f46496511f920b21aca49271cf\/original",
+                "video_html_width": "480",
+                "video_html_height": "270",
+                "video_url": "https:\/\/www.skillshare.com\/sessions\/download?id=2141052",
+                "from_url": "https:\/\/www.skillshare.com\/classes\/design\/Condensing-the-News-An-Introduction-to-Data-Visualization\/1435958330?discount=ZFTUX&teacherRef=8606490&via=teacher-referral-partner&utm_source=Felton&utm_medium=teacher-referral-partner&utm_campaign=2016-01-05-Felton2-free",
+                "thumb_width": 1438,
+                "thumb_height": 805,
+                "id": 1
+            }
+        ],
+        "ts": "1452031875.000002",
+        "reactions": [
+            {
+                "name": "clap::skin-tone-3",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "that's awesome!",
+        "ts": "1452035841.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "a few of us went to his talk at sundance theater downtown, it was really cool",
+        "ts": "1452035880.000005",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U061A3E0G",
+        "text": "it was! Curious who has a copy of the final report coming?",
+        "ts": "1452036363.000006"
+    }
+]

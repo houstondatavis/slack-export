@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U061A3E0G|javier> uploaded a file: <https:\/\/houstondatavis.slack.com\/files\/javier\/F076EQ6KE\/20150621_154748_635.jpg|Texas Cartogram> and commented: the Antiquarium is amazing! <@U061A1R2R> and I visited recently, let me know if anyone wants to check it  out.",
+        "file": {
+            "id": "F076EQ6KE",
+            "created": 1435962606,
+            "timestamp": 1435962606,
+            "name": "20150621_154748_635.jpg",
+            "title": "Texas Cartogram",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U061A3E0G",
+            "editable": false,
+            "size": 999267,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F076EQ6KE\/20150621_154748_635.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T061A2UFL-F076EQ6KE\/download\/20150621_154748_635.jpg?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_64.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_80.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_360.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_360_w": 360,
+            "thumb_360_h": 264,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_480.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_480_w": 480,
+            "thumb_480_h": 352,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_160.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_720.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_720_w": 720,
+            "thumb_720_h": 529,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_960.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_960_w": 960,
+            "thumb_960_h": 705,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T061A2UFL-F076EQ6KE-342df6d8a2\/20150621_154748_635_1024.png?t=xoxe-6044096530-64812438883-64868151655-320c71e4d7",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 752,
+            "image_exif_rotation": 1,
+            "original_w": 2528,
+            "original_h": 1856,
+            "permalink": "https:\/\/houstondatavis.slack.com\/files\/javier\/F076EQ6KE\/20150621_154748_635.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T061A2UFL-F076EQ6KE-3d95c0fd60",
+            "channels": [
+                "C061A2UGJ"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc076ETELT",
+                "created": 1435962620,
+                "timestamp": 1435962620,
+                "user": "U061A3E0G",
+                "is_intro": true,
+                "comment": "the Antiquarium is amazing! <@U061A1R2R> and I visited recently, let me know if anyone wants to check it  out.",
+                "channel": ""
+            }
+        },
+        "user": "U061A3E0G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U061A3E0G|javier>",
+        "bot_id": null,
+        "ts": "1435962620.000002"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "is there some python data analysis workshop or something today?",
+        "ts": "1468694095.000053"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "Yes, I think Ted\u2019s class is today and tomorrow",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1468694994.000000"
+        },
+        "ts": "1468694975.000054"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "<https:\/\/www.eventbrite.com\/e\/introductory-data-exploration-with-python-2-day-course-tickets-25675106936>",
+        "edited": {
+            "user": "U061A5N1G",
+            "ts": "1468695656.000000"
+        },
+        "ts": "1468694979.000055",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061A1R2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1GGRN36X",
+        "text": "Thanks <@U061A5N1G> for the info! Unfortunately looks like sold out :disappointed:",
+        "ts": "1468709293.000059"
+    }
+]

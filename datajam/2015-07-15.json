@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "a graph vis datajam would be cool ",
+        "ts": "1437005070.000002"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<https:\/\/snap.stanford.edu\/data\/>",
+        "ts": "1437005072.000003"
+    },
+    {
+        "type": "message",
+        "user": "U061A1R2R",
+        "text": "<@U061A5N1G> ",
+        "ts": "1437005082.000004"
+    },
+    {
+        "type": "message",
+        "user": "U061A5N1G",
+        "text": "I have yet to do a lot of stuff with network data so it'd be fun to try",
+        "ts": "1437005875.000002"
+    }
+]
